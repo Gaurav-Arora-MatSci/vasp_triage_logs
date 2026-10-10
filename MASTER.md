@@ -467,3 +467,20 @@ All my jobs in the queue: 2
 Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac: 2
   running or pending: 2
 
+======================================================================
+2026-10-10 18:22 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 1
+  running: 1
+
+All my jobs in the queue: 2
+  pending: 1
+  running: 1
+  free slots under limit 15: 13
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac: 2
+  crashed after reaching accuracy: 1
+  running or pending: 1
+

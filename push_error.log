@@ -1,4 +1,0 @@
-
-(gnome-ssh-askpass:1424334): Gtk-WARNING **: 09:32:24.235: cannot open display: 
-error: unable to read askpass response from '/usr/libexec/openssh/gnome-ssh-askpass'
-fatal: could not read Username for 'https://github.com': Input/output error

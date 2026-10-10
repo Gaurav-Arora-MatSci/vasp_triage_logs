@@ -275,3 +275,19 @@ Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-producti
   crashed after reaching accuracy: 1
   running or pending: 1
 
+======================================================================
+2026-10-10 07:48 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage submit --status crashed after reaching accuracy --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+Result: finished
+
+Jobs in queue: 6 of limit 15
+Note: reached required accuracy before the job died. Fix the cause, then this should finish quickly: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/1-SQS
+
+Folders to submit: 1
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/1-SQS  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 1: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/1-SQS
+CONTCAR copied to POSCAR: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/1-SQS
+Submitted job 59632926: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/1-SQS
+
+Submitted: 1
+

@@ -164,3 +164,10 @@ Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-producti
   crashed after reaching accuracy: 1
   running or pending: 1
 
+======================================================================
+2026-10-10 07:48 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage list converged
+Result: 0 folders
+
+No folder has that status.
+

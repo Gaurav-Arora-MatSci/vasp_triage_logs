@@ -316,3 +316,18 @@ Needs a look:
   /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/8-W10-1vac/2-elastic/2-MEC/strain_calcs/C44/strain_+1% [SCF at NELM]
   /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/8-W10-1vac/2-elastic/2-MEC/strain_calcs/C44/strain_-1% [SCF at NELM]
 
+======================================================================
+2026-10-10 14:48 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 2
+  running: 2
+
+All my jobs in the queue: 2
+  running: 2
+  free slots under limit 15: 13
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac: 2
+  running or pending: 2
+

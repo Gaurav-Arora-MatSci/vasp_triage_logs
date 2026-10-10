@@ -291,3 +291,21 @@ Submitted job 59632926: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elasti
 
 Submitted: 1
 
+======================================================================
+2026-10-10 07:49 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/8-W10-1vac/2-elastic/2-MEC
+$ vtriage status /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/8-W10-1vac/2-elastic/2-MEC
+Result: checked
+
+My jobs in the queue: 7
+  pending: 2
+  running: 5
+  free slots under limit 15: 8
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/8-W10-1vac/2-elastic/2-MEC: 15
+  crashed after reaching accuracy: 10
+  running or pending: 5
+
+Needs a look:
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/8-W10-1vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-1% [SCF at NELM]
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/8-W10-1vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+0% [SCF at NELM]
+

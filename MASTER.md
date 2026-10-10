@@ -85,6 +85,19 @@ Submitted job 3586868: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_traini
 Submitted: 10
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-10 16:41 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage status
+Result: checked
+
+My jobs in the queue: 10
+  pending: 10
+  free slots under limit 10: 0
+
+Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 100
+  running or pending: 10
+  not submitted: 90
+
 
 #######  perlmutter  #######
 

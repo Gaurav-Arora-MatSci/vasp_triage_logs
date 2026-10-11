@@ -371,3 +371,14 @@ All my jobs in the queue: 0
 Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac: 2
   crashed after reaching accuracy: 2
 
+======================================================================
+2026-10-11 07:10 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage history /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+Result: finished
+
+Archived as run 2: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/1-SQS
+Archived as run 2: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/2-MEC
+
+Summary:
+  archived: 2
+

@@ -936,3 +936,23 @@ Submitted job 59675703: /pscratch/sd/g/garora/vt_test/C11/6
 Submitted: 3
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-11 10:30 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto submit
+Result: up to 7 jobs
+
+2026-10-11 10:30 folders: 10, not submitted: 4, in queue: 0
+
+Folders to submit: 4
+  /pscratch/sd/g/garora/vt_test/C12/1
+  /pscratch/sd/g/garora/vt_test/C12/2
+  /pscratch/sd/g/garora/vt_test/C44/x
+  /pscratch/sd/g/garora/vt_test/C44/y
+Confirmed by --yes.
+Submitted job 59675744: /pscratch/sd/g/garora/vt_test/C12/1
+Submitted job 59675745: /pscratch/sd/g/garora/vt_test/C12/2
+Submitted job 59675746: /pscratch/sd/g/garora/vt_test/C44/x
+Submitted job 59675747: /pscratch/sd/g/garora/vt_test/C44/y
+
+Submitted: 4
+

@@ -989,3 +989,133 @@ All my jobs in the queue: 2
 
 Folders under /pscratch/sd/g/garora/vt_test: 0
 
+======================================================================
+2026-10-11 10:55 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto submit
+Result: up to 3 jobs
+
+2026-10-11 10:55 folders: 11, not submitted: 11, in queue: 0
+
+Folders to submit: 3
+  /pscratch/sd/g/garora/vt_test
+  /pscratch/sd/g/garora/vt_test/C11/1
+  /pscratch/sd/g/garora/vt_test/C11/2
+Not submitted now because of the limits: 8
+Confirmed by --yes.
+sbatch failed in /pscratch/sd/g/garora/vt_test
+  sbatch: error: Job cost estimated at 0.17 node hours, your balance is 0.00 node hours (Repo: 0.00 node hours). Cannot proceed, please see https://docs.nersc.gov/jobs/policy/ for your options to run this job.
+sbatch: error: Batch job submission failed: Unspecified error
+sbatch failed in /pscratch/sd/g/garora/vt_test/C11/1
+  sbatch: error: Job cost estimated at 0.17 node hours, your balance is 0.00 node hours (Repo: 0.00 node hours). Cannot proceed, please see https://docs.nersc.gov/jobs/policy/ for your options to run this job.
+sbatch: error: Batch job submission failed: Unspecified error
+sbatch failed in /pscratch/sd/g/garora/vt_test/C11/2
+  sbatch: error: Job cost estimated at 0.17 node hours, your balance is 0.00 node hours (Repo: 0.00 node hours). Cannot proceed, please see https://docs.nersc.gov/jobs/policy/ for your options to run this job.
+sbatch: error: Batch job submission failed: Unspecified error
+
+Submitted: 0
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-11 10:55 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage edit --status not submitted --remove KPAR --remove NCORE --remove LCHARGE --set NSW=0 --set EDIFF=1E-05 --set LREAL=.FALSE.
+Result: finished
+
+
+/pscratch/sd/g/garora/vt_test
+  LREAL: .FALSE.       (Projection operators: automatic) -> .FALSE.
+  EDIFF: 1E-08        (SCF energy convergence, in eV) -> 1E-05
+  NSW: 100          (Max ionic steps) -> 0
+
+/pscratch/sd/g/garora/vt_test/C11/1
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C11/2
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C11/3
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C11/4
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C11/5
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C11/6
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C12/1
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C12/2
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C44/x
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+/pscratch/sd/g/garora/vt_test/C44/y
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 16)
+
+Folders to change: 11
+Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_test
+Changed: /pscratch/sd/g/garora/vt_test/C11/1
+Changed: /pscratch/sd/g/garora/vt_test/C11/2
+Changed: /pscratch/sd/g/garora/vt_test/C11/3
+Changed: /pscratch/sd/g/garora/vt_test/C11/4
+Changed: /pscratch/sd/g/garora/vt_test/C11/5
+Changed: /pscratch/sd/g/garora/vt_test/C11/6
+Changed: /pscratch/sd/g/garora/vt_test/C12/1
+Changed: /pscratch/sd/g/garora/vt_test/C12/2
+Changed: /pscratch/sd/g/garora/vt_test/C44/x
+Changed: /pscratch/sd/g/garora/vt_test/C44/y
+

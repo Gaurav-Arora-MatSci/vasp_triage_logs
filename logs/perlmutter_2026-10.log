@@ -734,3 +734,29 @@ Folders to change: 2
 Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_test/C12/1
 Changed: /pscratch/sd/g/garora/vt_test/C12/2
 
+======================================================================
+2026-10-11 10:20 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto submit
+Result: up to 3 jobs
+
+2026-10-11 10:20 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 3
+  /pscratch/sd/g/garora/vt_test/C11/1
+  /pscratch/sd/g/garora/vt_test/C11/2
+  /pscratch/sd/g/garora/vt_test/C11/3
+Not submitted now because of the limits: 7
+Confirmed by --yes.
+sbatch failed in /pscratch/sd/g/garora/vt_test/C11/1
+  sbatch: error: Job cost estimated at 0.17 node hours, your balance is 0.00 node hours (Repo: 0.00 node hours). Cannot proceed, please see https://docs.nersc.gov/jobs/policy/ for your options to run this job.
+sbatch: error: Batch job submission failed: Unspecified error
+sbatch failed in /pscratch/sd/g/garora/vt_test/C11/2
+  sbatch: error: Job cost estimated at 0.17 node hours, your balance is 0.00 node hours (Repo: 0.00 node hours). Cannot proceed, please see https://docs.nersc.gov/jobs/policy/ for your options to run this job.
+sbatch: error: Batch job submission failed: Unspecified error
+sbatch failed in /pscratch/sd/g/garora/vt_test/C11/3
+  sbatch: error: Job cost estimated at 0.17 node hours, your balance is 0.00 node hours (Repo: 0.00 node hours). Cannot proceed, please see https://docs.nersc.gov/jobs/policy/ for your options to run this job.
+sbatch: error: Batch job submission failed: Unspecified error
+
+Submitted: 0
+Run the same command again later for the next batch.
+

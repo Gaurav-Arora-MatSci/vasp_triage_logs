@@ -956,3 +956,23 @@ Submitted job 59675747: /pscratch/sd/g/garora/vt_test/C44/y
 
 Submitted: 4
 
+======================================================================
+2026-10-11 10:33 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto finish
+Result: campaign done
+
+vasp_triage auto agent finished
+Date: 2026-10-11 10:33
+Root: /pscratch/sd/g/garora/vt_test
+Path patterns: none, every folder
+
+Folders: 10
+  converged: 8
+  ionic not converged: 2
+
+Folders that need a look: 2
+  ionic not converged | /pscratch/sd/g/garora/vt_test/C12/1
+  ionic not converged | /pscratch/sd/g/garora/vt_test/C12/2
+
+Email: Submitted batch job 59675808, to gauravarora.1100@gmail.com
+

@@ -358,3 +358,16 @@ crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEA
 crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/2-MEC
     slurm-59632854.out: [2026-10-11T06:35:39.886] error: Detected 1 oom_kill event in StepId=59632854.0. Some of the step tasks have been OOM Killed.
 
+======================================================================
+2026-10-11 07:10 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage status /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 15: 15
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac: 2
+  crashed after reaching accuracy: 2
+

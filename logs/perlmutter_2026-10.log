@@ -840,3 +840,16 @@ Folders that need a look: 2
 
 Email: Submitted batch job 59675808, to gauravarora.1100@gmail.com
 
+======================================================================
+2026-10-11 10:40 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 2
+  running: 2
+  free slots under limit 15: 13
+
+Folders under /pscratch/sd/g/garora/vt_test: 0
+

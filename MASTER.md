@@ -589,3 +589,19 @@ Folders to submit: 10
   /pscratch/sd/g/garora/vt_test/C44/y
 Type yes to save each run and submit: Cancelled. Nothing submitted.
 
+======================================================================
+2026-10-11 09:42 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage submit --status not submitted --root /pscratch/sd/g/garora/vt_test --path=C11/{2..6}
+Result: finished
+
+Jobs in queue: 2 of limit 15
+Path filter kept 5 of 10 folders.
+
+Folders to submit: 5
+  /pscratch/sd/g/garora/vt_test/C11/2
+  /pscratch/sd/g/garora/vt_test/C11/3
+  /pscratch/sd/g/garora/vt_test/C11/4
+  /pscratch/sd/g/garora/vt_test/C11/5
+  /pscratch/sd/g/garora/vt_test/C11/6
+Type yes to save each run and submit: Cancelled. Nothing submitted.
+

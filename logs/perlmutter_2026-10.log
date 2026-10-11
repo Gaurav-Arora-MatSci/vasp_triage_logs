@@ -542,3 +542,18 @@ All my jobs in the queue: 2
 Folders under /pscratch/sd/g/garora/vt_test: 10
   not submitted: 10
 
+======================================================================
+2026-10-11 09:55 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 2
+  pending: 1
+  running: 1
+  free slots under limit 15: 13
+
+Folders under /pscratch/sd/g/garora/vt_test: 10
+  not submitted: 10
+

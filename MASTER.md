@@ -896,3 +896,23 @@ sbatch: error: Batch job submission failed: Unspecified error
 Submitted: 0
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-11 10:21 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto submit
+Result: up to 3 jobs
+
+2026-10-11 10:20 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 3
+  /pscratch/sd/g/garora/vt_test/C11/1
+  /pscratch/sd/g/garora/vt_test/C11/2
+  /pscratch/sd/g/garora/vt_test/C11/3
+Not submitted now because of the limits: 7
+Confirmed by --yes.
+Submitted job 59675578: /pscratch/sd/g/garora/vt_test/C11/1
+Submitted job 59675579: /pscratch/sd/g/garora/vt_test/C11/2
+Submitted job 59675580: /pscratch/sd/g/garora/vt_test/C11/3
+
+Submitted: 3
+Run the same command again later for the next batch.
+

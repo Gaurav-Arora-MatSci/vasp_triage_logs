@@ -348,3 +348,13 @@ Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-producti
   crashed after reaching accuracy: 1
   running or pending: 1
 
+======================================================================
+2026-10-11 07:09 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 2 folders
+
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/1-SQS
+    slurm-59632926.out: [2026-10-10T22:13:11.779] error: Detected 1 oom_kill event in StepId=59632926.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/1-relaxing/2-MEC
+    slurm-59632854.out: [2026-10-11T06:35:39.886] error: Detected 1 oom_kill event in StepId=59632854.0. Some of the step tasks have been OOM Killed.
+

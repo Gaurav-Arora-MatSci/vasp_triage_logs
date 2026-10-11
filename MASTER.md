@@ -753,3 +753,101 @@ All my jobs in the queue: 2
 Folders under /pscratch/sd/g/garora/vt_test/C11: 6
   not submitted: 6
 
+======================================================================
+2026-10-11 10:17 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage edit --status not submitted --remove KPAR --remove NCORE --remove LCHARGE --set NSW=0 --set EDIFF=1E-05 --set LREAL=.FALSE.
+Result: finished
+
+
+/pscratch/sd/g/garora/vt_test/C11/1
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C11/2
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C11/3
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C11/4
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C11/5
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C11/6
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C12/1
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C12/2
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C44/x
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+/pscratch/sd/g/garora/vt_test/C44/y
+  EDIFF: 1E-07 -> 1E-05
+  NSW: 100 -> 0
+  LREAL: Auto -> .FALSE.
+  remove LCHARGE (was .FALSE)
+  remove KPAR (was 14)
+  remove NCORE (was 32)
+
+Folders to change: 10
+Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_test/C11/1
+Changed: /pscratch/sd/g/garora/vt_test/C11/2
+Changed: /pscratch/sd/g/garora/vt_test/C11/3
+Changed: /pscratch/sd/g/garora/vt_test/C11/4
+Changed: /pscratch/sd/g/garora/vt_test/C11/5
+Changed: /pscratch/sd/g/garora/vt_test/C11/6
+Changed: /pscratch/sd/g/garora/vt_test/C12/1
+Changed: /pscratch/sd/g/garora/vt_test/C12/2
+Changed: /pscratch/sd/g/garora/vt_test/C44/x
+Changed: /pscratch/sd/g/garora/vt_test/C44/y
+

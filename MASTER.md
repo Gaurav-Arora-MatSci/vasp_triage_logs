@@ -1119,3 +1119,22 @@ Changed: /pscratch/sd/g/garora/vt_test/C12/2
 Changed: /pscratch/sd/g/garora/vt_test/C44/x
 Changed: /pscratch/sd/g/garora/vt_test/C44/y
 
+======================================================================
+2026-10-11 10:55 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage edit --status not submitted --path C12/* --set NSW=1 --set IBRION=2
+Result: finished
+
+Path filter kept 2 of 11 folders.
+
+/pscratch/sd/g/garora/vt_test/C12/1
+  IBRION: 1 -> 2
+  NSW: 0 -> 1
+
+/pscratch/sd/g/garora/vt_test/C12/2
+  IBRION: 1 -> 2
+  NSW: 0 -> 1
+
+Folders to change: 2
+Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_test/C12/1
+Changed: /pscratch/sd/g/garora/vt_test/C12/2
+

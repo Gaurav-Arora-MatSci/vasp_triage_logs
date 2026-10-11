@@ -479,3 +479,51 @@ No selected folder matches: C77
 Path filter kept 0 of 10 folders.
 No folders selected.
 
+======================================================================
+2026-10-11 09:45 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage edit --status not submitted --root /pscratch/sd/g/garora/vt_test --set NCORE=32
+Result: finished
+
+
+/pscratch/sd/g/garora/vt_test/C11/1
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C11/2
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C11/3
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C11/4
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C11/5
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C11/6
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C12/1
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C12/2
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C44/x
+  NCORE: 16 -> 32
+
+/pscratch/sd/g/garora/vt_test/C44/y
+  NCORE: 16 -> 32
+
+Folders to change: 10
+Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_test/C11/1
+Changed: /pscratch/sd/g/garora/vt_test/C11/2
+Changed: /pscratch/sd/g/garora/vt_test/C11/3
+Changed: /pscratch/sd/g/garora/vt_test/C11/4
+Changed: /pscratch/sd/g/garora/vt_test/C11/5
+Changed: /pscratch/sd/g/garora/vt_test/C11/6
+Changed: /pscratch/sd/g/garora/vt_test/C12/1
+Changed: /pscratch/sd/g/garora/vt_test/C12/2
+Changed: /pscratch/sd/g/garora/vt_test/C44/x
+Changed: /pscratch/sd/g/garora/vt_test/C44/y
+

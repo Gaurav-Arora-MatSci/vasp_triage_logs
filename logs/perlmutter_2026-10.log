@@ -433,3 +433,23 @@ All my jobs in the queue: 2
 Folders under /pscratch/sd/g/garora/vt_test: 10
   not submitted: 10
 
+======================================================================
+2026-10-11 09:40 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage submit --status not submitted --root /pscratch/sd/g/garora/vt_test
+Result: finished
+
+Jobs in queue: 2 of limit 15
+
+Folders to submit: 10
+  /pscratch/sd/g/garora/vt_test/C11/1
+  /pscratch/sd/g/garora/vt_test/C11/2
+  /pscratch/sd/g/garora/vt_test/C11/3
+  /pscratch/sd/g/garora/vt_test/C11/4
+  /pscratch/sd/g/garora/vt_test/C11/5
+  /pscratch/sd/g/garora/vt_test/C11/6
+  /pscratch/sd/g/garora/vt_test/C12/1
+  /pscratch/sd/g/garora/vt_test/C12/2
+  /pscratch/sd/g/garora/vt_test/C44/x
+  /pscratch/sd/g/garora/vt_test/C44/y
+Type yes to save each run and submit: Cancelled. Nothing submitted.
+

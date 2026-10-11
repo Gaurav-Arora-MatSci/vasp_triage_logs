@@ -537,3 +537,20 @@ Submitted job 59671004: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elasti
 
 Submitted: 2
 
+======================================================================
+2026-10-11 09:30 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage status /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+Result: checked
+
+Jobs from this folder: 2
+  pending: 1
+  running: 1
+
+All my jobs in the queue: 2
+  pending: 1
+  running: 1
+  free slots under limit 15: 13
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac: 2
+  running or pending: 2
+

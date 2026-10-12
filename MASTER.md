@@ -2010,3 +2010,217 @@ Folders to change: 2
 Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_test/C12/1
 Changed: /pscratch/sd/g/garora/vt_test/C12/2
 
+======================================================================
+2026-10-11 11:00 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto submit
+Result: up to 3 jobs
+
+2026-10-11 11:00 folders: 11, not submitted: 11, in queue: 0
+
+Folders to submit: 3
+  /pscratch/sd/g/garora/vt_test
+  /pscratch/sd/g/garora/vt_test/C11/1
+  /pscratch/sd/g/garora/vt_test/C11/2
+Not submitted now because of the limits: 8
+Confirmed by --yes.
+Submitted job 59676377: /pscratch/sd/g/garora/vt_test
+Submitted job 59676379: /pscratch/sd/g/garora/vt_test/C11/1
+Submitted job 59676380: /pscratch/sd/g/garora/vt_test/C11/2
+
+Submitted: 3
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-11 11:05 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto submit
+Result: up to 3 jobs
+
+2026-10-11 11:05 folders: 11, not submitted: 8, in queue: 0
+
+Folders to submit: 3
+  /pscratch/sd/g/garora/vt_test/C11/3
+  /pscratch/sd/g/garora/vt_test/C11/4
+  /pscratch/sd/g/garora/vt_test/C11/5
+Not submitted now because of the limits: 5
+Confirmed by --yes.
+Submitted job 59676470: /pscratch/sd/g/garora/vt_test/C11/3
+Submitted job 59676472: /pscratch/sd/g/garora/vt_test/C11/4
+Submitted job 59676476: /pscratch/sd/g/garora/vt_test/C11/5
+
+Submitted: 3
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-11 11:10 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto submit
+Result: up to 3 jobs
+
+2026-10-11 11:10 folders: 11, not submitted: 5, in queue: 0
+
+Folders to submit: 3
+  /pscratch/sd/g/garora/vt_test/C11/6
+  /pscratch/sd/g/garora/vt_test/C12/1
+  /pscratch/sd/g/garora/vt_test/C12/2
+Not submitted now because of the limits: 2
+Confirmed by --yes.
+Submitted job 59676577: /pscratch/sd/g/garora/vt_test/C11/6
+Submitted job 59676580: /pscratch/sd/g/garora/vt_test/C12/1
+Submitted job 59676581: /pscratch/sd/g/garora/vt_test/C12/2
+
+Submitted: 3
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-11 11:15 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto submit
+Result: up to 3 jobs
+
+2026-10-11 11:15 folders: 11, not submitted: 2, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_test/C44/x
+  /pscratch/sd/g/garora/vt_test/C44/y
+Confirmed by --yes.
+Submitted job 59676672: /pscratch/sd/g/garora/vt_test/C44/x
+Submitted job 59676673: /pscratch/sd/g/garora/vt_test/C44/y
+
+Submitted: 2
+
+======================================================================
+2026-10-11 11:20 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage auto finish
+Result: campaign done
+
+vasp_triage auto agent finished
+Date: 2026-10-11 11:20
+Root: /pscratch/sd/g/garora/vt_test
+Path patterns: none, every folder
+
+Folders: 11
+  converged: 9
+  ionic not converged: 2
+
+Folders that need a look: 2
+  ionic not converged | /pscratch/sd/g/garora/vt_test/C12/1
+  ionic not converged | /pscratch/sd/g/garora/vt_test/C12/2
+
+Email: Submitted batch job 59676793, to gauravarora.1100@gmail.com
+
+======================================================================
+2026-10-11 11:26 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 3
+  pending: 1
+  running: 2
+  free slots under limit 15: 12
+
+Folders under /pscratch/sd/g/garora/vt_test: 11
+  converged: 9
+  ionic not converged: 2
+
+======================================================================
+2026-10-11 13:40 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage submit --status converged --path C11/*
+Result: finished
+
+Jobs in queue: 0 of limit 15
+Path filter kept 6 of 9 folders.
+Converged, skipped (use --force): /pscratch/sd/g/garora/vt_test/C11/1
+Converged, skipped (use --force): /pscratch/sd/g/garora/vt_test/C11/2
+Converged, skipped (use --force): /pscratch/sd/g/garora/vt_test/C11/3
+Converged, skipped (use --force): /pscratch/sd/g/garora/vt_test/C11/4
+Converged, skipped (use --force): /pscratch/sd/g/garora/vt_test/C11/5
+Converged, skipped (use --force): /pscratch/sd/g/garora/vt_test/C11/6
+Nothing to submit.
+
+======================================================================
+2026-10-11 13:40 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 15: 15
+
+Folders under /pscratch/sd/g/garora/vt_test: 11
+  converged: 9
+  ionic not converged: 2
+
+======================================================================
+2026-10-12 10:30 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 15: 15
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac: 2
+  crashed after reaching accuracy: 2
+
+======================================================================
+2026-10-12 10:37 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS
+$ vtriage submit --status not submitted --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS
+Result: finished
+
+Jobs in queue: 0 of limit 15
+
+Folders to submit: 15
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_-2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_-2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_-2%
+Type yes to save each run and submit: Submitted job 59707138: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+0%
+Submitted job 59707139: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+1%
+Submitted job 59707140: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+2%
+Submitted job 59707141: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_-1%
+Submitted job 59707142: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_-2%
+Submitted job 59707143: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+0%
+Submitted job 59707144: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+1%
+Submitted job 59707145: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+2%
+Submitted job 59707146: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_-1%
+Submitted job 59707147: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_-2%
+Submitted job 59707148: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+0%
+Submitted job 59707149: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+1%
+Submitted job 59707150: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+2%
+Submitted job 59707151: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_-1%
+Submitted job 59707152: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_-2%
+
+Submitted: 15
+
+======================================================================
+2026-10-12 12:09 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 13
+  pending: 11
+  running: 2
+
+All my jobs in the queue: 13
+  pending: 11
+  running: 2
+  free slots under limit 15: 2
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic: 16
+  running or pending: 13
+  not submitted: 2
+  missing inputs: 1
+

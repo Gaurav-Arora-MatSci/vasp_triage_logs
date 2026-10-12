@@ -1003,6 +1003,20 @@ Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 1
   running or pending: 34
   not submitted: 66
 
+======================================================================
+2026-10-12 14:14 | Stampede | /home1/11532/garora/vasp_triage_logs
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 20
+  completing: 1
+  running: 19
+  free slots under limit 34: 14
+
+Folders under /home1/11532/garora/vasp_triage_logs: 0
+
 
 #######  perlmutter  #######
 

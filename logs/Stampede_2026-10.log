@@ -1018,3 +1018,46 @@ Result: finished
 Jobs in queue: 20 of limit 34
 No folders selected.
 
+======================================================================
+2026-10-12 14:17 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage submit --status not submitted --root /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+Result: finished
+
+Jobs in queue: 19 of limit 34
+
+Folders to submit: 15
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-034
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-035
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-036
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-037
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-038
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-039
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-040
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-041
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-042
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-043
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-044
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-045
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-046
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-047
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-048
+Not submitted now because of the limits: 51
+Type yes to save each run and submit: Submitted job 3592190: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-034
+Submitted job 3592191: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-035
+Submitted job 3592192: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-036
+Submitted job 3592193: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-037
+Submitted job 3592195: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-038
+Submitted job 3592196: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-039
+Submitted job 3592197: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-040
+Submitted job 3592198: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-041
+Submitted job 3592199: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-042
+Submitted job 3592200: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-043
+Submitted job 3592201: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-044
+Submitted job 3592202: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-045
+Submitted job 3592203: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-046
+Submitted job 3592204: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-047
+Submitted job 3592205: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-048
+
+Submitted: 15
+Run the same command again later for the next batch.
+

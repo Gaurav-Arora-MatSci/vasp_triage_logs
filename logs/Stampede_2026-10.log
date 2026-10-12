@@ -258,3 +258,15 @@ Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 1
   incomplete: 20
   not submitted: 80
 
+======================================================================
+2026-10-12 08:09 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage edit --group incomplete --set EDIFF=1E-05
+Result: failed, exit code 1
+
+Error: unknown group. Use one of:
+  converged
+  almost_converged
+  not_converged
+  failed
+  other
+

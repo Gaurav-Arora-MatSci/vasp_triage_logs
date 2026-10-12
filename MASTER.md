@@ -1017,6 +1017,14 @@ All my jobs in the queue: 20
 
 Folders under /home1/11532/garora/vasp_triage_logs: 0
 
+======================================================================
+2026-10-12 14:14 | Stampede | /home1/11532/garora/vasp_triage_logs
+$ vtriage submit --status not submitted --root /home1/11532/garora/vasp_triage_logs
+Result: finished
+
+Jobs in queue: 20 of limit 34
+No folders selected.
+
 
 #######  perlmutter  #######
 

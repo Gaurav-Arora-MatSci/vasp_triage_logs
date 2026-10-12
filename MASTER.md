@@ -2315,3 +2315,30 @@ All my jobs in the queue: 13
 Folders under /pscratch/sd/g/garora/vt_sched: 10
   not submitted: 10
 
+======================================================================
+2026-10-12 15:04 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage schedule --every 5m --batch 2 --queue-limit 20
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/vt_sched
+  folders: 10, not submitted: 10, in queue: 0
+  every 5m: */5 * * * * (times are UTC)
+  new jobs per cycle: 2, queue limit: 20
+  path patterns: none, every folder
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/vt_sched
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto
+  #SCRON -o /pscratch/sd/g/garora/vt_sched/auto_cron.log
+  #SCRON --open-mode=append
+  */5 * * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/vt_sched --batch 2 --queue-limit 20
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/vt_sched/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/vt_sched
+

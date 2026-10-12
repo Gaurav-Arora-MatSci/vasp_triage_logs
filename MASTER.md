@@ -2224,3 +2224,23 @@ Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-producti
   not submitted: 2
   missing inputs: 1
 
+======================================================================
+2026-10-12 12:14 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 13
+  pending: 11
+  running: 2
+
+All my jobs in the queue: 13
+  pending: 11
+  running: 2
+  free slots under limit 15: 2
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac: 18
+  crashed after reaching accuracy: 2
+  running or pending: 13
+  not submitted: 2
+  missing inputs: 1
+

@@ -2284,3 +2284,19 @@ Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-producti
   not submitted: 2
   missing inputs: 1
 
+======================================================================
+2026-10-12 14:56 | perlmutter | /pscratch/sd/g/garora/vt_test
+$ vtriage status /pscratch/sd/g/garora/vt_test
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 14
+  pending: 6
+  running: 8
+  free slots under limit 15: 1
+
+Folders under /pscratch/sd/g/garora/vt_test: 11
+  converged: 9
+  ionic not converged: 2
+

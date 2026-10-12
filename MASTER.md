@@ -2300,3 +2300,18 @@ Folders under /pscratch/sd/g/garora/vt_test: 11
   converged: 9
   ionic not converged: 2
 
+======================================================================
+2026-10-12 15:02 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 13
+  pending: 6
+  running: 7
+  free slots under limit 15: 2
+
+Folders under /pscratch/sd/g/garora/vt_sched: 10
+  not submitted: 10
+

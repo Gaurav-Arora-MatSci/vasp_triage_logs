@@ -487,6 +487,414 @@ Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-017
 Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-018
 Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-019
 
+======================================================================
+2026-10-12 08:11 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage edit --status not submitted --set EDIFFG=-1E-02 --set EDIFF=1E-05
+Result: finished
+
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-020
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-021
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-022
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-023
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-024
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-025
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-026
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-027
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-028
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-029
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-030
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-031
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-032
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-033
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-034
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-035
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-036
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-037
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-038
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-039
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-040
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-041
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-042
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-043
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-044
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-045
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-046
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-047
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-048
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-049
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-050
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-051
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-052
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-053
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-054
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-055
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-056
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-057
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-058
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-059
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-060
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-061
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-062
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-063
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-064
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-065
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-066
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-067
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-068
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-069
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-070
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-071
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-072
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-073
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-074
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-076
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-077
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-078
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-079
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-080
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-081
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-082
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-083
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-084
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-085
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-086
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-087
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-088
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-089
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-090
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-091
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-092
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-093
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-094
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-095
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-096
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-097
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-098
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+/work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-099
+  EDIFF: 1E-04 -> 1E-05
+  EDIFFG: -1E-03 -> -1E-02
+
+Folders to change: 80
+Type yes to save each run and apply the changes: Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-020
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-021
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-022
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-023
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-024
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-025
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-026
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-027
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-028
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-029
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-030
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-031
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-032
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-033
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-034
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-035
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-036
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-037
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-038
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-039
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-040
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-041
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-042
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-043
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-044
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-045
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-046
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-047
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-048
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-049
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-050
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-051
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-052
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-053
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-054
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-055
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-056
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-057
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-058
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-059
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-060
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-061
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-062
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-063
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-064
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-065
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-066
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-067
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-068
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-069
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-070
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-071
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-072
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-073
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-074
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-076
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-077
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-078
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-079
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-080
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-081
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-082
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-083
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-084
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-085
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-086
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-087
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-088
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-089
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-090
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-091
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-092
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-093
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-094
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-095
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-096
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-097
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-098
+Changed: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-099
+
 
 #######  perlmutter  #######
 

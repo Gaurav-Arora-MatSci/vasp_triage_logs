@@ -1334,3 +1334,21 @@ On confirm, the block is installed and one cycle runs at once.
 To confirm, run:
   vtriage confirm --root /pscratch/sd/g/garora/vt_sched
 
+======================================================================
+2026-10-12 15:05 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 15:05 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched/C11/1
+  /pscratch/sd/g/garora/vt_sched/C11/2
+Not submitted now because of the limits: 8
+Confirmed by --yes.
+Submitted job 59713644: /pscratch/sd/g/garora/vt_sched/C11/1
+Submitted job 59713652: /pscratch/sd/g/garora/vt_sched/C11/2
+
+Submitted: 2
+Run the same command again later for the next batch.
+

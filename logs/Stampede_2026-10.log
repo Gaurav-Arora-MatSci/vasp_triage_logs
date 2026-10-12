@@ -980,3 +980,19 @@ Submitted job 3590707: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_traini
 Submitted: 14
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-12 10:13 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 34
+  pending: 34
+
+All my jobs in the queue: 34
+  pending: 34
+  free slots under limit 34: 0
+
+Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 100
+  running or pending: 34
+  not submitted: 66
+

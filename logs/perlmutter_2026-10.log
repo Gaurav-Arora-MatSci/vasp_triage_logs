@@ -2178,3 +2178,25 @@ On confirm, the block is installed and one cycle runs at once.
 To confirm, run:
   vtriage confirm --root /pscratch/sd/g/garora/vt_agent1
 
+======================================================================
+2026-10-13 17:16 | perlmutter | /pscratch/sd/g/garora/vt_agent1
+$ vtriage auto submit
+Result: up to 5 jobs
+
+2026-10-13 17:16 folders: 10, not submitted: 5, in queue: 0
+
+Folders to submit: 5
+  /pscratch/sd/g/garora/vt_agent1/C11/6
+  /pscratch/sd/g/garora/vt_agent1/C12/1
+  /pscratch/sd/g/garora/vt_agent1/C12/2
+  /pscratch/sd/g/garora/vt_agent1/C44/x
+  /pscratch/sd/g/garora/vt_agent1/C44/y
+Confirmed by --yes.
+Submitted job 59752902: /pscratch/sd/g/garora/vt_agent1/C11/6
+Submitted job 59752903: /pscratch/sd/g/garora/vt_agent1/C12/1
+Submitted job 59752904: /pscratch/sd/g/garora/vt_agent1/C12/2
+Submitted job 59752905: /pscratch/sd/g/garora/vt_agent1/C44/x
+Submitted job 59752906: /pscratch/sd/g/garora/vt_agent1/C44/y
+
+Submitted: 5
+

@@ -3720,3 +3720,18 @@ Result: 2 folders
 not submitted | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+0%
 not submitted | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+0%
 
+======================================================================
+2026-10-13 15:48 | perlmutter | /pscratch/sd/g/garora/vt_agent1
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 10
+  pending: 1
+  running: 9
+  free slots under limit 15: 5
+
+Folders under /pscratch/sd/g/garora/vt_agent1: 10
+  not submitted: 10
+

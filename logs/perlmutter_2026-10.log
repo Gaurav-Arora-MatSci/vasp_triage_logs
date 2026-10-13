@@ -2373,3 +2373,67 @@ On confirm, the block is installed and one cycle runs at once.
 To confirm, run:
   vtriage confirm --root /pscratch/sd/g/garora/vt_agent2
 
+======================================================================
+2026-10-13 19:56 | perlmutter | /pscratch/sd/g/garora/vt_agent2
+$ vtriage auto submit
+Result: up to 5 jobs
+
+2026-10-13 19:56 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 5
+  /pscratch/sd/g/garora/vt_agent2/C11/1
+  /pscratch/sd/g/garora/vt_agent2/C11/2
+  /pscratch/sd/g/garora/vt_agent2/C11/3
+  /pscratch/sd/g/garora/vt_agent2/C11/4
+  /pscratch/sd/g/garora/vt_agent2/C11/5
+Not submitted now because of the limits: 5
+Confirmed by --yes.
+Submitted job 59758616: /pscratch/sd/g/garora/vt_agent2/C11/1
+Submitted job 59758617: /pscratch/sd/g/garora/vt_agent2/C11/2
+Submitted job 59758620: /pscratch/sd/g/garora/vt_agent2/C11/3
+Submitted job 59758621: /pscratch/sd/g/garora/vt_agent2/C11/4
+Submitted job 59758623: /pscratch/sd/g/garora/vt_agent2/C11/5
+
+Submitted: 5
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-13 19:56 | perlmutter | /pscratch/sd/g/garora/vt_agent2
+$ vtriage confirm
+Result: finished
+
+Installed in the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/vt_agent2
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_vt_agent2_c5bd2f
+  #SCRON -o /pscratch/sd/g/garora/vt_agent2/auto_cron.log
+  #SCRON --open-mode=append
+  */10 * * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/vt_agent2 --batch 5 --agent auto
+Old table saved in /pscratch/sd/g/garora/vt_agent2/scrontab_backup_20261013_195609.txt
+
+Running the first cycle now.
+2026-10-13 19:56 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 5
+  /pscratch/sd/g/garora/vt_agent2/C11/1
+  /pscratch/sd/g/garora/vt_agent2/C11/2
+  /pscratch/sd/g/garora/vt_agent2/C11/3
+  /pscratch/sd/g/garora/vt_agent2/C11/4
+  /pscratch/sd/g/garora/vt_agent2/C11/5
+Not submitted now because of the limits: 5
+Confirmed by --yes.
+Submitted job 59758616: /pscratch/sd/g/garora/vt_agent2/C11/1
+Submitted job 59758617: /pscratch/sd/g/garora/vt_agent2/C11/2
+Submitted job 59758620: /pscratch/sd/g/garora/vt_agent2/C11/3
+Submitted job 59758621: /pscratch/sd/g/garora/vt_agent2/C11/4
+Submitted job 59758623: /pscratch/sd/g/garora/vt_agent2/C11/5
+
+Submitted: 5
+Run the same command again later for the next batch.
+
+Check with: scrontab -l and squeue -u $USER
+Watch with: tail -f /pscratch/sd/g/garora/vt_agent2/auto_cron.log
+The entry removes itself after the email is sent.
+

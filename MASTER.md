@@ -3750,3 +3750,32 @@ All my jobs in the queue: 10
 Folders under /pscratch/sd/g/garora/vt_agent1: 10
   not submitted: 10
 
+======================================================================
+2026-10-13 16:02 | perlmutter | /pscratch/sd/g/garora/vt_agent1
+$ vtriage schedule --help
+Result: finished
+
+usage: schedule.py [-h] [--root ROOT] [--every EVERY] [--path PATH [PATH ...]]
+                   [--batch BATCH] [--queue-limit QUEUE_LIMIT]
+                   [--agent {off,ask,auto}]
+                   {plan,confirm,remove}
+
+Put the auto agent on scrontab or take it off.
+
+positional arguments:
+  {plan,confirm,remove}
+                        plan, confirm, or remove
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --root ROOT           campaign root, default is this folder
+  --every EVERY         time between cycles, such as 20m or 5h
+  --path PATH [PATH ...]
+                        path patterns such as C11/2, C11/*, or C11/{2..10};
+                        quote them in the shell
+  --batch BATCH         new jobs per cycle, default AUTO_BATCH
+  --queue-limit QUEUE_LIMIT
+                        my jobs allowed in the queue, default AUTO_QUEUE_LIMIT
+  --agent {off,ask,auto}
+                        decision agent for this campaign, default AGENT_MODE
+

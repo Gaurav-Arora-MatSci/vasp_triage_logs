@@ -2330,3 +2330,18 @@ Path filter kept 1 of 10 folders.
 Folders to change: 1
 Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_agent2/C44/x
 
+======================================================================
+2026-10-13 19:54 | perlmutter | /pscratch/sd/g/garora/vt_agent2
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 10
+  pending: 1
+  running: 9
+  free slots under limit 15: 5
+
+Folders under /pscratch/sd/g/garora/vt_agent2: 10
+  not submitted: 10
+

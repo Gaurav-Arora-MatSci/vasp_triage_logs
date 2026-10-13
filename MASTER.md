@@ -3192,3 +3192,37 @@ Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-producti
   crashed after reaching accuracy: 13
   not submitted: 2
 
+======================================================================
+2026-10-13 11:13 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 15 folders
+
+not submitted | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+0%
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+1%
+    slurm-59707139.out: [2026-10-13T04:29:48.750] error: Detected 1 oom_kill event in StepId=59707139.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+2%
+    slurm-59707140.out: [2026-10-13T07:16:58.503] error: Detected 1 oom_kill event in StepId=59707140.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_-1%
+    slurm-59707141.out: [2026-10-13T05:52:21.255] error: Detected 1 oom_kill event in StepId=59707141.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_-2%
+    slurm-59707142.out: [2026-10-13T06:47:51.706] error: Detected 1 oom_kill event in StepId=59707142.0. Some of the step tasks have been OOM Killed.
+not submitted | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+0%
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+1%
+    slurm-59707144.out: [2026-10-13T06:34:11.598] error: Detected 1 oom_kill event in StepId=59707144.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+2%
+    slurm-59707145.out: [2026-10-13T10:00:09.884] error: Detected 2 oom_kill events in StepId=59707145.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_-1%
+    slurm-59707146.out: [2026-10-13T08:05:31.471] error: Detected 1 oom_kill event in StepId=59707146.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_-2%
+    slurm-59707147.out: [2026-10-13T11:06:24.779] error: Detected 1 oom_kill event in StepId=59707147.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+0%
+    slurm-59707148.out: [2026-10-13T02:11:52.405] error: Detected 1 oom_kill event in StepId=59707148.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+1%
+    slurm-59707149.out: [2026-10-13T07:09:30.006] error: Detected 1 oom_kill event in StepId=59707149.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_+2%
+    slurm-59707150.out: [2026-10-13T11:55:14.353] error: Detected 1 oom_kill event in StepId=59707150.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_-1%
+    slurm-59707151.out: [2026-10-13T09:30:21.229] error: Detected 1 oom_kill event in StepId=59707151.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_-2%
+    slurm-59707152.out: [2026-10-13T12:21:29.222] error: Detected 1 oom_kill event in StepId=59707152.0. Some of the step tasks have been OOM Killed.
+

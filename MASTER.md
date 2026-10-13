@@ -1735,6 +1735,13 @@ Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 1
   incomplete: 8
   running or pending: 1
 
+======================================================================
+2026-10-13 14:47 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage list running or pending
+Result: 1 folders
+
+running or pending | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
+
 
 #######  perlmutter  #######
 

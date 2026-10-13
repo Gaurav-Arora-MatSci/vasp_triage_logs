@@ -4051,3 +4051,31 @@ Result: finished
 
 Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/vt_agent1/scrontab_backup_20261013_171330.txt
 
+======================================================================
+2026-10-13 17:15 | perlmutter | /pscratch/sd/g/garora/vt_agent1
+$ vtriage schedule --every 10m --batch 5 --agent ask
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/vt_agent1
+  folders: 10, not submitted: 5, in queue: 0
+  every 10m: */10 * * * * (times are UTC)
+  new jobs per cycle: 5, queue limit: 30
+  path patterns: none, every folder
+  decision agent: ask
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/vt_agent1
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_vt_agent1_ab52a8
+  #SCRON -o /pscratch/sd/g/garora/vt_agent1/auto_cron.log
+  #SCRON --open-mode=append
+  */10 * * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/vt_agent1 --batch 5 --agent ask
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/vt_agent1/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/vt_agent1
+

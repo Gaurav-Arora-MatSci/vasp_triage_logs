@@ -4395,3 +4395,17 @@ Folders to change: 2
 Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_agent2/C12/1
 Changed: /pscratch/sd/g/garora/vt_agent2/C12/2
 
+======================================================================
+2026-10-13 19:54 | perlmutter | /pscratch/sd/g/garora/vt_agent2
+$ vtriage edit --status not submitted --path C44/x --set NELM=10 --set EDIFF=1E-08
+Result: finished
+
+Path filter kept 1 of 10 folders.
+
+/pscratch/sd/g/garora/vt_agent2/C44/x
+  EDIFF: 1E-05 -> 1E-08
+  NELM: 200 -> 10
+
+Folders to change: 1
+Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_agent2/C44/x
+

@@ -1068,6 +1068,24 @@ Submitted job 3592205: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_traini
 Submitted: 15
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-13 10:02 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 1
+  completing: 1
+
+All my jobs in the queue: 1
+  completing: 1
+  free slots under limit 34: 33
+
+Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 100
+  crashed after reaching accuracy: 42
+  incomplete: 5
+  running or pending: 1
+  not submitted: 52
+
 
 #######  perlmutter  #######
 

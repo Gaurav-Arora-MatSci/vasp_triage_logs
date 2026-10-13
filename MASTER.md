@@ -2425,3 +2425,495 @@ Submitted job 59713652: /pscratch/sd/g/garora/vt_sched/C11/2
 Submitted: 2
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-12 15:05 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage confirm
+Result: finished
+
+Installed in the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/vt_sched
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto
+  #SCRON -o /pscratch/sd/g/garora/vt_sched/auto_cron.log
+  #SCRON --open-mode=append
+  */5 * * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/vt_sched --batch 2 --queue-limit 20
+Old table saved in /pscratch/sd/g/garora/vt_sched/scrontab_backup_20261012_150532.txt
+
+Running the first cycle now.
+2026-10-12 15:05 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched/C11/1
+  /pscratch/sd/g/garora/vt_sched/C11/2
+Not submitted now because of the limits: 8
+Confirmed by --yes.
+Submitted job 59713644: /pscratch/sd/g/garora/vt_sched/C11/1
+Submitted job 59713652: /pscratch/sd/g/garora/vt_sched/C11/2
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+Check with: scrontab -l and squeue -u $USER
+Watch with: tail -f /pscratch/sd/g/garora/vt_sched/auto_cron.log
+The entry removes itself after the email is sent.
+
+======================================================================
+2026-10-12 15:10 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 15:10 folders: 10, not submitted: 8, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched/C11/3
+  /pscratch/sd/g/garora/vt_sched/C11/4
+Not submitted now because of the limits: 6
+Confirmed by --yes.
+Submitted job 59713783: /pscratch/sd/g/garora/vt_sched/C11/3
+Submitted job 59713784: /pscratch/sd/g/garora/vt_sched/C11/4
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-12 15:15 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 15:15 folders: 10, not submitted: 6, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched/C11/5
+  /pscratch/sd/g/garora/vt_sched/C11/6
+Not submitted now because of the limits: 4
+Confirmed by --yes.
+Submitted job 59713845: /pscratch/sd/g/garora/vt_sched/C11/5
+Submitted job 59713847: /pscratch/sd/g/garora/vt_sched/C11/6
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-12 15:20 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 15:20 folders: 10, not submitted: 4, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched/C12/1
+  /pscratch/sd/g/garora/vt_sched/C12/2
+Not submitted now because of the limits: 2
+Confirmed by --yes.
+Submitted job 59713928: /pscratch/sd/g/garora/vt_sched/C12/1
+Submitted job 59713929: /pscratch/sd/g/garora/vt_sched/C12/2
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-12 15:25 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 15:25 folders: 10, not submitted: 2, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched/C44/x
+  /pscratch/sd/g/garora/vt_sched/C44/y
+Confirmed by --yes.
+Submitted job 59714014: /pscratch/sd/g/garora/vt_sched/C44/x
+Submitted job 59714015: /pscratch/sd/g/garora/vt_sched/C44/y
+
+Submitted: 2
+
+======================================================================
+2026-10-12 15:30 | perlmutter | /pscratch/sd/g/garora/vt_sched
+$ vtriage auto finish
+Result: campaign done
+
+vasp_triage auto agent finished
+Date: 2026-10-12 15:30
+Root: /pscratch/sd/g/garora/vt_sched
+Path patterns: none, every folder
+
+Folders: 10
+  converged: 8
+  ionic not converged: 2
+
+Folders that need a look: 2
+  ionic not converged | /pscratch/sd/g/garora/vt_sched/C12/1
+  ionic not converged | /pscratch/sd/g/garora/vt_sched/C12/2
+
+Email: Submitted batch job 59714115, to gauravarora.1100@gmail.com
+
+======================================================================
+2026-10-12 16:43 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 13
+  pending: 3
+  running: 10
+  free slots under limit 15: 2
+
+Folders under /pscratch/sd/g/garora/vt_sched2: 10
+  not submitted: 10
+
+======================================================================
+2026-10-12 16:44 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage schedule --every 10m --batch 2 --queue-limit 20
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/vt_sched2
+  folders: 10, not submitted: 10, in queue: 0
+  every 10m: */10 * * * * (times are UTC)
+  new jobs per cycle: 2, queue limit: 20
+  path patterns: none, every folder
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/vt_sched2
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto
+  #SCRON -o /pscratch/sd/g/garora/vt_sched2/auto_cron.log
+  #SCRON --open-mode=append
+  */10 * * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/vt_sched2 --batch 2 --queue-limit 20
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/vt_sched2/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/vt_sched2
+
+======================================================================
+2026-10-12 16:45 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 16:45 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched2/C11/1
+  /pscratch/sd/g/garora/vt_sched2/C11/2
+Not submitted now because of the limits: 8
+Confirmed by --yes.
+Submitted job 59716065: /pscratch/sd/g/garora/vt_sched2/C11/1
+Submitted job 59716066: /pscratch/sd/g/garora/vt_sched2/C11/2
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-12 16:45 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage confirm --root /pscratch/sd/g/garora/vt_sched2
+Result: finished
+
+Installed in the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/vt_sched2
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto
+  #SCRON -o /pscratch/sd/g/garora/vt_sched2/auto_cron.log
+  #SCRON --open-mode=append
+  */10 * * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/vt_sched2 --batch 2 --queue-limit 20
+Old table saved in /pscratch/sd/g/garora/vt_sched2/scrontab_backup_20261012_164535.txt
+
+Running the first cycle now.
+2026-10-12 16:45 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched2/C11/1
+  /pscratch/sd/g/garora/vt_sched2/C11/2
+Not submitted now because of the limits: 8
+Confirmed by --yes.
+Submitted job 59716065: /pscratch/sd/g/garora/vt_sched2/C11/1
+Submitted job 59716066: /pscratch/sd/g/garora/vt_sched2/C11/2
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+Check with: scrontab -l and squeue -u $USER
+Watch with: tail -f /pscratch/sd/g/garora/vt_sched2/auto_cron.log
+The entry removes itself after the email is sent.
+
+======================================================================
+2026-10-12 16:50 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 16:50 folders: 10, not submitted: 8, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched2/C11/3
+  /pscratch/sd/g/garora/vt_sched2/C11/4
+Not submitted now because of the limits: 6
+Confirmed by --yes.
+Submitted job 59716298: /pscratch/sd/g/garora/vt_sched2/C11/3
+Submitted job 59716299: /pscratch/sd/g/garora/vt_sched2/C11/4
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-12 17:00 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 17:00 folders: 10, not submitted: 6, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched2/C11/5
+  /pscratch/sd/g/garora/vt_sched2/C11/6
+Not submitted now because of the limits: 4
+Confirmed by --yes.
+Submitted job 59716607: /pscratch/sd/g/garora/vt_sched2/C11/5
+Submitted job 59716608: /pscratch/sd/g/garora/vt_sched2/C11/6
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-12 17:10 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 17:10 folders: 10, not submitted: 4, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched2/C12/1
+  /pscratch/sd/g/garora/vt_sched2/C12/2
+Not submitted now because of the limits: 2
+Confirmed by --yes.
+Submitted job 59716960: /pscratch/sd/g/garora/vt_sched2/C12/1
+Submitted job 59716966: /pscratch/sd/g/garora/vt_sched2/C12/2
+
+Submitted: 2
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-12 17:20 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-12 17:20 folders: 10, not submitted: 2, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/vt_sched2/C44/x
+  /pscratch/sd/g/garora/vt_sched2/C44/y
+Confirmed by --yes.
+Submitted job 59717397: /pscratch/sd/g/garora/vt_sched2/C44/x
+Submitted job 59717399: /pscratch/sd/g/garora/vt_sched2/C44/y
+
+Submitted: 2
+
+======================================================================
+2026-10-12 17:30 | perlmutter | /pscratch/sd/g/garora/vt_sched2
+$ vtriage auto finish
+Result: campaign done
+
+vasp_triage auto agent finished
+Date: 2026-10-12 17:30
+Root: /pscratch/sd/g/garora/vt_sched2
+Path patterns: none, every folder
+
+Folders: 10
+  converged: 8
+  ionic not converged: 2
+
+Folders that need a look: 2
+  ionic not converged | /pscratch/sd/g/garora/vt_sched2/C12/1
+  ionic not converged | /pscratch/sd/g/garora/vt_sched2/C12/2
+
+Email: Submitted batch job 59717643, to gauravarora.1100@gmail.com
+
+======================================================================
+2026-10-12 19:44 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage schedule
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+  folders: 15, not submitted: 15, in queue: 0
+  every 5h: 7 */5 * * * (times are UTC)
+  Note: 5 does not divide 24, so the gap across midnight UTC is shorter.
+  new jobs per cycle: 20, queue limit: 30
+  path patterns: none, every folder
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto
+  #SCRON -o /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/auto_cron.log
+  #SCRON --open-mode=append
+  7 */5 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+
+======================================================================
+2026-10-12 19:50 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage schedule
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+  folders: 15, not submitted: 15, in queue: 0
+  every 5h: 7 */5 * * * (times are UTC)
+  Note: 5 does not divide 24, so the gap across midnight UTC is shorter.
+  new jobs per cycle: 20, queue limit: 30
+  path patterns: none, every folder
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto
+  #SCRON -o /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/auto_cron.log
+  #SCRON --open-mode=append
+  7 */5 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+
+======================================================================
+2026-10-12 19:52 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage schedule
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+  folders: 15, not submitted: 15, in queue: 0
+  every 5h: 7 */5 * * * (times are UTC)
+  Note: 5 does not divide 24, so the gap across midnight UTC is shorter.
+  new jobs per cycle: 20, queue limit: 30
+  path patterns: none, every folder
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto
+  #SCRON -o /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/auto_cron.log
+  #SCRON --open-mode=append
+  7 */5 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+
+======================================================================
+2026-10-12 19:53 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage auto submit
+Result: up to 17 jobs
+
+2026-10-12 19:52 folders: 15, not submitted: 15, in queue: 0
+
+Folders to submit: 15
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
+Confirmed by --yes.
+Submitted job 59721012: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+0%
+Submitted job 59721013: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+1%
+Submitted job 59721015: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+2%
+Submitted job 59721017: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-1%
+Submitted job 59721018: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-2%
+Submitted job 59721019: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+0%
+Submitted job 59721020: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+1%
+Submitted job 59721021: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+2%
+Submitted job 59721022: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-1%
+Submitted job 59721024: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-2%
+Submitted job 59721025: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+0%
+Submitted job 59721026: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+1%
+Submitted job 59721028: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+2%
+Submitted job 59721029: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-1%
+Submitted job 59721031: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
+
+Submitted: 15
+
+======================================================================
+2026-10-12 19:53 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage confirm --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+Result: finished
+
+Installed in the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto
+  #SCRON -o /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/auto_cron.log
+  #SCRON --open-mode=append
+  7 */5 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+Old table saved in /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/scrontab_backup_20261012_195251.txt
+
+Running the first cycle now.
+2026-10-12 19:52 folders: 15, not submitted: 15, in queue: 0
+
+Folders to submit: 15
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+0%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+2%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-1%
+  /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
+Confirmed by --yes.
+Submitted job 59721012: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+0%
+Submitted job 59721013: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+1%
+Submitted job 59721015: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+2%
+Submitted job 59721017: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-1%
+Submitted job 59721018: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-2%
+Submitted job 59721019: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+0%
+Submitted job 59721020: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+1%
+Submitted job 59721021: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+2%
+Submitted job 59721022: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-1%
+Submitted job 59721024: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-2%
+Submitted job 59721025: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+0%
+Submitted job 59721026: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+1%
+Submitted job 59721028: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+2%
+Submitted job 59721029: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-1%
+Submitted job 59721031: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
+
+Submitted: 15
+
+Check with: scrontab -l and squeue -u $USER
+Watch with: tail -f /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/auto_cron.log
+The entry removes itself after the email is sent.
+

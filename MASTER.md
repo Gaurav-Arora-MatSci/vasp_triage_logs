@@ -3807,3 +3807,45 @@ On confirm, the block is installed and one cycle runs at once.
 To confirm, run:
   vtriage confirm --root /pscratch/sd/g/garora/vt_agent1
 
+======================================================================
+2026-10-13 16:04 | perlmutter | /pscratch/sd/g/garora/vt_agent1
+$ vtriage auto submit
+Result: up to 10 jobs
+
+2026-10-13 16:03 folders: 10, not submitted: 10, in queue: 0
+
+Folders to submit: 10
+  /pscratch/sd/g/garora/vt_agent1/C11/1
+  /pscratch/sd/g/garora/vt_agent1/C11/2
+  /pscratch/sd/g/garora/vt_agent1/C11/3
+  /pscratch/sd/g/garora/vt_agent1/C11/4
+  /pscratch/sd/g/garora/vt_agent1/C11/5
+  /pscratch/sd/g/garora/vt_agent1/C11/6
+  /pscratch/sd/g/garora/vt_agent1/C12/1
+  /pscratch/sd/g/garora/vt_agent1/C12/2
+  /pscratch/sd/g/garora/vt_agent1/C44/x
+  /pscratch/sd/g/garora/vt_agent1/C44/y
+Confirmed by --yes.
+Submitted job 59749585: /pscratch/sd/g/garora/vt_agent1/C11/1
+Submitted job 59749589: /pscratch/sd/g/garora/vt_agent1/C11/2
+Submitted job 59749592: /pscratch/sd/g/garora/vt_agent1/C11/3
+Submitted job 59749595: /pscratch/sd/g/garora/vt_agent1/C11/4
+Submitted job 59749598: /pscratch/sd/g/garora/vt_agent1/C11/5
+sbatch failed in /pscratch/sd/g/garora/vt_agent1/C11/6
+  sbatch: error: QOSMaxSubmitJobPerUserLimit
+sbatch: error: Batch job submission failed: Job violates accounting/QOS policy (job submit limit, user's size and/or time limits)
+sbatch failed in /pscratch/sd/g/garora/vt_agent1/C12/1
+  sbatch: error: QOSMaxSubmitJobPerUserLimit
+sbatch: error: Batch job submission failed: Job violates accounting/QOS policy (job submit limit, user's size and/or time limits)
+sbatch failed in /pscratch/sd/g/garora/vt_agent1/C12/2
+  sbatch: error: QOSMaxSubmitJobPerUserLimit
+sbatch: error: Batch job submission failed: Job violates accounting/QOS policy (job submit limit, user's size and/or time limits)
+sbatch failed in /pscratch/sd/g/garora/vt_agent1/C44/x
+  sbatch: error: QOSMaxSubmitJobPerUserLimit
+sbatch: error: Batch job submission failed: Job violates accounting/QOS policy (job submit limit, user's size and/or time limits)
+sbatch failed in /pscratch/sd/g/garora/vt_agent1/C44/y
+  sbatch: error: QOSMaxSubmitJobPerUserLimit
+sbatch: error: Batch job submission failed: Job violates accounting/QOS policy (job submit limit, user's size and/or time limits)
+
+Submitted: 5
+

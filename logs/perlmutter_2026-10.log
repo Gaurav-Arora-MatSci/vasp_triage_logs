@@ -1882,3 +1882,19 @@ running or pending | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-p
 running or pending | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-1%
 running or pending | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
 
+======================================================================
+2026-10-13 11:12 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 15
+  pending: 1
+  running: 14
+  free slots under limit 15: 0
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS: 15
+  crashed after reaching accuracy: 13
+  not submitted: 2
+

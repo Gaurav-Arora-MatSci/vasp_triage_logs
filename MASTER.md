@@ -4101,3 +4101,41 @@ Submitted job 59752906: /pscratch/sd/g/garora/vt_agent1/C44/y
 
 Submitted: 5
 
+======================================================================
+2026-10-13 17:16 | perlmutter | /pscratch/sd/g/garora/vt_agent1
+$ vtriage confirm
+Result: finished
+
+Installed in the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/vt_agent1
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_vt_agent1_ab52a8
+  #SCRON -o /pscratch/sd/g/garora/vt_agent1/auto_cron.log
+  #SCRON --open-mode=append
+  */10 * * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/vt_agent1 --batch 5 --agent ask
+Old table saved in /pscratch/sd/g/garora/vt_agent1/scrontab_backup_20261013_171636.txt
+
+Running the first cycle now.
+2026-10-13 17:16 folders: 10, not submitted: 5, in queue: 0
+
+Folders to submit: 5
+  /pscratch/sd/g/garora/vt_agent1/C11/6
+  /pscratch/sd/g/garora/vt_agent1/C12/1
+  /pscratch/sd/g/garora/vt_agent1/C12/2
+  /pscratch/sd/g/garora/vt_agent1/C44/x
+  /pscratch/sd/g/garora/vt_agent1/C44/y
+Confirmed by --yes.
+Submitted job 59752902: /pscratch/sd/g/garora/vt_agent1/C11/6
+Submitted job 59752903: /pscratch/sd/g/garora/vt_agent1/C12/1
+Submitted job 59752904: /pscratch/sd/g/garora/vt_agent1/C12/2
+Submitted job 59752905: /pscratch/sd/g/garora/vt_agent1/C44/x
+Submitted job 59752906: /pscratch/sd/g/garora/vt_agent1/C44/y
+
+Submitted: 5
+
+Check with: scrontab -l and squeue -u $USER
+Watch with: tail -f /pscratch/sd/g/garora/vt_agent1/auto_cron.log
+The entry removes itself after the email is sent.
+

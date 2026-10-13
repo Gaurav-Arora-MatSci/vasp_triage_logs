@@ -1844,3 +1844,20 @@ Check with: scrontab -l and squeue -u $USER
 Watch with: tail -f /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/auto_cron.log
 The entry removes itself after the email is sent.
 
+======================================================================
+2026-10-13 08:22 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 15
+  pending: 7
+  running: 8
+
+All my jobs in the queue: 16
+  pending: 8
+  running: 8
+  free slots under limit 15: 0
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC: 15
+  running or pending: 15
+

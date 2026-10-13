@@ -2127,3 +2127,19 @@ Check with: scrontab -l and squeue -u $USER
 Watch with: tail -f /pscratch/sd/g/garora/vt_agent1/auto_cron.log
 The entry removes itself after the email is sent.
 
+======================================================================
+2026-10-13 17:00 | perlmutter | /pscratch/sd/g/garora/vt_agent1
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 11
+  pending: 2
+  running: 9
+  free slots under limit 15: 4
+
+Folders under /pscratch/sd/g/garora/vt_agent1: 10
+  converged: 5
+  not submitted: 5
+

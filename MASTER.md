@@ -4374,3 +4374,24 @@ Path filter kept 2 of 10 folders.
 Folders to change: 2
 Type yes to save each run and apply the changes: Cancelled. No files changed.
 
+======================================================================
+2026-10-13 19:54 | perlmutter | /pscratch/sd/g/garora/vt_agent2
+$ vtriage edit --status not submitted --path C12/* --set NSW=2 --set EDIFF=1E-07 --set EDIFFG=1E-05
+Result: finished
+
+Path filter kept 2 of 10 folders.
+
+/pscratch/sd/g/garora/vt_agent2/C12/1
+  EDIFF: 1E-05 -> 1E-07
+  EDIFFG: -1E-03 -> 1E-05
+  NSW: 1 -> 2
+
+/pscratch/sd/g/garora/vt_agent2/C12/2
+  EDIFF: 1E-05 -> 1E-07
+  EDIFFG: -1E-03 -> 1E-05
+  NSW: 1 -> 2
+
+Folders to change: 2
+Type yes to save each run and apply the changes: Changed: /pscratch/sd/g/garora/vt_agent2/C12/1
+Changed: /pscratch/sd/g/garora/vt_agent2/C12/2
+

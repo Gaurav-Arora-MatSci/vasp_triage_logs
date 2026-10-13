@@ -4044,3 +4044,10 @@ Folders under /pscratch/sd/g/garora/vt_agent1: 10
   converged: 5
   not submitted: 5
 
+======================================================================
+2026-10-13 17:13 | perlmutter | /pscratch/sd/g/garora/vt_agent1
+$ vtriage unschedule
+Result: finished
+
+Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/vt_agent1/scrontab_backup_20261013_171330.txt
+

@@ -1896,6 +1896,13 @@ Submitted job 3596987: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_se
 Submitted: 15
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-13 16:22 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage list converged
+Result: 0 folders
+
+No folder has that status.
+
 
 #######  perlmutter  #######
 

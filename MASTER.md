@@ -3226,3 +3226,11 @@ crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEA
 crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C44/strain_-2%
     slurm-59707152.out: [2026-10-13T12:21:29.222] error: Detected 1 oom_kill event in StepId=59707152.0. Some of the step tasks have been OOM Killed.
 
+======================================================================
+2026-10-13 11:13 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS
+$ vtriage list not submitted
+Result: 2 folders
+
+not submitted | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_I/strain_+0%
+not submitted | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/1-SQS/strain_calcs/C11_C12_II/strain_+0%
+

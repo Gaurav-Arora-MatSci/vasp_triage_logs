@@ -1338,6 +1338,14 @@ Submitted job 3595426: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_traini
 
 Submitted: 19
 
+======================================================================
+2026-10-13 11:54 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage submit --status not submitted --max 33
+Result: finished
+
+Jobs in queue: 7 of limit 34
+No folders selected.
+
 
 #######  perlmutter  #######
 

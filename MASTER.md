@@ -1717,6 +1717,24 @@ incomplete | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str
 incomplete | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-080
 incomplete | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-084
 
+======================================================================
+2026-10-13 14:47 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage status /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+Result: checked
+
+Jobs from this folder: 1
+  running: 1
+
+All my jobs in the queue: 1
+  running: 1
+  free slots under limit 34: 33
+
+Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 100
+  crashed after reaching accuracy: 90
+  crashed: 1
+  incomplete: 8
+  running or pending: 1
+
 
 #######  perlmutter  #######
 

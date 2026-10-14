@@ -5354,3 +5354,16 @@ On confirm, the block is installed and one cycle runs at once.
 To confirm, run:
   vtriage confirm --root /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
 
+======================================================================
+2026-10-14 12:03 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 15: 15
+
+Folders under /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training: 50
+  not submitted: 50
+

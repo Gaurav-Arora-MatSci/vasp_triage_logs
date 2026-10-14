@@ -2304,3 +2304,13 @@ Result: 0 folders
 
 No folder has that status.
 
+======================================================================
+2026-10-14 09:02 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage list crashed incomplete
+Result: 2 folders
+
+crashed | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-007
+    slurm-3590681.out: [2026-10-13T01:24:07.021] error: *** JOB 3590681 ON c515-122 CANCELLED AT 2026-10-13T01:24:07 DUE TO TIME LIMIT ***
+crashed | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
+    slurm-3595236.out: [2026-10-13T22:45:16.017] error: *** JOB 3595236 ON c513-043 CANCELLED AT 2026-10-13T22:45:16 DUE TO TIME LIMIT ***
+

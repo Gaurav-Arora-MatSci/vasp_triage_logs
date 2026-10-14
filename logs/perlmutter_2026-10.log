@@ -2692,3 +2692,127 @@ On confirm, the block is installed and one cycle runs at once.
 To confirm, run:
   vtriage confirm --root /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
 
+======================================================================
+2026-10-14 12:18 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage auto submit
+Result: up to 20 jobs
+
+2026-10-14 12:18 folders: 50, not submitted: 50, in queue: 0
+
+Folders to submit: 20
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-000
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-001
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-002
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-003
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-004
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-005
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-006
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-007
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-008
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-009
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-010
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-011
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-012
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-013
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-014
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-015
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-016
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-017
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-018
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-019
+Not submitted now because of the limits: 30
+Confirmed by --yes.
+Submitted job 59781373: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-000
+Submitted job 59781375: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-001
+Submitted job 59781376: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-002
+Submitted job 59781378: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-003
+Submitted job 59781380: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-004
+Submitted job 59781381: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-005
+Submitted job 59781383: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-006
+Submitted job 59781384: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-007
+Submitted job 59781385: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-008
+Submitted job 59781388: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-009
+Submitted job 59781390: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-010
+Submitted job 59781391: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-011
+Submitted job 59781393: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-012
+Submitted job 59781394: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-013
+Submitted job 59781396: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-014
+Submitted job 59781398: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-015
+Submitted job 59781399: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-016
+Submitted job 59781401: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-017
+Submitted job 59781402: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-018
+Submitted job 59781404: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-019
+
+Submitted: 20
+Run the same command again later for the next batch.
+
+======================================================================
+2026-10-14 12:18 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage confirm --root /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+Result: finished
+
+Installed in the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_1-DFT_training_924f65
+  #SCRON -o /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/auto_cron.log
+  #SCRON --open-mode=append
+  7 */3 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training --batch 20 --agent auto
+Old table saved in /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/scrontab_backup_20261014_121840.txt
+
+Running the first cycle now.
+2026-10-14 12:18 folders: 50, not submitted: 50, in queue: 0
+
+Folders to submit: 20
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-000
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-001
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-002
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-003
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-004
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-005
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-006
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-007
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-008
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-009
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-010
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-011
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-012
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-013
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-014
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-015
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-016
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-017
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-018
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-019
+Not submitted now because of the limits: 30
+Confirmed by --yes.
+Submitted job 59781373: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-000
+Submitted job 59781375: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-001
+Submitted job 59781376: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-002
+Submitted job 59781378: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-003
+Submitted job 59781380: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-004
+Submitted job 59781381: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-005
+Submitted job 59781383: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-006
+Submitted job 59781384: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-007
+Submitted job 59781385: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-008
+Submitted job 59781388: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-009
+Submitted job 59781390: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-010
+Submitted job 59781391: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-011
+Submitted job 59781393: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-012
+Submitted job 59781394: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-013
+Submitted job 59781396: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-014
+Submitted job 59781398: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-015
+Submitted job 59781399: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-016
+Submitted job 59781401: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-017
+Submitted job 59781402: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-018
+Submitted job 59781404: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-019
+
+Submitted: 20
+Run the same command again later for the next batch.
+
+Check with: scrontab -l and squeue -u $USER
+Watch with: tail -f /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/auto_cron.log
+The entry removes itself after the email is sent.
+

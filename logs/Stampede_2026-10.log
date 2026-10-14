@@ -2725,3 +2725,26 @@ not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-0
 not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-098
 not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-099
 
+======================================================================
+2026-10-14 09:08 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage submit --status not submitted --root /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+Result: finished
+
+Jobs in queue: 8 of limit 34
+
+Folders to submit: 6
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-074
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-095
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-096
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-097
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-098
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-099
+Type yes to save each run and submit: Submitted job 3599064: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-074
+Submitted job 3599065: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-095
+Submitted job 3599066: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-096
+Submitted job 3599067: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-097
+Submitted job 3599068: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-098
+Submitted job 3599069: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-099
+
+Submitted: 6
+

@@ -2703,6 +2703,16 @@ not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-0
 not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-098
 not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-099
 
+======================================================================
+2026-10-14 09:07 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage list crashed
+Result: 2 folders
+
+crashed | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-053
+    slurm-3597250.out: [2026-10-14T06:03:39.021] error: *** JOB 3597250 ON c518-092 CANCELLED AT 2026-10-14T06:03:39 DUE TO TIME LIMIT ***
+crashed | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-080
+    slurm-3597525.out: [2026-10-14T08:39:50.197] error: *** JOB 3597525 ON c512-081 CANCELLED AT 2026-10-14T08:39:50 DUE TO TIME LIMIT ***
+
 
 #######  perlmutter  #######
 

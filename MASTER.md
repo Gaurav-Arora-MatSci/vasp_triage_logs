@@ -2432,6 +2432,25 @@ crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6
 crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-098
 crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-099
 
+======================================================================
+2026-10-14 09:03 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage submit --group failed --root /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+Result: finished
+
+Jobs in queue: 0 of limit 34
+
+Folders to submit: 2
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-007  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 2: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-007
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-007
+Submitted job 3599048: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-007
+Archived as run 1: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
+Submitted job 3599049: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
+
+Submitted: 2
+
 
 #######  perlmutter  #######
 

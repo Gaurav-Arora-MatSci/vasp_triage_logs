@@ -2559,6 +2559,35 @@ not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-0
 not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-098
 not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-099
 
+======================================================================
+2026-10-14 09:05 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage submit --status incomplete --root /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+Result: finished
+
+Jobs in queue: 2 of limit 34
+
+Folders to submit: 6
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-025
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-032
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-046
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-088
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-089
+Type yes to save each run and submit: Archived as run 1: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-025
+Submitted job 3599052: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-025
+Archived as run 1: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-032
+Submitted job 3599053: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-032
+Archived as run 1: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+Submitted job 3599054: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+Archived as run 1: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-046
+Submitted job 3599055: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-046
+Archived as run 1: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-088
+Submitted job 3599056: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-088
+Archived as run 1: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-089
+Submitted job 3599057: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-089
+
+Submitted: 6
+
 
 #######  perlmutter  #######
 

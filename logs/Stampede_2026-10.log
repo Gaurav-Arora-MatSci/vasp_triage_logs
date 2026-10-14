@@ -2713,3 +2713,15 @@ Result: 0 folders
 
 No folder has that status.
 
+======================================================================
+2026-10-14 09:07 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage list not submitted
+Result: 6 folders
+
+not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-074
+not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-095
+not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-096
+not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-097
+not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-098
+not submitted | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-099
+

@@ -2314,3 +2314,10 @@ crashed | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-00
 crashed | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
     slurm-3595236.out: [2026-10-13T22:45:16.017] error: *** JOB 3595236 ON c513-043 CANCELLED AT 2026-10-13T22:45:16 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-14 09:03 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage list SCF not converged ionic not converged
+Result: 0 folders
+
+No folder has that status.
+

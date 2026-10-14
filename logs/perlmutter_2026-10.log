@@ -2565,3 +2565,32 @@ Agent LLM cost: 0.0110 USD in 1 calls
 
 Email: Submitted batch job 59778414, to gauravarora.1100@gmail.com
 
+======================================================================
+2026-10-14 12:01 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage schedule
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+  folders: 50, not submitted: 50, in queue: 0
+  every 5h: 7 */5 * * * (times are UTC)
+  Note: 5 does not divide 24, so the gap across midnight UTC is shorter.
+  new jobs per cycle: 20, queue limit: 30
+  path patterns: none, every folder
+  decision agent: off, from AGENT_MODE at each cycle
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_1-DFT_training_924f65
+  #SCRON -o /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/auto_cron.log
+  #SCRON --open-mode=append
+  7 */5 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+

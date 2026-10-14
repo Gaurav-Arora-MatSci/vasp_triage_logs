@@ -2153,3 +2153,11 @@ Submitted job 3597650: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_se
 Submitted: 10
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-13 20:02 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 34 of limit 34
+Queue is full. Nothing submitted.
+

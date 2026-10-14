@@ -2304,6 +2304,13 @@ Result: 0 folders
 
 No folder has that status.
 
+======================================================================
+2026-10-14 09:02 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage list running or pending not submitted missing inputs
+Result: 0 folders
+
+No folder has that status.
+
 
 #######  perlmutter  #######
 

@@ -4569,3 +4569,25 @@ Check with: scrontab -l and squeue -u $USER
 Watch with: tail -f /pscratch/sd/g/garora/vt_agent2/auto_cron.log
 The entry removes itself after the email is sent.
 
+======================================================================
+2026-10-13 20:01 | perlmutter | /pscratch/sd/g/garora/vt_agent2
+$ vtriage auto submit
+Result: up to 5 jobs
+
+2026-10-13 20:00 folders: 10, not submitted: 5, in queue: 0
+
+Folders to submit: 5
+  /pscratch/sd/g/garora/vt_agent2/C11/6
+  /pscratch/sd/g/garora/vt_agent2/C12/1
+  /pscratch/sd/g/garora/vt_agent2/C12/2
+  /pscratch/sd/g/garora/vt_agent2/C44/x
+  /pscratch/sd/g/garora/vt_agent2/C44/y
+Confirmed by --yes.
+Submitted job 59758762: /pscratch/sd/g/garora/vt_agent2/C11/6
+Submitted job 59758765: /pscratch/sd/g/garora/vt_agent2/C12/1
+Submitted job 59758766: /pscratch/sd/g/garora/vt_agent2/C12/2
+Submitted job 59758768: /pscratch/sd/g/garora/vt_agent2/C44/x
+Submitted job 59758770: /pscratch/sd/g/garora/vt_agent2/C44/y
+
+Submitted: 5
+

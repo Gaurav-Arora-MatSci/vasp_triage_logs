@@ -2120,3 +2120,36 @@ Submitted job 3597529: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_se
 Submitted: 20
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-13 19:48 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 24 of limit 34
+
+Folders to submit: 10
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-085
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-086
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-087
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-088
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-089
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-090
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-091
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-092
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-093
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-094
+Not submitted now because of the limits: 5
+Type yes to save each run and submit: Submitted job 3597641: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-085
+Submitted job 3597642: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-086
+Submitted job 3597643: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-087
+Submitted job 3597644: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-088
+Submitted job 3597645: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-089
+Submitted job 3597646: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-090
+Submitted job 3597647: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-091
+Submitted job 3597648: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-092
+Submitted job 3597649: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-093
+Submitted job 3597650: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-094
+
+Submitted: 10
+Run the same command again later for the next batch.
+

@@ -5670,3 +5670,10 @@ Result: finished
 
 Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/scrontab_backup_20261014_204344.txt
 
+======================================================================
+2026-10-14 20:43 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/2-Mo30/1-DFT_training
+$ vtriage unschedule
+Result: finished
+
+Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/Villanova/Mo-based_alloys/2-Mo30/1-DFT_training/scrontab_backup_20261014_204357.txt
+

@@ -2755,6 +2755,19 @@ Submitted job 3599069: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_se
 
 Submitted: 6
 
+======================================================================
+2026-10-15 13:07 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 34: 34
+
+Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 100
+  crashed after reaching accuracy: 100
+
 
 #######  perlmutter  #######
 

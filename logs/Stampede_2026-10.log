@@ -2874,3 +2874,18 @@ crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6
 crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-098
 crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-099
 
+======================================================================
+2026-10-15 13:08 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage report /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+Result: finished
+
+Directories: 100
+Files written:
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/report_15_Oct_26_1_08PM/report_all.csv
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/report_15_Oct_26_1_08PM/report_converged.csv
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/report_15_Oct_26_1_08PM/report_almost_converged.csv
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/report_15_Oct_26_1_08PM/report_not_converged.csv
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/report_15_Oct_26_1_08PM/report_failed.csv
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/report_15_Oct_26_1_08PM/report_other.csv
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/report_15_Oct_26_1_08PM/report.md
+

@@ -2775,6 +2775,112 @@ Result: 0 folders
 
 No folder has that status.
 
+======================================================================
+2026-10-15 13:07 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage list crashed after reaching accuracy
+Result: 100 folders
+
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-000
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-001
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-002
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-003
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-004
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-005
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-006
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-007
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-008
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-009
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-010
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-011
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-012
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-013
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-014
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-015
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-016
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-017
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-018
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-019
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-020
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-021
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-022
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-023
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-024
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-025
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-026
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-027
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-028
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-029
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-030
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-031
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-032
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-033
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-034
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-035
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-036
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-037
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-038
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-039
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-040
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-041
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-042
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-043
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-044
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-045
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-046
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-047
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-048
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-049
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-050
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-051
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-052
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-053
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-054
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-055
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-056
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-057
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-058
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-059
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-060
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-061
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-062
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-063
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-064
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-065
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-066
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-067
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-068
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-069
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-070
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-071
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-072
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-073
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-074
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-075
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-076
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-077
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-078
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-079
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-080
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-081
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-082
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-083
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-084
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-085
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-086
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-087
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-088
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-089
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-090
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-091
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-092
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-093
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-094
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-095
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-096
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-097
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-098
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set/str-099
+
 
 #######  perlmutter  #######
 

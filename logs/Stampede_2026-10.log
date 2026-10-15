@@ -2761,3 +2761,10 @@ All my jobs in the queue: 0
 Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 100
   crashed after reaching accuracy: 100
 
+======================================================================
+2026-10-15 13:07 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage list converged
+Result: 0 folders
+
+No folder has that status.
+

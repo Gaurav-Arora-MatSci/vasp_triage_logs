@@ -3168,6 +3168,16 @@ Submitted job 3603055: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_se
 
 Submitted: 1
 
+======================================================================
+2026-10-15 13:15 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage submit --status crashed --root /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set --path=053
+Result: finished
+
+Jobs in queue: 3 of limit 34
+No selected folder matches: 053
+Path filter kept 0 of 1 folders.
+No folders selected.
+
 
 #######  perlmutter  #######
 

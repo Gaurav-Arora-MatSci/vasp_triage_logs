@@ -3554,3 +3554,39 @@ Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-producti
   crashed after reaching accuracy: 8
   crashed: 7
 
+======================================================================
+2026-10-16 14:20 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 15 folders
+
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+0%
+    slurm-59721012.out: [2026-10-13T17:42:45.080] error: *** STEP 59721012.0 ON nid004430 CANCELLED AT 2026-10-13T17:42:45 DUE TO TIME LIMIT ***
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+1%
+    slurm-59721013.out: [2026-10-13T16:35:02.974] error: Detected 1 oom_kill event in StepId=59721013.0. Some of the step tasks have been OOM Killed.
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+2%
+    slurm-59721015.out: [2026-10-13T19:36:08.953] error: *** JOB 59721015 ON nid004298 CANCELLED AT 2026-10-13T19:36:08 DUE TO TIME LIMIT ***
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-1%
+    slurm-59721017.out: [2026-10-13T16:44:59.007] error: Detected 1 oom_kill event in StepId=59721017.0. Some of the step tasks have been OOM Killed.
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-2%
+    slurm-59721018.out: [2026-10-14T00:46:15.815] error: *** STEP 59721018.0 ON nid005385 CANCELLED AT 2026-10-14T00:46:15 DUE TO TIME LIMIT ***
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+0%
+    slurm-59721019.out: [2026-10-13T14:02:30.576] error: Detected 1 oom_kill event in StepId=59721019.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+1%
+    slurm-59721020.out: [2026-10-14T01:41:19.111] error: Detected 1 oom_kill event in StepId=59721020.0. Some of the step tasks have been OOM Killed.
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+2%
+    slurm-59721021.out: [2026-10-14T04:57:06.538] error: *** STEP 59721021.0 ON nid004175 CANCELLED AT 2026-10-14T04:57:06 DUE TO TIME LIMIT ***
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-1%
+    slurm-59721022.out: [2026-10-14T02:57:06.930] error: Detected 2 oom_kill events in StepId=59721022.0. Some of the step tasks have been OOM Killed.
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-2%
+    slurm-59721024.out: [2026-10-14T06:28:12.928] error: *** STEP 59721024.0 ON nid004970 CANCELLED AT 2026-10-14T06:28:12 DUE TO TIME LIMIT ***
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+0%
+    slurm-59721025.out: [2026-10-13T19:22:27.184] error: Detected 1 oom_kill event in StepId=59721025.0. Some of the step tasks have been OOM Killed.
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+1%
+    slurm-59721026.out: [2026-10-14T02:42:26.116] error: Detected 1 oom_kill event in StepId=59721026.0. Some of the step tasks have been OOM Killed.
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+2%
+    slurm-59721028.out: [2026-10-14T07:01:14.485] error: *** STEP 59721028.0 ON nid004247 CANCELLED AT 2026-10-14T07:01:14 DUE TO TIME LIMIT ***
+crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-1%
+    slurm-59721029.out: [2026-10-14T06:23:46.384] error: Detected 2 oom_kill events in StepId=59721029.0. Some of the step tasks have been OOM Killed.
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
+    slurm-59721031.out: [2026-10-14T08:12:45.325] error: *** STEP 59721031.0 ON nid004270 CANCELLED AT 2026-10-14T08:12:45 DUE TO TIME LIMIT ***
+

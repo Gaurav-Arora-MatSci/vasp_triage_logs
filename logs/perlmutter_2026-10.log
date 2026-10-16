@@ -3240,3 +3240,19 @@ Submitted job 59832759: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1
 Submitted: 4
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-16 05:07 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage auto submit
+Result: up to 1 jobs
+
+2026-10-16 05:07 folders: 50, not submitted: 8, in queue: 29
+
+Folders to submit: 1
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-042
+Not submitted now because of the limits: 7
+Confirmed by --yes.
+Submitted job 59846951: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-042
+
+Submitted: 1
+Run the same command again later for the next batch.
+

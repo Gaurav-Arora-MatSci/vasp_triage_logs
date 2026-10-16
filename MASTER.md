@@ -6884,3 +6884,31 @@ On confirm, the block is installed and one cycle runs at once.
 To confirm, run:
   vtriage confirm --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-YZ6GG
 
+======================================================================
+2026-10-16 15:37 | perlmutter | /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+$ vtriage schedule --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB --every 3h --batch 2
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+  folders: 2, not submitted: 2, in queue: 0
+  every 3h: 7 */3 * * * (times are UTC)
+  new jobs per cycle: 2, queue limit: 30
+  path patterns: none, every folder
+  decision agent: off, from AGENT_MODE at each cycle
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_LHS-20261016-V7QCB_f25f32
+  #SCRON -o /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/auto_cron.log
+  #SCRON --open-mode=append
+  7 */3 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB --batch 2
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+

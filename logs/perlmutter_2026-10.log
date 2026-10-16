@@ -3538,3 +3538,19 @@ Result: finished
 
 Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/scrontab_backup_20261016_130229.txt
 
+======================================================================
+2026-10-16 14:20 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 27
+  pending: 26
+  running: 1
+  free slots under limit 15: 0
+
+Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC: 15
+  crashed after reaching accuracy: 8
+  crashed: 7
+

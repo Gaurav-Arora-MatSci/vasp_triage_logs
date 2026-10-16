@@ -6960,3 +6960,10 @@ Check with: scrontab -l and squeue -u $USER
 Watch with: tail -f /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/auto_cron.log
 The entry removes itself after the email is sent.
 
+======================================================================
+2026-10-16 15:38 | perlmutter | /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+$ vtriage unschedule --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+Result: finished
+
+Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/scrontab_backup_20261016_153823.txt
+

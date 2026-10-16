@@ -6809,3 +6809,11 @@ Result: finished
 Jobs in queue: 1 of limit 15
 No folders selected.
 
+======================================================================
+2026-10-16 14:23 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage submit --status incomplete --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+Result: finished
+
+Jobs in queue: 1 of limit 15
+No folders selected.
+

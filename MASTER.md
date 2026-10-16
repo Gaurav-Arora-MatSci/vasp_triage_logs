@@ -6912,3 +6912,51 @@ On confirm, the block is installed and one cycle runs at once.
 To confirm, run:
   vtriage confirm --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
 
+======================================================================
+2026-10-16 15:38 | perlmutter | /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+$ vtriage auto submit
+Result: up to 2 jobs
+
+2026-10-16 15:38 folders: 2, not submitted: 2, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/str-000
+  /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/str-001
+Confirmed by --yes.
+Submitted job 59867383: /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/str-000
+Submitted job 59867384: /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/str-001
+
+Submitted: 2
+
+======================================================================
+2026-10-16 15:38 | perlmutter | /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+$ vtriage confirm --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+Result: finished
+
+Installed in the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_LHS-20261016-V7QCB_f25f32
+  #SCRON -o /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/auto_cron.log
+  #SCRON --open-mode=append
+  7 */3 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB --batch 2
+Old table saved in /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/scrontab_backup_20261016_153800.txt
+
+Running the first cycle now.
+2026-10-16 15:38 folders: 2, not submitted: 2, in queue: 0
+
+Folders to submit: 2
+  /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/str-000
+  /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/str-001
+Confirmed by --yes.
+Submitted job 59867383: /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/str-000
+Submitted job 59867384: /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/str-001
+
+Submitted: 2
+
+Check with: scrontab -l and squeue -u $USER
+Watch with: tail -f /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/auto_cron.log
+The entry removes itself after the email is sent.
+

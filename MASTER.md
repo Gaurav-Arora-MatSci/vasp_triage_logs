@@ -6521,3 +6521,32 @@ Result: finished
 
 Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/scrontab_backup_20261016_074230.txt
 
+======================================================================
+2026-10-16 07:44 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage schedule --every 5h --batch 30 --agent auto
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+  folders: 50, not submitted: 36, in queue: 0
+  every 5h: 7 */5 * * * (times are UTC)
+  Note: 5 does not divide 24, so the gap across midnight UTC is shorter.
+  new jobs per cycle: 30, queue limit: 30
+  path patterns: none, every folder
+  decision agent: auto
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_1-DFT_training_924f65
+  #SCRON -o /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/auto_cron.log
+  #SCRON --open-mode=append
+  7 */5 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training --batch 30 --agent auto
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+

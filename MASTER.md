@@ -6793,3 +6793,11 @@ crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9
 crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
     slurm-59721031.out: [2026-10-14T08:12:45.325] error: *** STEP 59721031.0 ON nid004270 CANCELLED AT 2026-10-14T08:12:45 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-16 14:22 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage submit --status crashed --root /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+Result: finished
+
+Jobs in queue: 27 of limit 15
+Queue is full. Nothing submitted.
+

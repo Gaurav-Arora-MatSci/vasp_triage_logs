@@ -6967,3 +6967,31 @@ Result: finished
 
 Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/lhs_runs/LHS-20261016-V7QCB/scrontab_backup_20261016_153823.txt
 
+======================================================================
+2026-10-16 15:56 | perlmutter | /pscratch/sd/g/garora/lhs_runs/LHS-20261016-NQVYZ
+$ vtriage schedule --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-NQVYZ --every 3h --batch 2
+Result: finished
+
+Schedule plan for /pscratch/sd/g/garora/lhs_runs/LHS-20261016-NQVYZ
+  folders: 2, not submitted: 2, in queue: 0
+  every 3h: 7 */3 * * * (times are UTC)
+  new jobs per cycle: 2, queue limit: 30
+  path patterns: none, every folder
+  decision agent: off, from AGENT_MODE at each cycle
+  email when done: gauravarora.1100@gmail.com
+
+Block to add to the scrontab table:
+  # vtriage schedule for /pscratch/sd/g/garora/lhs_runs/LHS-20261016-NQVYZ
+  #SCRON -q cron
+  #SCRON -A m4349
+  #SCRON -t 00:10:00
+  #SCRON -J vtriage_auto_LHS-20261016-NQVYZ_2413ad
+  #SCRON -o /pscratch/sd/g/garora/lhs_runs/LHS-20261016-NQVYZ/auto_cron.log
+  #SCRON --open-mode=append
+  7 */3 * * * /global/u1/g/garora/vasp_triage/vtriage auto --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-NQVYZ --batch 2
+
+Nothing installed yet. Plan saved to /pscratch/sd/g/garora/lhs_runs/LHS-20261016-NQVYZ/schedule_plan.json
+On confirm, the block is installed and one cycle runs at once.
+To confirm, run:
+  vtriage confirm --root /pscratch/sd/g/garora/lhs_runs/LHS-20261016-NQVYZ
+

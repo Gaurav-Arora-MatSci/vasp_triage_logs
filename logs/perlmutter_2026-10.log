@@ -3331,3 +3331,10 @@ not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_tra
 not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-048
 not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-049
 
+======================================================================
+2026-10-16 07:42 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage unschedule
+Result: finished
+
+Schedule: entry removed from scrontab. Old table saved in /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/scrontab_backup_20261016_074230.txt
+

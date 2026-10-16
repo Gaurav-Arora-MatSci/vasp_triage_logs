@@ -3218,3 +3218,25 @@ Waiting for you (2):
 
 Email: Submitted batch job 59832752, to gauravarora.1100@gmail.com
 
+======================================================================
+2026-10-15 20:07 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage auto submit
+Result: up to 4 jobs
+
+2026-10-15 20:07 folders: 50, not submitted: 12, in queue: 26
+
+Folders to submit: 4
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-038
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-039
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-040
+  /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-041
+Not submitted now because of the limits: 8
+Confirmed by --yes.
+Submitted job 59832754: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-038
+Submitted job 59832755: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-039
+Submitted job 59832757: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-040
+Submitted job 59832759: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-041
+
+Submitted: 4
+Run the same command again later for the next batch.
+

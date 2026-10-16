@@ -6439,3 +6439,78 @@ Submitted job 59846951: /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1
 Submitted: 1
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-16 07:40 | perlmutter | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 50 folders
+
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-000 | -1708.39491847 eV
+    slurm-59808927.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     58
+crashed | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-001
+    slurm-59808930.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 0.8881 eV/A, max stress 75.37 kB (limit 1.0 kB), last ionic dE 5.13e-01 eV, force limit 0.01 eV/A: criteria not met
+crashed | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-002
+    slurm-59808932.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 1.3629 eV/A, max stress 70.30 kB (limit 1.0 kB), last ionic dE 6.92e+01 eV, force limit 0.01 eV/A: criteria not met
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-003 | -1709.13253273 eV
+    slurm-59808955.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     34
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-004 | -1714.68851728 eV
+    slurm-59808962.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     48
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-005 | -1717.20083513 eV
+    slurm-59808963.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     50
+crashed | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-006
+    slurm-59808964.out: ZBRENT: fatal error in bracketing
+    max force 0.0724 eV/A, max stress 0.06 kB (limit 1.0 kB), last ionic dE 1.20e-03 eV, force limit 0.01 eV/A: criteria not met
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-007 | -1708.55168419 eV
+    slurm-59808965.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     32
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-008 | -1704.55455042 eV
+    slurm-59808966.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     35
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-009 | -1709.98959376 eV
+    slurm-59808967.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     48
+ionic not converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-010 | -1705.59888678 eV
+    slurm-59808968.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     53
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-011 | -1708.96493868 eV
+    slurm-59808969.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     42
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-012 | -1709.66145664 eV
+    slurm-59808970.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     52
+converged | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-013 | -1708.46253298 eV
+    slurm-59808971.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     36
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-014
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-015
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-016
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-017
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-018
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-019
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-020
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-021
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-022
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-023
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-024
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-025
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-026
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-027
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-028
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-029
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-030
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-031
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-032
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-033
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-034
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-035
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-036
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-037
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-038
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-039
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-040
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-041
+running or pending | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-042
+not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-043
+not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-044
+not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-045
+not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-046
+not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-047
+not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-048
+not submitted | /pscratch/sd/g/garora/Villanova/Mo-based_alloys/1-Mo28/1-DFT_training/str-049
+

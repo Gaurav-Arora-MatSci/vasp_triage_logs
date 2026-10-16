@@ -3590,3 +3590,23 @@ crashed after reaching accuracy | /pscratch/sd/g/garora/Villanova/11-W_based_HEA
 crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
     slurm-59721031.out: [2026-10-14T08:12:45.325] error: *** STEP 59721031.0 ON nid004270 CANCELLED AT 2026-10-14T08:12:45 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-16 14:20 | perlmutter | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC
+$ vtriage list crashed
+Result: 7 folders
+
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+0%
+    slurm-59721012.out: [2026-10-13T17:42:45.080] error: *** STEP 59721012.0 ON nid004430 CANCELLED AT 2026-10-13T17:42:45 DUE TO TIME LIMIT ***
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_+2%
+    slurm-59721015.out: [2026-10-13T19:36:08.953] error: *** JOB 59721015 ON nid004298 CANCELLED AT 2026-10-13T19:36:08 DUE TO TIME LIMIT ***
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_I/strain_-2%
+    slurm-59721018.out: [2026-10-14T00:46:15.815] error: *** STEP 59721018.0 ON nid005385 CANCELLED AT 2026-10-14T00:46:15 DUE TO TIME LIMIT ***
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_+2%
+    slurm-59721021.out: [2026-10-14T04:57:06.538] error: *** STEP 59721021.0 ON nid004175 CANCELLED AT 2026-10-14T04:57:06 DUE TO TIME LIMIT ***
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C11_C12_II/strain_-2%
+    slurm-59721024.out: [2026-10-14T06:28:12.928] error: *** STEP 59721024.0 ON nid004970 CANCELLED AT 2026-10-14T06:28:12 DUE TO TIME LIMIT ***
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_+2%
+    slurm-59721028.out: [2026-10-14T07:01:14.485] error: *** STEP 59721028.0 ON nid004247 CANCELLED AT 2026-10-14T07:01:14 DUE TO TIME LIMIT ***
+crashed | /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC/strain_calcs/C44/strain_-2%
+    slurm-59721031.out: [2026-10-14T08:12:45.325] error: *** STEP 59721031.0 ON nid004270 CANCELLED AT 2026-10-14T08:12:45 DUE TO TIME LIMIT ***
+

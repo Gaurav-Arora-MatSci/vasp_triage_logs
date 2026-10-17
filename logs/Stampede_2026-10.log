@@ -3423,3 +3423,13 @@ Folders to submit: 18
 Not submitted now because of the limits: 32
 Type yes to save each run and submit: Cancelled. Nothing submitted.
 
+======================================================================
+2026-10-17 04:59 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage submit --status not submitted --root /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training --path=000
+Result: finished
+
+Jobs in queue: 14 of limit 34
+No selected folder matches: 000
+Path filter kept 0 of 50 folders.
+No folders selected.
+

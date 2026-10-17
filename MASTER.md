@@ -3401,6 +3401,35 @@ No selected folder matches: 000
 Path filter kept 0 of 50 folders.
 No folders selected.
 
+======================================================================
+2026-10-17 04:58 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage submit --status not submitted --root /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training --queue-limit 32
+Result: finished
+
+Jobs in queue: 14 of limit 32
+
+Folders to submit: 18
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-000
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-001
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-002
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-003
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-004
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-005
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-006
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-007
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-008
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-009
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-010
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-011
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-012
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-013
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-014
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-015
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-016
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-017
+Not submitted now because of the limits: 32
+Type yes to save each run and submit: Cancelled. Nothing submitted.
+
 
 #######  perlmutter  #######
 

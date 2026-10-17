@@ -3433,3 +3433,40 @@ No selected folder matches: 000
 Path filter kept 0 of 50 folders.
 No folders selected.
 
+======================================================================
+2026-10-17 06:23 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 1 of limit 34
+
+Folders to submit: 13
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-037
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-038
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-039
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-040
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-041
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-042
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-043
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-044
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-046
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-047
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-048
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-049
+Type yes to save each run and submit: Submitted job 3607893: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-037
+Submitted job 3607894: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-038
+Submitted job 3607895: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-039
+Submitted job 3607896: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-040
+Submitted job 3607897: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-041
+Submitted job 3607898: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-042
+Submitted job 3607899: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-043
+Submitted job 3607900: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-044
+Submitted job 3607901: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045
+Submitted job 3607902: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-046
+Submitted job 3607903: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-047
+Submitted job 3607904: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-048
+Submitted job 3607905: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-049
+
+Submitted: 13
+

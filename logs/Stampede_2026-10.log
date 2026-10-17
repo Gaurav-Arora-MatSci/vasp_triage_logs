@@ -3590,3 +3590,40 @@ Needs a look:
   /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002 [SCF at NELM]
   /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025 [SCF at NELM]
 
+======================================================================
+2026-10-17 14:05 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage submit --status crashed
+Result: finished
+
+Jobs in queue: 4 of limit 34
+Warning: last SCF hit NELM. Fix NELM or ALGO first: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-001
+Warning: ZBRENT: fatal error in bracketing, max force 0.8881 eV/A, max stress 75.37 kB (limit 1.0 kB), last ionic dE 5.13e-01 eV, force limit 0.01 eV/A: criteria not met: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-001
+Warning: last SCF hit NELM. Fix NELM or ALGO first: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002
+Warning: ZBRENT: fatal error in bracketing, max force 1.3629 eV/A, max stress 70.30 kB (limit 1.0 kB), last ionic dE 6.92e+01 eV, force limit 0.01 eV/A: criteria not met: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002
+Warning: ZBRENT: fatal error in bracketing, max force 0.0724 eV/A, max stress 0.06 kB (limit 1.0 kB), last ionic dE 1.20e-03 eV, force limit 0.01 eV/A: criteria not met: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-006
+Warning: last SCF hit NELM. Fix NELM or ALGO first: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025
+Warning: ZBRENT: fatal error in bracketing, max force 0.8980 eV/A, max stress 102.85 kB (limit 1.0 kB), last ionic dE 6.86e+01 eV, force limit 0.01 eV/A: criteria not met: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025
+
+Folders to submit: 5
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-001  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-006  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-016
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-001
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-001
+Submitted job 3608657: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-001
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002
+Submitted job 3608658: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-006
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-006
+Submitted job 3608659: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-006
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-016
+Submitted job 3608660: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-016
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025
+Submitted job 3608661: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025
+
+Submitted: 5
+

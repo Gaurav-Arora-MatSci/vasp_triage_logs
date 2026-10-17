@@ -7464,3 +7464,21 @@ All my jobs in the queue: 0
 Folders under /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elastic-production/9-W10-2vac/2-elastic/2-MEC: 15
   crashed after reaching accuracy: 15
 
+======================================================================
+2026-10-17 16:56 | perlmutter | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 2
+  running: 2
+
+All my jobs in the queue: 2
+  running: 2
+  free slots under limit 15: 13
+
+Folders under /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs: 21
+  converged: 5
+  incomplete: 2
+  running or pending: 1
+  missing inputs: 13
+

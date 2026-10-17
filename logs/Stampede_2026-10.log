@@ -3508,3 +3508,21 @@ Submitted job 3608191: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_se
 
 Submitted: 1
 
+======================================================================
+2026-10-17 10:28 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 1
+  pending: 1
+
+All my jobs in the queue: 16
+  pending: 15
+  running: 1
+  free slots under limit 34: 18
+
+Folders under /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set: 100
+  crashed after reaching accuracy: 97
+  crashed: 2
+  running or pending: 1
+

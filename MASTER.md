@@ -3573,6 +3573,30 @@ Folders under /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set: 100
   crashed: 2
   running or pending: 1
 
+======================================================================
+2026-10-17 14:03 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 2
+  running: 2
+
+All my jobs in the queue: 4
+  pending: 1
+  running: 3
+  free slots under limit 34: 30
+
+Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
+  converged: 39
+  ionic not converged: 4
+  crashed: 5
+  running or pending: 2
+
+Needs a look:
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-001 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025 [SCF at NELM]
+
 
 #######  perlmutter  #######
 

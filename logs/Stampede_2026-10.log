@@ -3470,3 +3470,20 @@ Submitted job 3607905: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_tra
 
 Submitted: 13
 
+======================================================================
+2026-10-17 08:59 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 15
+  pending: 14
+  running: 1
+  free slots under limit 34: 19
+
+Folders under /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set: 100
+  crashed after reaching accuracy: 97
+  crashed: 2
+  incomplete: 1
+

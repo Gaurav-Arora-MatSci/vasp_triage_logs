@@ -3494,3 +3494,17 @@ Result: 1 folders
 
 incomplete | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
 
+======================================================================
+2026-10-17 09:00 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage submit --status incomplete
+Result: finished
+
+Jobs in queue: 15 of limit 34
+
+Folders to submit: 1
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+Type yes to save each run and submit: Archived as run 3: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+Submitted job 3608191: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+
+Submitted: 1
+

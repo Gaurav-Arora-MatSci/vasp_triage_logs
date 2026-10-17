@@ -3540,6 +3540,21 @@ Result: 1 folders
 
 running or pending | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
 
+======================================================================
+2026-10-17 10:29 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 16
+  pending: 15
+  running: 1
+  free slots under limit 34: 18
+
+Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 100
+  crashed after reaching accuracy: 100
+
 
 #######  perlmutter  #######
 

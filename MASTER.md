@@ -3555,6 +3555,24 @@ All my jobs in the queue: 16
 Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/DFT_training_set: 100
   crashed after reaching accuracy: 100
 
+======================================================================
+2026-10-17 14:02 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 1
+  pending: 1
+
+All my jobs in the queue: 4
+  pending: 1
+  running: 3
+  free slots under limit 34: 30
+
+Folders under /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set: 100
+  crashed after reaching accuracy: 97
+  crashed: 2
+  running or pending: 1
+
 
 #######  perlmutter  #######
 

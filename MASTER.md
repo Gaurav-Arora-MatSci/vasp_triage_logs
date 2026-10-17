@@ -3304,6 +3304,31 @@ Needs a look:
   /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002 [SCF at NELM]
   /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025 [SCF at NELM]
 
+======================================================================
+2026-10-17 04:56 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 14
+  pending: 13
+  running: 1
+
+All my jobs in the queue: 14
+  pending: 13
+  running: 1
+  free slots under limit 34: 20
+
+Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
+  converged: 28
+  ionic not converged: 3
+  crashed: 5
+  running or pending: 14
+
+Needs a look:
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-001 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025 [SCF at NELM]
+
 
 #######  perlmutter  #######
 

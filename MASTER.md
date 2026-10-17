@@ -3262,6 +3262,23 @@ Submitted job 3607282: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_tra
 Submitted: 10
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-17 04:53 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage submit --status not submitted --root /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+Result: finished
+
+Jobs in queue: 11 of limit 34
+
+Folders to submit: 3
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-047
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-048
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-049
+Type yes to save each run and submit: Submitted job 3607833: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-047
+Submitted job 3607834: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-048
+Submitted job 3607835: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-049
+
+Submitted: 3
+
 
 #######  perlmutter  #######
 

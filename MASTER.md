@@ -3229,6 +3229,39 @@ Submitted job 3606875: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_tra
 Submitted: 19
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-16 20:36 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage submit --status not submitted --root /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training --queue-limit 30
+Result: finished
+
+Jobs in queue: 20 of limit 30
+
+Folders to submit: 10
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-037
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-038
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-039
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-040
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-041
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-042
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-043
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-044
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-046
+Not submitted now because of the limits: 3
+Type yes to save each run and submit: Submitted job 3607273: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-037
+Submitted job 3607274: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-038
+Submitted job 3607275: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-039
+Submitted job 3607276: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-040
+Submitted job 3607277: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-041
+Submitted job 3607278: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-042
+Submitted job 3607279: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-043
+Submitted job 3607280: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-044
+Submitted job 3607281: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045
+Submitted job 3607282: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-046
+
+Submitted: 10
+Run the same command again later for the next batch.
+
 
 #######  perlmutter  #######
 

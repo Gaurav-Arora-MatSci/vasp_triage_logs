@@ -3329,6 +3329,68 @@ Needs a look:
   /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002 [SCF at NELM]
   /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025 [SCF at NELM]
 
+======================================================================
+2026-10-17 04:56 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage list converged
+Result: 28 folders
+
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-000 | -1708.39491847 eV
+    slurm-59808927.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     58
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-003 | -1709.13253273 eV
+    slurm-59808955.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     34
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-004 | -1714.68851728 eV
+    slurm-59808962.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     48
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-005 | -1717.20083513 eV
+    slurm-59808963.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     50
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-007 | -1708.55168419 eV
+    slurm-59808965.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     32
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-008 | -1704.55455042 eV
+    slurm-59808966.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     35
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-009 | -1709.98959376 eV
+    slurm-59808967.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     48
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-011 | -1708.96493868 eV
+    slurm-59808969.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     42
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-012 | -1709.66145664 eV
+    slurm-59808970.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     52
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-013 | -1708.46253298 eV
+    slurm-59808971.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     36
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-014 | -1705.83494126 eV
+    slurm-59852428.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     25
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-015 | -1704.06225855 eV
+    slurm-59852433.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     15
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-017 | -1708.07253746 eV
+    slurm-59852439.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     25
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-018 | -1714.32038232 eV
+    slurm-3606857.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     18
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-019 | -1707.82251126 eV
+    slurm-3606858.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     28
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-020 | -1703.6065572 eV
+    slurm-3606859.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     35
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-021 | -1704.11681592 eV
+    slurm-3606860.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     24
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-022 | -1708.66928734 eV
+    slurm-3606861.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     37
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-023 | -1710.81056446 eV
+    slurm-3606862.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     33
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-024 | -1711.29957235 eV
+    slurm-3606863.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     17
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-027 | -1713.26102327 eV
+    slurm-3606866.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     22
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-028 | -1712.22828585 eV
+    slurm-3606867.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     42
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-029 | -1709.63739725 eV
+    slurm-3606868.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     33
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-030 | -1709.82041787 eV
+    slurm-3606869.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     28
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-032 | -1706.30225402 eV
+    slurm-3606871.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     32
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-033 | -1709.48768838 eV
+    slurm-3606872.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     31
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-034 | -1709.26609787 eV
+    slurm-3606873.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     19
+converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-035 | -1710.09393135 eV
+    slurm-3606874.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     29
+
 
 #######  perlmutter  #######
 

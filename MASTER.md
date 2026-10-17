@@ -3533,6 +3533,13 @@ Folders under /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set: 100
   crashed: 2
   running or pending: 1
 
+======================================================================
+2026-10-17 10:28 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage list running or pending
+Result: 1 folders
+
+running or pending | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+
 
 #######  perlmutter  #######
 

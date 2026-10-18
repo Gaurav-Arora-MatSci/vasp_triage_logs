@@ -3732,3 +3732,20 @@ crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-006
 crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-026
     slurm-3606865.out: [2026-10-17T15:56:00.049] error: *** JOB 3606865 ON c517-111 CANCELLED AT 2026-10-17T15:56:00 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-18 07:31 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage status /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+Result: checked
+
+Jobs from this folder: 5
+  running: 5
+
+All my jobs in the queue: 6
+  running: 6
+  free slots under limit 34: 28
+
+Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
+  converged: 43
+  crashed: 2
+  running or pending: 5
+

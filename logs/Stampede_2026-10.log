@@ -3945,3 +3945,21 @@ crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
     slurm-3610740.out: ZBRENT: fatal error in bracketing
     max force 0.0120 eV/A, max stress 0.11 kB (limit 1.0 kB), last ionic dE 4.00e-04 eV, force limit 0.01 eV/A: criteria not met
 
+======================================================================
+2026-10-18 08:41 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage submit --status crashed --root /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+Result: finished
+
+Jobs in queue: 2 of limit 34
+Warning: ZBRENT: fatal error in bracketing, max force 0.0120 eV/A, max stress 0.11 kB (limit 1.0 kB), last ionic dE 4.00e-04 eV, force limit 0.01 eV/A: criteria not met: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+
+Folders to submit: 2
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Submitted job 3610894: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+Archived as run 2: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+Submitted job 3610895: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+
+Submitted: 2
+

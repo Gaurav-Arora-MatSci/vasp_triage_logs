@@ -3666,6 +3666,22 @@ Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
   ionic not converged: 5
   crashed: 2
 
+======================================================================
+2026-10-18 07:30 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage list ionic not converged
+Result: 5 folders
+
+ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002 | -1702.29500929 eV
+    slurm-59808932.out: ZBRENT: fatal error in bracketing
+ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010 | -1705.59888678 eV
+    slurm-59808968.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     53
+ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031 | -1706.25031686 eV
+    slurm-3606870.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     28
+ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-036 | -1709.77611006 eV
+    slurm-3606875.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     42
+ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045 | -1706.24582197 eV
+    slurm-3607901.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     27
+
 
 #######  perlmutter  #######
 

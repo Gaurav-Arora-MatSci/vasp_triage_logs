@@ -3756,6 +3756,17 @@ Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
   crashed: 2
   running or pending: 5
 
+======================================================================
+2026-10-18 07:31 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage list crashed
+Result: 2 folders
+
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-006
+    slurm-59808964.out: ZBRENT: fatal error in bracketing
+    max force 0.0393 eV/A, max stress 0.74 kB (limit 1.0 kB), last ionic dE 4.00e-04 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-026
+    slurm-3606865.out: [2026-10-17T15:56:00.049] error: *** JOB 3606865 ON c517-111 CANCELLED AT 2026-10-17T15:56:00 DUE TO TIME LIMIT ***
+
 
 #######  perlmutter  #######
 

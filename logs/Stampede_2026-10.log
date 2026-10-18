@@ -3691,3 +3691,33 @@ ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_trai
 ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045 | -1706.24582197 eV
     slurm-3607901.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     27
 
+======================================================================
+2026-10-18 07:31 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage submit --status ionic not converged --root /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+Result: finished
+
+Jobs in queue: 1 of limit 34
+
+Folders to submit: 5
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-036  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045  (CONTCAR to POSCAR)
+Type yes to save each run and submit: CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002
+Submitted job 3610738: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-002
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+Submitted job 3610739: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+Submitted job 3610740: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-036
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-036
+Submitted job 3610741: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-036
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045
+Submitted job 3610742: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045
+
+Submitted: 5
+

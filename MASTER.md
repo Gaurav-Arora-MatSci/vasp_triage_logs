@@ -3941,6 +3941,17 @@ Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
   converged: 48
   crashed: 2
 
+======================================================================
+2026-10-18 08:41 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage list crashed
+Result: 2 folders
+
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+    slurm-59808968.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     53
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+    slurm-3610740.out: ZBRENT: fatal error in bracketing
+    max force 0.0120 eV/A, max stress 0.11 kB (limit 1.0 kB), last ionic dE 4.00e-04 eV, force limit 0.01 eV/A: criteria not met
+
 
 #######  perlmutter  #######
 

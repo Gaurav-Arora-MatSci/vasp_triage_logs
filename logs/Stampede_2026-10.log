@@ -3900,3 +3900,22 @@ crashed | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
 crashed | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-053
     slurm-3597250.out: [2026-10-14T06:03:39.021] error: *** JOB 3597250 ON c518-092 CANCELLED AT 2026-10-14T06:03:39 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-18 07:33 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage submit --status crashed --root /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+Result: finished
+
+Jobs in queue: 8 of limit 34
+CONTCAR missing or empty, skipped: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-053
+
+Folders to submit: 2
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-025  (CONTCAR to POSCAR)
+  /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+Type yes to save each run and submit: Archived as run 3: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-025
+CONTCAR copied to POSCAR: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-025
+Submitted job 3610751: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-025
+Archived as run 4: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+Submitted job 3610752: /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+
+Submitted: 2
+

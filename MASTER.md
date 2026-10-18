@@ -3895,6 +3895,18 @@ crashed after reaching accuracy | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_
 crashed after reaching accuracy | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-098
 crashed after reaching accuracy | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-099
 
+======================================================================
+2026-10-18 07:32 | Stampede | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set
+$ vtriage list crashed
+Result: 3 folders
+
+crashed | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-025
+    slurm-3603052.out: [2026-10-17T00:54:42.073] error: *** JOB 3603052 ON c511-092 CANCELLED AT 2026-10-17T00:54:42 DUE TO TIME LIMIT ***
+crashed | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-039
+    slurm-3608191.out: [2026-10-17T17:17:31.836] error: *** JOB 3608191 ON c514-013 CANCELLED AT 2026-10-17T17:17:31 DUE to SIGNAL Terminated ***
+crashed | /work2/11532/garora/mecx/5-MECx_W10_6x6x6/DFT_training_set/str-053
+    slurm-3597250.out: [2026-10-14T06:03:39.021] error: *** JOB 3597250 ON c518-092 CANCELLED AT 2026-10-14T06:03:39 DUE TO TIME LIMIT ***
+
 
 #######  perlmutter  #######
 

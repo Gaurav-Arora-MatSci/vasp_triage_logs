@@ -4230,6 +4230,14 @@ Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
   converged: 49
   crashed: 1
 
+======================================================================
+2026-10-19 10:11 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage list crashed
+Result: 1 folders
+
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+    slurm-59808968.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     53
+
 
 #######  perlmutter  #######
 

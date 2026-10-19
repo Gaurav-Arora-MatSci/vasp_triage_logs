@@ -4244,3 +4244,33 @@ Type yes to save each run and submit: Submitted job 3615421: /work2/11532/garora
 
 Submitted: 1
 
+======================================================================
+2026-10-19 10:12 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 3
+  running: 3
+
+All my jobs in the queue: 4
+  pending: 1
+  running: 3
+  free slots under limit 34: 30
+
+Folders under /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training: 50
+  converged: 33
+  crashed after reaching accuracy: 1
+  ionic not converged: 1
+  crashed: 7
+  incomplete: 5
+  running or pending: 3
+
+Needs a look:
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-005 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-019 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-024 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-031 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-034 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-043 [SCF at NELM]
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-047 [SCF at NELM]
+

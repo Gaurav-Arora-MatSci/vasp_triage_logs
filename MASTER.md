@@ -4430,6 +4430,23 @@ Result: finished
 Jobs in queue: 0 of limit 34
 No folders selected.
 
+======================================================================
+2026-10-19 18:30 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 1
+  pending: 1
+
+All my jobs in the queue: 1
+  pending: 1
+  free slots under limit 34: 33
+
+Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set: 9
+  crashed after reaching accuracy: 6
+  incomplete: 2
+  running or pending: 1
+
 
 #######  perlmutter  #######
 

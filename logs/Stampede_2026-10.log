@@ -4388,3 +4388,14 @@ Submitted job 3617600: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_tes
 
 Submitted: 8
 
+======================================================================
+2026-10-19 18:04 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set
+$ vtriage submit status not_submitted
+Result: failed, exit code 2
+
+usage: resubmit.py [-h] [--status STATUS] [--group GROUP] [--root ROOT]
+                   [--list LIST] [--max MAX] [--queue-limit QUEUE_LIMIT]
+                   [--force] [--skip-zbrent-met] [--path PATH [PATH ...]]
+                   [--yes]
+resubmit.py: error: unrecognized arguments: status not_submitted
+

@@ -4231,3 +4231,16 @@ Result: 1 folders
 crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
     slurm-59808968.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     53
 
+======================================================================
+2026-10-19 10:11 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage submit --status crashed --root /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+Result: finished
+
+Jobs in queue: 3 of limit 34
+
+Folders to submit: 1
+  /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+Type yes to save each run and submit: Submitted job 3615421: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
+
+Submitted: 1
+

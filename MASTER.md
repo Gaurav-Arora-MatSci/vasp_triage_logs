@@ -4447,6 +4447,21 @@ Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set: 9
   incomplete: 2
   running or pending: 1
 
+======================================================================
+2026-10-19 18:30 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 9 folders
+
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-10
+running or pending | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-15
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-16
+incomplete | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-17
+incomplete | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-18
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-19
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-7
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-8
+crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-9
+
 
 #######  perlmutter  #######
 

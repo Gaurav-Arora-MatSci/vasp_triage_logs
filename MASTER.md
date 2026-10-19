@@ -4281,6 +4281,40 @@ Needs a look:
   /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-043 [SCF at NELM]
   /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-047 [SCF at NELM]
 
+======================================================================
+2026-10-19 10:12 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage list crashed
+Result: 7 folders
+
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-005
+    slurm-3614666.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 0.5180 eV/A, max stress 25.59 kB (limit 1.0 kB), last ionic dE 2.68e-01 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-019
+    slurm-3614680.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 0.6365 eV/A, max stress 11.92 kB (limit 1.0 kB), last ionic dE 6.47e+01 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-024
+    slurm-3614685.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 1.8847 eV/A, max stress 15.42 kB (limit 1.0 kB), last ionic dE 4.45e+00 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-031
+    slurm-3614692.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 1.1361 eV/A, max stress 14.10 kB (limit 1.0 kB), last ionic dE 1.80e+01 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-034
+    slurm-3614737.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 1.5375 eV/A, max stress 27.16 kB (limit 1.0 kB), last ionic dE 2.30e-01 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-043
+    slurm-3614746.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 1.2065 eV/A, max stress 22.12 kB (limit 1.0 kB), last ionic dE 1.56e+01 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-047
+    slurm-3614750.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 1.6811 eV/A, max stress 29.78 kB (limit 1.0 kB), last ionic dE 6.26e-01 eV, force limit 0.01 eV/A: criteria not met
+
 
 #######  perlmutter  #######
 

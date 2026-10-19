@@ -3963,3 +3963,19 @@ Submitted job 3610895: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_tra
 
 Submitted: 2
 
+======================================================================
+2026-10-19 06:29 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage submit --status not_submitted
+Result: failed, exit code 1
+
+Error: unknown status. Use one of:
+  converged
+  crashed after reaching accuracy
+  SCF not converged
+  ionic not converged
+  crashed
+  incomplete
+  running or pending
+  not submitted
+  missing inputs
+

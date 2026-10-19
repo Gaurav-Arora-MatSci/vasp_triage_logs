@@ -4368,6 +4368,33 @@ Submitted job 3615430: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_tra
 
 Submitted: 7
 
+======================================================================
+2026-10-19 16:29 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 1 of limit 34
+
+Folders to submit: 8
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-10
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-16
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-17
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-18
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-19
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-7
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-8
+  /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-9
+Type yes to save each run and submit: Submitted job 3617593: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-10
+Submitted job 3617594: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-16
+Submitted job 3617595: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-17
+Submitted job 3617596: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-18
+Submitted job 3617597: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-19
+Submitted job 3617598: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-7
+Submitted job 3617599: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-8
+Submitted job 3617600: /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-9
+
+Submitted: 8
+
 
 #######  perlmutter  #######
 

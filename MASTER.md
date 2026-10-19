@@ -4406,6 +4406,22 @@ usage: resubmit.py [-h] [--status STATUS] [--group GROUP] [--root ROOT]
                    [--yes]
 resubmit.py: error: unrecognized arguments: status not_submitted
 
+======================================================================
+2026-10-19 18:05 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set
+$ vtriage submit --status not_submitted
+Result: failed, exit code 1
+
+Error: unknown status. Use one of:
+  converged
+  crashed after reaching accuracy
+  SCF not converged
+  ionic not converged
+  crashed
+  incomplete
+  running or pending
+  not submitted
+  missing inputs
+
 
 #######  perlmutter  #######
 

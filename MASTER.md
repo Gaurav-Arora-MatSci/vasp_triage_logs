@@ -4215,6 +4215,21 @@ converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-0
 converged | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-049 | -1701.51458227 eV
     slurm-3607905.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     20
 
+======================================================================
+2026-10-19 10:11 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage status /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 3
+  running: 3
+  free slots under limit 34: 31
+
+Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
+  converged: 49
+  crashed: 1
+
 
 #######  perlmutter  #######
 

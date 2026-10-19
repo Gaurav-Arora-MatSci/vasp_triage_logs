@@ -4415,3 +4415,11 @@ Error: unknown status. Use one of:
   not submitted
   missing inputs
 
+======================================================================
+2026-10-19 18:05 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 0 of limit 34
+No folders selected.
+

@@ -4513,3 +4513,106 @@ crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-028
 crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-032
     slurm-3614693.out: [2026-10-19T13:03:02.017] error: *** JOB 3614693 ON c511-073 CANCELLED AT 2026-10-19T13:03:02 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-20 10:01 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 50 folders
+
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-000 | -1775.33201816 eV
+    slurm-3614661.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     54
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-001 | -1773.87705045 eV
+    slurm-3614662.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     46
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-002 | -1772.17392815 eV
+    slurm-3614663.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     44
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-003 | -1773.29082098 eV
+    slurm-3614664.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     62
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-004 | -1778.29271734 eV
+    slurm-3614665.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     59
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-005 | -1772.65151155 eV
+    slurm-3615424.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     60
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-006 | -1774.61325311 eV
+    slurm-3614667.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     54
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-007 | -1772.5147532 eV
+    slurm-3614668.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     83
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-008 | -1771.87253227 eV
+    slurm-3614669.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     48
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-009 | -1774.50139158 eV
+    slurm-3614670.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     73
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-010 | -1774.92015564 eV
+    slurm-3614671.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     42
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-011 | -1774.93663711 eV
+    slurm-3614672.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     75
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-012 | -1776.57672681 eV
+    slurm-3614673.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     77
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-013 | -1773.8565412 eV
+    slurm-3614674.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     45
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-014 | -1779.89487736 eV
+    slurm-3614675.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     43
+crashed after reaching accuracy | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-015
+    slurm-3614676.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     57
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-016 | -1774.85471044 eV
+    slurm-3614677.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     58
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-017 | -1767.9183621 eV
+    slurm-3614678.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     52
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-018 | -1778.2450224 eV
+    slurm-3614679.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     47
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-019 | -1767.07518192 eV
+    slurm-3615425.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     73
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-020 | -1777.82399815 eV
+    slurm-3614681.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     64
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-021 | -1775.46408714 eV
+    slurm-3614682.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     53
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-022 | -1777.3125507 eV
+    slurm-3614683.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     62
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-023 | -1775.81651888 eV
+    slurm-3614684.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     60
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-024 | -1773.62660788 eV
+    slurm-3615426.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     43
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-025 | -1778.83289926 eV
+    slurm-3614686.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     63
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-026 | -1773.8806148 eV
+    slurm-3614687.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     59
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-027
+    slurm-3614688.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 1.0192 eV/A, max stress 20.84 kB (limit 1.0 kB), last ionic dE 4.51e+00 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-028
+    slurm-3614689.out: [2026-10-19T13:01:33.020] error: *** JOB 3614689 ON c517-021 CANCELLED AT 2026-10-19T13:01:33 DUE TO TIME LIMIT ***
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-029 | -1768.68154509 eV
+    slurm-3614690.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     57
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-030
+ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-031 | -1773.07566737 eV
+    slurm-3615427.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     85
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-032
+    slurm-3614693.out: [2026-10-19T13:03:02.017] error: *** JOB 3614693 ON c511-073 CANCELLED AT 2026-10-19T13:03:02 DUE TO TIME LIMIT ***
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-033 | -1778.60359576 eV
+    slurm-3614694.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     50
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-034 | -1775.98033873 eV
+    slurm-3615428.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     61
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-035 | -1775.54093422 eV
+    slurm-3614738.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     46
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-036
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-037 | -1772.28507469 eV
+    slurm-3614740.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     44
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-038 | -1771.59359316 eV
+    slurm-3614741.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     64
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-039 | -1777.50873838 eV
+    slurm-3614742.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     58
+ionic not converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-040 | -1773.63439304 eV
+    slurm-3614743.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     66
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-041 | -1776.89124543 eV
+    slurm-3614744.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     48
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-042
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-043 | -1771.17290949 eV
+    slurm-3615429.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     76
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-044
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-045 | -1771.37391245 eV
+    slurm-3614748.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     76
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-046
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-047 | -1778.41541128 eV
+    slurm-3615430.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     70
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-048 | -1775.52319412 eV
+    slurm-3614751.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   6  3     48
+converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-049 | -1774.55054259 eV
+    slurm-3614752.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     85
+

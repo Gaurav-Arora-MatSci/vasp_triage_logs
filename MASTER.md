@@ -8546,3 +8546,49 @@ Folders under /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs: 20
   incomplete: 3
   missing inputs: 7
 
+======================================================================
+2026-10-20 09:13 | perlmutter | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 20 folders
+
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-0 | -5522.57116263 eV
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-1 | -5522.05490699 eV
+    missing: submit_vasp.sh
+missing inputs | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-10
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-11 | -5522.69587535 eV
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-12 | -5521.69865665 eV
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-13 | -5522.05013853 eV
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-14 | -5522.20982638 eV
+    missing: submit_vasp.sh
+incomplete | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-15
+    missing: submit_vasp.sh
+missing inputs | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-16
+    missing: submit_vasp.sh
+missing inputs | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-17
+    missing: submit_vasp.sh
+missing inputs | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-18
+    missing: submit_vasp.sh
+missing inputs | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-19
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-2 | -5522.55783224 eV
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-3 | -5522.22268405 eV
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-4 | -5521.63060792 eV
+    missing: submit_vasp.sh
+converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-5 | -5522.45569817 eV
+    missing: submit_vasp.sh
+incomplete | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-6
+    missing: submit_vasp.sh
+incomplete | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-7
+    missing: submit_vasp.sh
+missing inputs | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-8
+    missing: submit_vasp.sh
+missing inputs | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-9
+    missing: submit_vasp.sh
+

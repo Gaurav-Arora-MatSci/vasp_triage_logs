@@ -4499,3 +4499,17 @@ incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-
 incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-044
 incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-046
 
+======================================================================
+2026-10-20 10:01 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage list crashed
+Result: 3 folders
+
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-027
+    slurm-3614688.out: ZBRENT: fatal error in bracketing
+    last SCF hit NELM
+    max force 1.0192 eV/A, max stress 20.84 kB (limit 1.0 kB), last ionic dE 4.51e+00 eV, force limit 0.01 eV/A: criteria not met
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-028
+    slurm-3614689.out: [2026-10-19T13:01:33.020] error: *** JOB 3614689 ON c517-021 CANCELLED AT 2026-10-19T13:01:33 DUE TO TIME LIMIT ***
+crashed | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-032
+    slurm-3614693.out: [2026-10-19T13:03:02.017] error: *** JOB 3614693 ON c511-073 CANCELLED AT 2026-10-19T13:03:02 DUE TO TIME LIMIT ***
+

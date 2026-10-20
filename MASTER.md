@@ -8490,3 +8490,18 @@ Submitted job 59946301: /pscratch/sd/g/garora/Villanova/11-W_based_HEAs/3-elasti
 Submitted: 14
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-20 09:08 | perlmutter | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 15: 15
+
+Folders under /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs: 20
+  converged: 10
+  incomplete: 3
+  missing inputs: 7
+

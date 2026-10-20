@@ -4468,3 +4468,23 @@ All my jobs in the queue: 0
 Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set: 9
   crashed after reaching accuracy: 9
 
+======================================================================
+2026-10-20 10:00 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 34: 34
+
+Folders under /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training: 50
+  converged: 39
+  crashed after reaching accuracy: 1
+  ionic not converged: 2
+  crashed: 3
+  incomplete: 5
+
+Needs a look:
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-027 [SCF at NELM]
+

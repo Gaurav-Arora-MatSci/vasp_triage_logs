@@ -4634,6 +4634,26 @@ incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-
 incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-044
 incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-046
 
+======================================================================
+2026-10-20 10:01 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage status /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 34: 34
+
+Folders under /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training: 50
+  converged: 39
+  crashed after reaching accuracy: 1
+  ionic not converged: 2
+  crashed: 3
+  incomplete: 5
+
+Needs a look:
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-027 [SCF at NELM]
+
 
 #######  perlmutter  #######
 

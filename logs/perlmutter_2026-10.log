@@ -4051,3 +4051,18 @@ converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-4 | -5521.6
 converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-5 | -5522.45569817 eV
     missing: submit_vasp.sh
 
+======================================================================
+2026-10-20 09:12 | perlmutter | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 15: 15
+
+Folders under /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs: 20
+  converged: 10
+  incomplete: 3
+  missing inputs: 7
+

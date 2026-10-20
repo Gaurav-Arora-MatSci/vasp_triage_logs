@@ -4647,3 +4647,29 @@ Folders under /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training: 50
 Needs a look:
   /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-027 [SCF at NELM]
 
+======================================================================
+2026-10-20 10:01 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage submit --status incomplete --root /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+Result: finished
+
+Jobs in queue: 0 of limit 34
+
+Folders to submit: 5
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-030
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-036
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-042
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-044
+  /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-046
+Type yes to save each run and submit: Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-030
+Submitted job 3620671: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-030
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-036
+Submitted job 3620672: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-036
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-042
+Submitted job 3620674: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-042
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-044
+Submitted job 3620675: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-044
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-046
+Submitted job 3620676: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-046
+
+Submitted: 5
+

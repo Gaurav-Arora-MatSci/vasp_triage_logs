@@ -4462,6 +4462,19 @@ crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6
 crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-8
 crashed after reaching accuracy | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set/str-9
 
+======================================================================
+2026-10-20 08:07 | Stampede | /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 34: 34
+
+Folders under /work2/11532/garora/mecx/4-MECx_W10_4vac_6x6x6/random_test_set: 9
+  crashed after reaching accuracy: 9
+
 
 #######  perlmutter  #######
 

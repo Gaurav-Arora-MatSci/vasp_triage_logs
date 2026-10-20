@@ -4703,6 +4703,61 @@ Result: 1 folders
 crashed | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-010
     slurm-59808968.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     53
 
+======================================================================
+2026-10-20 10:53 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage history /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+Result: finished
+
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-000
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-003
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-004
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-005
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-007
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-008
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-009
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-011
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-012
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-013
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-014
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-015
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-017
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-018
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-019
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-020
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-021
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-022
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-023
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-024
+Archived as run 2: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-025
+Archived as run 2: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-026
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-027
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-028
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-029
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-030
+Archived as run 3: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-031
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-032
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-033
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-034
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-035
+Archived as run 2: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-036
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-037
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-038
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-039
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-040
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-041
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-042
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-043
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-044
+Archived as run 2: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-045
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-046
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-047
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-048
+Archived as run 1: /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training/str-049
+
+Summary:
+  archived: 45
+  skipped: 5
+
 
 #######  perlmutter  #######
 

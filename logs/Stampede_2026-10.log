@@ -4616,3 +4616,14 @@ converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-0
 converged | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-049 | -1774.55054259 eV
     slurm-3614752.out: WARNING in EDDRMM: call to ZHEGV failed, returncode =   8  4     85
 
+======================================================================
+2026-10-20 10:01 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage list incomplete
+Result: 5 folders
+
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-030
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-036
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-042
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-044
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-046
+

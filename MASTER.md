@@ -4680,6 +4680,21 @@ Submitted job 3620676: /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_tra
 
 Submitted: 5
 
+======================================================================
+2026-10-20 10:52 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 5
+  pending: 5
+  free slots under limit 34: 29
+
+Folders under /work2/11532/garora/mecx/Mo-based-alloys/1-Mo28/1-DFT_training: 50
+  converged: 49
+  crashed: 1
+
 
 #######  perlmutter  #######
 

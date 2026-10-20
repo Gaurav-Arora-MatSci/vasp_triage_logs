@@ -4488,3 +4488,14 @@ Folders under /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training: 50
 Needs a look:
   /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-027 [SCF at NELM]
 
+======================================================================
+2026-10-20 10:00 | Stampede | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training
+$ vtriage list incomplete
+Result: 5 folders
+
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-030
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-036
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-042
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-044
+incomplete | /work2/11532/garora/mecx/Mo-based-alloys/2-Mo30/1-DFT_training/str-046
+

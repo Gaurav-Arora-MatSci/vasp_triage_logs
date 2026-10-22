@@ -9006,3 +9006,32 @@ converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-4 | -5521.6
 converged | /pscratch/sd/g/garora/Villanova/W10-4vac-ransom_strs/str-5 | -5522.45569817 eV
     missing: submit_vasp.sh
 
+======================================================================
+2026-10-22 07:04 | perlmutter | /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 0 of limit 15
+
+Folders to submit: 9
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-10
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-2
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-3
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-4
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-5
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-6
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-7
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-8
+  /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-9
+Type yes to save each run and submit: Submitted job 60101809: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-10
+Submitted job 60101810: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-2
+Submitted job 60101811: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-3
+Submitted job 60101812: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-4
+Submitted job 60101813: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-5
+Submitted job 60101814: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-6
+Submitted job 60101815: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-7
+Submitted job 60101816: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-8
+Submitted job 60101817: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/2-MECS_from_6x6x6_mecx/str-9
+
+Submitted: 9
+

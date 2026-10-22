@@ -4244,3 +4244,19 @@ Result: finished
 Jobs in queue: 28 of limit 15
 Queue is full. Nothing submitted.
 
+======================================================================
+2026-10-22 17:41 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 10 of limit 15
+
+Folders to submit: 5
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_02-44PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_02-47PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_02-50PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_02-54PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_02-57PM/T_0100K/Best_of_Best
+Not submitted now because of the limits: 13
+Type yes to save each run and submit: Cancelled. Nothing submitted.
+

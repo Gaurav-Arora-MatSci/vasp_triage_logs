@@ -4167,3 +4167,10 @@ Submitted job 60101817: /pscratch/sd/g/garora/Villanova/W_MECx/W10-DFT_for_MECs/
 
 Submitted: 9
 
+======================================================================
+2026-10-22 15:23 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage submit
+Result: failed, exit code 1
+
+Error: give exactly one of --status, --group, or --list.
+

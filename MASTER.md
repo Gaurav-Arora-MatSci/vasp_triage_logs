@@ -9294,3 +9294,28 @@ Submitted job 60130681: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-
 Submitted: 20
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-22 18:16 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5
+$ vtriage submit --status not submitted --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5 --queue-limit 100
+Result: finished
+
+Jobs in queue: 39 of limit 100
+
+Folders to submit: 7
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-54PM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60130697: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+Submitted job 60130699: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+Submitted job 60130700: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+Submitted job 60130701: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+Submitted job 60130702: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+Submitted job 60130703: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+Submitted job 60130704: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-54PM/T_0100K/Best_of_Best
+
+Submitted: 7
+

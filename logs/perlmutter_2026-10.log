@@ -4323,3 +4323,22 @@ Result: finished
 Jobs in queue: 15 of limit 15
 Queue is full. Nothing submitted.
 
+======================================================================
+2026-10-22 17:54 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 15 of limit 100
+
+Folders to submit: 4
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/6-6Y/MC_Run_22Oct2026_12-02PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_22Oct2026_12-04PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/8-8Y/MC_Run_22Oct2026_12-06PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/9-9Y/MC_Run_22Oct2026_12-07PM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60129946: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/6-6Y/MC_Run_22Oct2026_12-02PM/T_0100K/Best_of_Best
+Submitted job 60129947: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_22Oct2026_12-04PM/T_0100K/Best_of_Best
+Submitted job 60129948: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/8-8Y/MC_Run_22Oct2026_12-06PM/T_0100K/Best_of_Best
+Submitted job 60129949: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/9-9Y/MC_Run_22Oct2026_12-07PM/T_0100K/Best_of_Best
+
+Submitted: 4
+

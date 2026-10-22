@@ -4292,3 +4292,26 @@ Folders to submit: 5
 Not submitted now because of the limits: 4
 Type yes to save each run and submit: Cancelled. Nothing submitted.
 
+======================================================================
+2026-10-22 17:51 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 10 of limit 15
+
+Folders to submit: 5
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_03-10PM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/2-2Y/MC_Run_22Oct2026_11-55AM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/4-4Y/MC_Run_22Oct2026_11-59AM/T_0100K/Best_of_Best
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/5-5Y/MC_Run_22Oct2026_12-00PM/T_0100K/Best_of_Best
+Not submitted now because of the limits: 4
+Type yes to save each run and submit: Submitted job 60129851: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_03-10PM/T_0100K/Best_of_Best
+Submitted job 60129853: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/2-2Y/MC_Run_22Oct2026_11-55AM/T_0100K/Best_of_Best
+Submitted job 60129854: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best
+Submitted job 60129855: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/4-4Y/MC_Run_22Oct2026_11-59AM/T_0100K/Best_of_Best
+Submitted job 60129859: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/5-5Y/MC_Run_22Oct2026_12-00PM/T_0100K/Best_of_Best
+
+Submitted: 5
+Run the same command again later for the next batch.
+

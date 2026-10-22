@@ -4315,3 +4315,11 @@ Submitted job 60129859: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-
 Submitted: 5
 Run the same command again later for the next batch.
 
+======================================================================
+2026-10-22 17:53 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 15 of limit 15
+Queue is full. Nothing submitted.
+

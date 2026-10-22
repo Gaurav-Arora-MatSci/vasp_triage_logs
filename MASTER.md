@@ -9104,3 +9104,11 @@ Submitted job 60129352: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-
 
 Submitted: 10
 
+======================================================================
+2026-10-22 17:39 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 28 of limit 15
+Queue is full. Nothing submitted.
+

@@ -4712,3 +4712,15 @@ Folders under /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1
   running or pending: 3
   missing inputs: 1
 
+======================================================================
+2026-10-23 11:03 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage list converged
+Result: 6 folders
+
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/1-10Y/MC_Run_22Oct2026_10-28AM/T_0100K/Best_of_Best | -5587.76234591 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/10-10Y/MC_Run_22Oct2026_11-35AM/T_0100K/Best_of_Best | -5587.76229245 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/4-4Y/MC_Run_22Oct2026_11-05AM/T_0100K/Best_of_Best | -5597.89158739 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/6-6Y/MC_Run_22Oct2026_11-15AM/T_0100K/Best_of_Best | -5594.42438105 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/8-8Y/MC_Run_22Oct2026_11-25AM/T_0100K/Best_of_Best | -5590.47930228 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/9-9Y/MC_Run_22Oct2026_11-30AM/T_0100K/Best_of_Best | -5590.28180853 eV
+

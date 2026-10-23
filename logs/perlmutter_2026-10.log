@@ -4529,3 +4529,24 @@ Folders under /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1
   crashed: 3
   missing inputs: 1
 
+======================================================================
+2026-10-23 07:22 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 11 folders
+
+missing inputs | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+    missing: POSCAR, POTCAR
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/1-10Y/MC_Run_22Oct2026_10-28AM/T_0100K/Best_of_Best | -5587.76234591 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/10-10Y/MC_Run_22Oct2026_11-35AM/T_0100K/Best_of_Best | -5587.76229245 eV
+crashed | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/2-2Y/MC_Run_22Oct2026_10-55AM/T_0100K/Best_of_Best
+    slurm-60129341.out: [2026-10-23T04:43:32.194] error: *** STEP 60129341.0 ON nid004723 CANCELLED AT 2026-10-23T04:43:32 DUE TO TIME LIMIT ***
+crashed | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/3-3Y/MC_Run_22Oct2026_11-00AM/T_0100K/Best_of_Best
+    slurm-60129343.out: [2026-10-23T04:44:14.496] error: *** STEP 60129343.0 ON nid005273 CANCELLED AT 2026-10-23T04:44:14 DUE TO TIME LIMIT ***
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/4-4Y/MC_Run_22Oct2026_11-05AM/T_0100K/Best_of_Best | -5597.89158739 eV
+crashed | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/5-5Y/MC_Run_22Oct2026_11-10AM/T_0100K/Best_of_Best
+    slurm-60129346.out: [2026-10-23T05:55:41.901] error: *** STEP 60129346.0 ON nid004975 CANCELLED AT 2026-10-23T05:55:41 DUE TO TASK FAILURE ***
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/6-6Y/MC_Run_22Oct2026_11-15AM/T_0100K/Best_of_Best | -5594.42438105 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/7-7Y/MC_Run_22Oct2026_11-20AM/T_0100K/Best_of_Best | -5590.47923262 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/8-8Y/MC_Run_22Oct2026_11-25AM/T_0100K/Best_of_Best | -5590.47930228 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/9-9Y/MC_Run_22Oct2026_11-30AM/T_0100K/Best_of_Best | -5590.28180853 eV
+

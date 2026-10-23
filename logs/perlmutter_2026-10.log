@@ -4694,3 +4694,21 @@ Type yes to save each run and submit: Submitted job 60154456: /pscratch/sd/g/gar
 
 Submitted: 1
 
+======================================================================
+2026-10-23 11:03 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 3
+  pending: 3
+
+All my jobs in the queue: 51
+  pending: 48
+  running: 3
+  free slots under limit 100: 49
+
+Folders under /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4: 10
+  converged: 6
+  running or pending: 3
+  missing inputs: 1
+

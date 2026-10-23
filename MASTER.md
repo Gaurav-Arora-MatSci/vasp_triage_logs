@@ -9592,3 +9592,15 @@ converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-m
 converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/8-8Y/MC_Run_22Oct2026_11-25AM/T_0100K/Best_of_Best | -5590.47930228 eV
 converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/9-9Y/MC_Run_22Oct2026_11-30AM/T_0100K/Best_of_Best | -5590.28180853 eV
 
+======================================================================
+2026-10-23 11:07 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage list converged
+Result: 6 folders
+
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_03-10PM/T_0100K/Best_of_Best | -5587.48648865 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/4-4Y/MC_Run_22Oct2026_11-59AM/T_0100K/Best_of_Best | -5597.89176512 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/5-5Y/MC_Run_22Oct2026_12-00PM/T_0100K/Best_of_Best | -5595.43980543 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/6-6Y/MC_Run_22Oct2026_12-02PM/T_0100K/Best_of_Best | -5594.21664938 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/8-8Y/MC_Run_22Oct2026_12-06PM/T_0100K/Best_of_Best | -5590.25872811 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/9-9Y/MC_Run_22Oct2026_12-07PM/T_0100K/Best_of_Best | -5589.97591028 eV
+

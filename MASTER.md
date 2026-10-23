@@ -9536,3 +9536,16 @@ Result: 1 folders
 crashed | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best
     slurm-60129854.out: [2026-10-23T11:10:58.889] error: *** STEP 60129854.0 ON nid004699 CANCELLED AT 2026-10-23T11:10:58 DUE TO TASK FAILURE ***
 
+======================================================================
+2026-10-23 07:28 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage edit --status crashed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6 --set ALGO=All
+Result: finished
+
+
+/pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+Folders to change: 1
+Type yes to save each run and apply the changes: Archived as run 1: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best
+Changed: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best
+

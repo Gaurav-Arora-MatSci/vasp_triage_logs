@@ -9380,3 +9380,20 @@ Result: finished
 Jobs in queue: 66 of limit 30
 Queue is full. Nothing submitted.
 
+======================================================================
+2026-10-23 07:22 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 53
+  pending: 52
+  running: 1
+  free slots under limit 100: 47
+
+Folders under /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4: 11
+  converged: 7
+  crashed: 3
+  missing inputs: 1
+

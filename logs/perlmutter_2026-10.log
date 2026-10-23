@@ -4640,3 +4640,23 @@ Submitted job 60154392: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-
 
 Submitted: 2
 
+======================================================================
+2026-10-23 07:27 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 6
+  pending: 5
+  running: 1
+
+All my jobs in the queue: 56
+  pending: 55
+  running: 1
+  free slots under limit 100: 44
+
+Folders under /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6: 10
+  converged: 2
+  crashed: 1
+  running or pending: 6
+  missing inputs: 1
+

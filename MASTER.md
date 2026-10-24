@@ -9766,3 +9766,19 @@ Submitted job 60204409: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-
 
 Submitted: 1
 
+======================================================================
+2026-10-24 06:18 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed incomplete running or pending not submitted missing inputs
+Result: 9 folders
+
+missing inputs | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+    missing: POSCAR, POTCAR
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/10-10Y/MC_Run_22Oct2026_03-10PM/T_0100K/Best_of_Best | -5587.48648865 eV
+running or pending | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/2-2Y/MC_Run_22Oct2026_11-55AM/T_0100K/Best_of_Best
+running or pending | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/4-4Y/MC_Run_22Oct2026_11-59AM/T_0100K/Best_of_Best | -5597.89176512 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/5-5Y/MC_Run_22Oct2026_12-00PM/T_0100K/Best_of_Best | -5595.43980543 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/6-6Y/MC_Run_22Oct2026_12-02PM/T_0100K/Best_of_Best | -5594.21664938 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/8-8Y/MC_Run_22Oct2026_12-06PM/T_0100K/Best_of_Best | -5590.25872811 eV
+converged | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/9-9Y/MC_Run_22Oct2026_12-07PM/T_0100K/Best_of_Best | -5589.97591028 eV
+

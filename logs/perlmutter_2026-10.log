@@ -5163,3 +5163,65 @@ crashed | mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
 crashed | mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-54PM/T_0100K/Best_of_Best
     slurm-60130704.out: [2026-10-23T20:38:02.817] error: *** STEP 60130704.0 ON nid006169 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-24 06:49 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5
+$ vtriage submit --status crashed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5
+Result: finished
+
+Jobs in queue: 16 of limit 100
+
+Folders to submit: 13
+  mc_runs_1vac/10-10Y/MC_Run_22Oct2026_03-57PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_1vac/8-8Y/MC_Run_22Oct2026_03-50PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_1vac/9-9Y/MC_Run_22Oct2026_03-54PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-27PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_2vac/9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_4vac/10-10Y/MC_Run_22Oct2026_04-58PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+  mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_4vac/7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-54PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 1: mc_runs_1vac/10-10Y/MC_Run_22Oct2026_03-57PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_1vac/10-10Y/MC_Run_22Oct2026_03-57PM/T_0100K/Best_of_Best
+Submitted job 60205880: mc_runs_1vac/10-10Y/MC_Run_22Oct2026_03-57PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_1vac/8-8Y/MC_Run_22Oct2026_03-50PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_1vac/8-8Y/MC_Run_22Oct2026_03-50PM/T_0100K/Best_of_Best
+Submitted job 60205881: mc_runs_1vac/8-8Y/MC_Run_22Oct2026_03-50PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_1vac/9-9Y/MC_Run_22Oct2026_03-54PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_1vac/9-9Y/MC_Run_22Oct2026_03-54PM/T_0100K/Best_of_Best
+Submitted job 60205882: mc_runs_1vac/9-9Y/MC_Run_22Oct2026_03-54PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-27PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-27PM/T_0100K/Best_of_Best
+Submitted job 60205884: mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-27PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+Submitted job 60205886: mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+Submitted job 60205888: mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_2vac/9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_2vac/9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best
+Submitted job 60205889: mc_runs_2vac/9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/10-10Y/MC_Run_22Oct2026_04-58PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_4vac/10-10Y/MC_Run_22Oct2026_04-58PM/T_0100K/Best_of_Best
+Submitted job 60205890: mc_runs_4vac/10-10Y/MC_Run_22Oct2026_04-58PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+Submitted job 60205891: mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+Submitted job 60205893: mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_4vac/7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+Submitted job 60205894: mc_runs_4vac/7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+Submitted job 60205895: mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-54PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-54PM/T_0100K/Best_of_Best
+Submitted job 60205902: mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-54PM/T_0100K/Best_of_Best
+
+Submitted: 13
+

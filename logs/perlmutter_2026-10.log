@@ -4848,3 +4848,13 @@ Folders under /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2
   crashed: 2
   missing inputs: 1
 
+======================================================================
+2026-10-24 06:06 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage list crashed incomplete
+Result: 2 folders
+
+crashed | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/2-2Y/MC_Run_22Oct2026_11-55AM/T_0100K/Best_of_Best
+    slurm-60129853.out: [2026-10-23T11:29:11.701] error: *** STEP 60129853.0 ON nid004376 CANCELLED AT 2026-10-23T11:29:11 DUE TO TIME LIMIT ***
+crashed | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6/mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best
+    slurm-60154456.out: [2026-10-23T21:33:42.358] error: *** STEP 60154456.0 ON nid005387 CANCELLED AT 2026-10-23T21:33:42 DUE TO TIME LIMIT ***
+

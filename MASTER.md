@@ -9849,3 +9849,31 @@ Needs a look:
   mc_runs_2vac/6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best [SCF diverged]
   mc_runs_4vac/2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best [SCF diverged]
 
+======================================================================
+2026-10-24 06:46 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage list crashed
+Result: 11 folders
+
+crashed | mc_runs_1vac/10-10Y/MC_Run_22Oct2026_03-57PM/T_0100K/Best_of_Best
+    slurm-60134402.out: [2026-10-23T20:38:02.819] error: *** JOB 60134402 ON nid005366 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+    slurm-60134405.out: [2026-10-23T20:02:53.595] error: *** STEP 60134405.0 ON nid004904 CANCELLED AT 2026-10-23T20:02:53 DUE TO TASK FAILURE ***
+crashed | mc_runs_1vac/6-6Y/MC_Run_22Oct2026_03-44PM/T_0100K/Best_of_Best
+    slurm-60134408.out: [2026-10-23T20:38:02.820] error: *** STEP 60134408.0 ON nid004515 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/8-8Y/MC_Run_22Oct2026_03-51PM/T_0100K/Best_of_Best
+    slurm-60134410.out: [2026-10-23T20:38:02.818] error: *** STEP 60134410.0 ON nid004562 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/9-9Y/MC_Run_22Oct2026_03-54PM/T_0100K/Best_of_Best
+    slurm-60134411.out: [2026-10-23T20:38:02.816] error: *** STEP 60134411.0 ON nid004578 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best
+    slurm-60134412.out: [2026-10-23T20:38:02.820] error: *** STEP 60134412.0 ON nid005519 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+    slurm-60134414.out: [2026-10-23T20:38:02.822] error: *** STEP 60134414.0 ON nid006521 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/7-7Y/MC_Run_22Oct2026_04-18PM/T_0100K/Best_of_Best
+    slurm-60134418.out: [2026-10-23T20:38:02.825] error: *** STEP 60134418.0 ON nid005178 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+    slurm-60134419.out: [2026-10-23T20:38:02.817] error: *** STEP 60134419.0 ON nid005589 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best
+    slurm-60134420.out: [2026-10-23T20:38:02.822] error: *** STEP 60134420.0 ON nid005873 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+crashed | mc_runs_4vac/10-10Y/MC_Run_22Oct2026_04-58PM/T_0100K/Best_of_Best
+    slurm-60134421.out: [2026-10-23T20:38:02.821] error: *** STEP 60134421.0 ON nid006242 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+

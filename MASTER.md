@@ -9700,3 +9700,19 @@ Folders under /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1
   running or pending: 3
   missing inputs: 1
 
+======================================================================
+2026-10-24 06:06 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 3
+  pending: 3
+  free slots under limit 100: 97
+
+Folders under /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6: 9
+  converged: 6
+  crashed: 2
+  missing inputs: 1
+

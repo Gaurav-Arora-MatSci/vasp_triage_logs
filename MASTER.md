@@ -9963,3 +9963,71 @@ Needs a look:
   mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best [SCF diverged]
   mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best [SCF diverged]
 
+======================================================================
+2026-10-24 06:48 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5
+$ vtriage list crashed SCF diverged incomplete
+Result: 25 folders
+
+crashed | mc_runs_1vac/10-10Y/MC_Run_22Oct2026_03-57PM/T_0100K/Best_of_Best
+    slurm-60130645.out: [2026-10-23T15:58:39.122] error: *** STEP 60130645.0 ON nid004215 CANCELLED AT 2026-10-23T15:58:39 DUE TO TIME LIMIT ***
+SCF diverged | mc_runs_1vac/2-2Y/MC_Run_22Oct2026_03-30PM/T_0100K/Best_of_Best
+    slurm-60130647.out: [2026-10-23T15:32:27.646] error: *** STEP 60130647.0 ON nid005089 CANCELLED AT 2026-10-23T15:32:27 DUE TO TASK FAILURE ***
+    last SCF energy -2.21e+10 eV, -5.13e+07 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_1vac/3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+    slurm-60130650.out: [2026-10-23T16:46:52.594] error: *** STEP 60130650.0 ON nid006020 CANCELLED AT 2026-10-23T16:46:52 DUE TO TIME LIMIT ***
+    last SCF energy -3.12e+11 eV, -7.25e+08 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_1vac/4-4Y/MC_Run_22Oct2026_03-37PM/T_0100K/Best_of_Best
+    slurm-60130652.out: [2026-10-23T17:13:05.931] error: *** STEP 60130652.0 ON nid006359 CANCELLED AT 2026-10-23T17:13:05 DUE TO TIME LIMIT ***
+    last SCF energy -2.47e+10 eV, -5.73e+07 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_1vac/5-5Y/MC_Run_22Oct2026_03-40PM/T_0100K/Best_of_Best
+    slurm-60130655.out: [2026-10-23T16:33:51.024] error: *** STEP 60130655.0 ON nid004234 CANCELLED AT 2026-10-23T16:33:51 DUE TO TASK FAILURE ***
+    last SCF energy -5.67e+09 eV, -1.32e+07 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_1vac/7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
+    slurm-60130661.out: [2026-10-23T17:43:38.162] error: *** STEP 60130661.0 ON nid006061 CANCELLED AT 2026-10-23T17:43:38 DUE TO TIME LIMIT ***
+    last SCF energy -5.25e+07 eV, -1.22e+05 eV per atom, check POSCAR and POTCAR
+crashed | mc_runs_1vac/8-8Y/MC_Run_22Oct2026_03-50PM/T_0100K/Best_of_Best
+    slurm-60130663.out: [2026-10-23T18:04:04.123] error: *** STEP 60130663.0 ON nid004352 CANCELLED AT 2026-10-23T18:04:04 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/9-9Y/MC_Run_22Oct2026_03-54PM/T_0100K/Best_of_Best
+    slurm-60130665.out: [2026-10-23T18:04:04.123] error: *** STEP 60130665.0 ON nid004751 CANCELLED AT 2026-10-23T18:04:04 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-27PM/T_0100K/Best_of_Best
+    slurm-60130666.out: [2026-10-23T18:30:09.175] error: *** JOB 60130666 ON nid004306 CANCELLED AT 2026-10-23T18:30:09 DUE TO TIME LIMIT ***
+SCF diverged | mc_runs_2vac/2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+    slurm-60130667.out: [2026-10-23T18:30:09.175] error: *** STEP 60130667.0 ON nid004318 CANCELLED AT 2026-10-23T18:30:09 DUE TO TIME LIMIT ***
+    last SCF energy -1.56e+07 eV, -3.64e+04 eV per atom, check POSCAR and POTCAR
+crashed | mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+    slurm-60130669.out: [2026-10-23T18:42:09.746] error: *** STEP 60130669.0 ON nid005088 CANCELLED AT 2026-10-23T18:42:09 DUE TO TIME LIMIT ***
+SCF diverged | mc_runs_2vac/4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+    slurm-60130670.out: [2026-10-23T18:30:45.912] error: *** STEP 60130670.0 ON nid005127 CANCELLED AT 2026-10-23T18:30:45 DUE TO TASK FAILURE ***
+    last SCF energy -2.33e+10 eV, -5.42e+07 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_2vac/5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+    slurm-60130671.out: [2026-10-23T18:38:10.494] error: *** STEP 60130671.0 ON nid005235 CANCELLED AT 2026-10-23T18:38:10 DUE TO TASK FAILURE ***
+    last SCF energy -3.3e+09 eV, -7.68e+06 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_2vac/6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+    slurm-60130672.out: [2026-10-23T18:21:50.458] error: *** STEP 60130672.0 ON nid004663 CANCELLED AT 2026-10-23T18:21:50 DUE TO TASK FAILURE ***
+    last SCF energy -1.51e+13 eV, -3.51e+10 eV per atom, check POSCAR and POTCAR
+crashed | mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+    slurm-60130676.out: [2026-10-23T19:26:04.981] error: *** STEP 60130676.0 ON nid005671 CANCELLED AT 2026-10-23T19:26:04 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best
+    slurm-60130678.out: [2026-10-23T19:38:47.892] error: *** STEP 60130678.0 ON nid006073 CANCELLED AT 2026-10-23T19:38:47 DUE TO TIME LIMIT ***
+crashed | mc_runs_4vac/10-10Y/MC_Run_22Oct2026_04-58PM/T_0100K/Best_of_Best
+    slurm-60130680.out: [2026-10-23T19:42:35.820] error: *** STEP 60130680.0 ON nid005116 CANCELLED AT 2026-10-23T19:42:35 DUE TO TIME LIMIT ***
+SCF diverged | mc_runs_4vac/2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+    slurm-60130681.out: [2026-10-23T20:17:10.209] error: *** STEP 60130681.0 ON nid007055 CANCELLED AT 2026-10-23T20:17:10 DUE TO TIME LIMIT ***
+    last SCF energy -7.23e+10 eV, -1.69e+08 eV per atom, check POSCAR and POTCAR
+crashed | mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+    slurm-60130697.out: [2026-10-23T19:49:44.728] error: *** STEP 60130697.0 ON nid006777 CANCELLED AT 2026-10-23T19:49:44 DUE TO TASK FAILURE ***
+SCF diverged | mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+    slurm-60130699.out: [2026-10-23T19:17:16.787] error: *** STEP 60130699.0 ON nid006804 CANCELLED AT 2026-10-23T19:17:16 DUE TO TASK FAILURE ***
+    last SCF energy -1.84e+07 eV, -4.31e+04 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+    slurm-60130700.out: [2026-10-23T19:55:01.492] error: *** STEP 60130700.0 ON nid005578 CANCELLED AT 2026-10-23T19:55:01 DUE TO TASK FAILURE ***
+    last SCF energy -9.97e+09 eV, -2.33e+07 eV per atom, check POSCAR and POTCAR
+crashed | mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+    slurm-60130701.out: [2026-10-23T20:34:12.245] error: *** STEP 60130701.0 ON nid006383 CANCELLED AT 2026-10-23T20:34:12 DUE TO TIME LIMIT ***
+crashed | mc_runs_4vac/7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+    slurm-60130702.out: [2026-10-23T20:34:14.256] error: *** STEP 60130702.0 ON nid006519 CANCELLED AT 2026-10-23T20:34:14 DUE TO TIME LIMIT ***
+crashed | mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+    slurm-60130703.out: [2026-10-23T20:34:14.254] error: *** STEP 60130703.0 ON nid006899 CANCELLED AT 2026-10-23T20:34:14 DUE TO TIME LIMIT ***
+crashed | mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-54PM/T_0100K/Best_of_Best
+    slurm-60130704.out: [2026-10-23T20:38:02.817] error: *** STEP 60130704.0 ON nid006169 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+

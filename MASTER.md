@@ -9658,3 +9658,28 @@ crashed | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-mod
 crashed | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/5-5Y/MC_Run_22Oct2026_11-10AM/T_0100K/Best_of_Best
     slurm-60154392.out: [2026-10-23T20:47:07.908] error: *** STEP 60154392.0 ON nid006348 CANCELLED AT 2026-10-23T20:47:07 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-24 06:05 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage submit --status crashed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+Result: finished
+
+Jobs in queue: 0 of limit 100
+Warning: same error as previous run (walltime). Change settings first: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/2-2Y/MC_Run_22Oct2026_10-55AM/T_0100K/Best_of_Best
+Warning: same error as previous run (walltime). Change settings first: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/3-3Y/MC_Run_22Oct2026_11-00AM/T_0100K/Best_of_Best
+
+Folders to submit: 3
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/2-2Y/MC_Run_22Oct2026_10-55AM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/3-3Y/MC_Run_22Oct2026_11-00AM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/5-5Y/MC_Run_22Oct2026_11-10AM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 2: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/2-2Y/MC_Run_22Oct2026_10-55AM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/2-2Y/MC_Run_22Oct2026_10-55AM/T_0100K/Best_of_Best
+Submitted job 60204291: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/2-2Y/MC_Run_22Oct2026_10-55AM/T_0100K/Best_of_Best
+Archived as run 2: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/3-3Y/MC_Run_22Oct2026_11-00AM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/3-3Y/MC_Run_22Oct2026_11-00AM/T_0100K/Best_of_Best
+Submitted job 60204292: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/3-3Y/MC_Run_22Oct2026_11-00AM/T_0100K/Best_of_Best
+Archived as run 2: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/5-5Y/MC_Run_22Oct2026_11-10AM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/5-5Y/MC_Run_22Oct2026_11-10AM/T_0100K/Best_of_Best
+Submitted job 60204294: /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs/5-5Y/MC_Run_22Oct2026_11-10AM/T_0100K/Best_of_Best
+
+Submitted: 3
+

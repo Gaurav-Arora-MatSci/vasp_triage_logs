@@ -11050,3 +11050,20 @@ Submitted job 60326728: 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
 
 Submitted: 7
 
+======================================================================
+2026-10-26 14:53 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_4vac
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed SCF diverged incomplete running or pending not submitted missing inputs
+Result: 9 folders
+
+converged | 10-10Y/MC_Run_22Oct2026_04-58PM/T_0100K/Best_of_Best | -5528.01851002 eV
+SCF diverged | 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+    slurm-60134423.out: [2026-10-23T20:38:02.826] error: *** STEP 60134423.0 ON nid006474 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+    last SCF energy -4.97e+10 eV, -1.16e+08 eV per atom, check POSCAR and POTCAR
+running or pending | 3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+running or pending | 4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+running or pending | 5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+running or pending | 6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+running or pending | 7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+running or pending | 8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+running or pending | 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+

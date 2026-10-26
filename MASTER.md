@@ -11080,3 +11080,17 @@ Folders to change: 1
 Type yes to save each run and apply the changes: Archived as run 1: 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
 Changed: 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
 
+======================================================================
+2026-10-26 14:54 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_4vac
+$ vtriage submit --group failed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_4vac --force
+Result: finished
+
+Jobs in queue: 31 of limit 100
+Warning: SCF diverged, submitted from POSCAR as it is now: 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+
+Folders to submit: 1
+  2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60326783: 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+
+Submitted: 1
+

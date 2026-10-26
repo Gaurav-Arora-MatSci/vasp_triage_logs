@@ -10207,3 +10207,12 @@ Folders under .: 10
 Needs a look:
   mc_runs/2-2Y/MC_Run_22Oct2026_11-55AM/T_0100K/Best_of_Best [SCF diverged]
 
+======================================================================
+2026-10-26 08:15 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage list running or pending not submitted missing inputs
+Result: 2 folders
+
+missing inputs | .
+    missing: POSCAR, POTCAR
+not submitted | mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+

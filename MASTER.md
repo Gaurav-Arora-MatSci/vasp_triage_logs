@@ -10820,3 +10820,26 @@ Result: 1 folders
 crashed | 3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
     slurm-60205819.out: [2026-10-24T12:54:16.362] error: *** STEP 60205819.0 ON nid005057 CANCELLED AT 2026-10-24T12:54:16 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-26 13:47 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_2vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 23
+  pending: 13
+  running: 10
+  free slots under limit 100: 77
+
+Folders under .: 9
+  converged: 2
+  crashed: 3
+  SCF diverged: 4
+
+Needs a look:
+  2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best [SCF diverged]
+  4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best [SCF diverged]
+  5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best [SCF diverged]
+  6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best [SCF diverged]
+

@@ -11375,3 +11375,36 @@ Needs a look:
   6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best [SCF diverged]
   7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best [SCF diverged]
 
+======================================================================
+2026-10-26 19:49 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac
+$ vtriage edit --status SCF diverged --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac --set ALGO=All
+Result: finished
+
+
+3-3Y/MC_Run_26Oct2026_10-06AM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+4-4Y/MC_Run_26Oct2026_10-09AM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+5-5Y/MC_Run_26Oct2026_10-12AM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+Folders to change: 5
+Type yes to save each run and apply the changes: Archived as run 1: 3-3Y/MC_Run_26Oct2026_10-06AM/T_0100K/Best_of_Best
+Changed: 3-3Y/MC_Run_26Oct2026_10-06AM/T_0100K/Best_of_Best
+Archived as run 1: 4-4Y/MC_Run_26Oct2026_10-09AM/T_0100K/Best_of_Best
+Changed: 4-4Y/MC_Run_26Oct2026_10-09AM/T_0100K/Best_of_Best
+Archived as run 1: 5-5Y/MC_Run_26Oct2026_10-12AM/T_0100K/Best_of_Best
+Changed: 5-5Y/MC_Run_26Oct2026_10-12AM/T_0100K/Best_of_Best
+Archived as run 1: 6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best
+Changed: 6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best
+Archived as run 1: 7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
+Changed: 7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
+

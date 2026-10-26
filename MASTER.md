@@ -11258,3 +11258,14 @@ Needs a look:
   5-5Y/MC_Run_26Oct2026_09-17AM/T_0100K/Best_of_Best [SCF diverged]
   6-6Y/MC_Run_26Oct2026_09-20AM/T_0100K/Best_of_Best [SCF diverged]
 
+======================================================================
+2026-10-26 19:36 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_1vac
+$ vtriage list converged
+Result: 3 folders
+
+converged | 7-7Y/MC_Run_26Oct2026_09-23AM/T_0100K/Best_of_Best | -5579.50809197 eV
+converged | 8-8Y/MC_Run_26Oct2026_09-27AM/T_0100K/Best_of_Best | -5576.95625713 eV
+    slurm-60312274.out: DAV:  41    -0.575024350225E+04   -0.17380E+03   -0.46801E-03  9504   0.492E-02BRMIX: very serious problems
+converged | 9-9Y/MC_Run_26Oct2026_09-30AM/T_0100K/Best_of_Best | -5576.21012861 eV
+    slurm-60312275.out: DAV:  43    -0.661933486952E+04   -0.10437E+04   -0.49014E-05  6272   0.872E-03BRMIX: very serious problems
+

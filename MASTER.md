@@ -11183,3 +11183,21 @@ Folders under .: 10
   crashed: 1
   missing inputs: 1
 
+======================================================================
+2026-10-26 15:49 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed SCF diverged incomplete running or pending not submitted missing inputs
+Result: 10 folders
+
+missing inputs | .
+    missing: POSCAR, POTCAR
+converged | mc_runs/10-10Y/MC_Run_22Oct2026_03-10PM/T_0100K/Best_of_Best | -5587.48648865 eV
+converged | mc_runs/2-2Y/MC_Run_22Oct2026_11-55AM/T_0100K/Best_of_Best | -5599.64431065 eV
+converged | mc_runs/3-3Y/MC_Run_22Oct2026_11-57AM/T_0100K/Best_of_Best | -5598.89761407 eV
+converged | mc_runs/4-4Y/MC_Run_22Oct2026_11-59AM/T_0100K/Best_of_Best | -5597.89176512 eV
+converged | mc_runs/5-5Y/MC_Run_22Oct2026_12-00PM/T_0100K/Best_of_Best | -5595.43980543 eV
+converged | mc_runs/6-6Y/MC_Run_22Oct2026_12-02PM/T_0100K/Best_of_Best | -5594.21664938 eV
+crashed | mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+    slurm-60317471.out: [2026-10-26T17:45:02.450] error: *** STEP 60317471.0 ON nid004941 CANCELLED AT 2026-10-26T17:45:02 DUE TO TIME LIMIT ***
+converged | mc_runs/8-8Y/MC_Run_22Oct2026_12-06PM/T_0100K/Best_of_Best | -5590.25872811 eV
+converged | mc_runs/9-9Y/MC_Run_22Oct2026_12-07PM/T_0100K/Best_of_Best | -5589.97591028 eV
+

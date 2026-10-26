@@ -11234,3 +11234,27 @@ Folders under .: 20
   running or pending: 2
   missing inputs: 1
 
+======================================================================
+2026-10-26 19:36 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_1vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 12
+  pending: 9
+  running: 3
+  free slots under limit 100: 88
+
+Folders under .: 9
+  converged: 3
+  crashed: 1
+  SCF diverged: 5
+
+Needs a look:
+  2-2Y/MC_Run_26Oct2026_09-07AM/T_0100K/Best_of_Best [SCF diverged]
+  3-3Y/MC_Run_26Oct2026_09-10AM/T_0100K/Best_of_Best [SCF diverged]
+  4-4Y/MC_Run_26Oct2026_09-13AM/T_0100K/Best_of_Best [SCF diverged]
+  5-5Y/MC_Run_26Oct2026_09-17AM/T_0100K/Best_of_Best [SCF diverged]
+  6-6Y/MC_Run_26Oct2026_09-20AM/T_0100K/Best_of_Best [SCF diverged]
+

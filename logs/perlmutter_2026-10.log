@@ -5239,3 +5239,17 @@ Folders under .: 10
   converged: 9
   missing inputs: 1
 
+======================================================================
+2026-10-26 08:09 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 100: 100
+
+Folders under .: 10
+  converged: 9
+  missing inputs: 1
+

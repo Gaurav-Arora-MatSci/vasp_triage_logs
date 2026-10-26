@@ -6333,3 +6333,18 @@ crashed | mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
 converged | mc_runs/8-8Y/MC_Run_22Oct2026_12-06PM/T_0100K/Best_of_Best | -5590.25872811 eV
 converged | mc_runs/9-9Y/MC_Run_22Oct2026_12-07PM/T_0100K/Best_of_Best | -5589.97591028 eV
 
+======================================================================
+2026-10-26 15:50 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage submit --group failed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+Result: finished
+
+Jobs in queue: 31 of limit 100
+
+Folders to submit: 1
+  mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 2: mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+Submitted job 60330642: mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+
+Submitted: 1
+

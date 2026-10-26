@@ -10515,3 +10515,23 @@ Type yes to save each run and submit: Submitted job 60317382: mc_runs/7-7Y/MC_Ru
 
 Submitted: 1
 
+======================================================================
+2026-10-26 11:30 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 11
+  pending: 1
+  running: 10
+  free slots under limit 100: 89
+
+Folders under .: 10
+  converged: 8
+  SCF diverged: 1
+  missing inputs: 1
+
+Needs a look:
+  mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best [SCF diverged]
+

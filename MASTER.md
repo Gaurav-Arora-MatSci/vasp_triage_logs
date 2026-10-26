@@ -10585,3 +10585,27 @@ Needs a look:
   5-5Y/MC_Run_22Oct2026_03-41PM/T_0100K/Best_of_Best [SCF diverged]
   7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best [SCF diverged]
 
+======================================================================
+2026-10-26 11:39 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_1vac
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed SCF diverged incomplete running or pending not submitted missing inputs
+Result: 9 folders
+
+converged | 10-10Y/MC_Run_22Oct2026_03-57PM/T_0100K/Best_of_Best | -5573.15889818 eV
+SCF diverged | 2-2Y/MC_Run_22Oct2026_03-31PM/T_0100K/Best_of_Best
+    slurm-60134404.out: [2026-10-23T20:38:02.818] error: *** STEP 60134404.0 ON nid004900 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+    last SCF energy -2.85e+11 eV, -6.6e+08 eV per atom, check POSCAR and POTCAR
+crashed | 3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+    slurm-60205819.out: [2026-10-24T12:54:16.362] error: *** STEP 60205819.0 ON nid005057 CANCELLED AT 2026-10-24T12:54:16 DUE TO TIME LIMIT ***
+SCF diverged | 4-4Y/MC_Run_22Oct2026_03-37PM/T_0100K/Best_of_Best
+    slurm-60134406.out: [2026-10-23T20:38:02.817] error: *** STEP 60134406.0 ON nid005511 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+    last SCF energy -3.42e+11 eV, -7.94e+08 eV per atom, check POSCAR and POTCAR
+SCF diverged | 5-5Y/MC_Run_22Oct2026_03-41PM/T_0100K/Best_of_Best
+    slurm-60134407.out: [2026-10-23T20:38:02.819] error: *** STEP 60134407.0 ON nid005515 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+    last SCF energy -6.95e+10 eV, -1.61e+08 eV per atom, check POSCAR and POTCAR
+converged | 6-6Y/MC_Run_22Oct2026_03-44PM/T_0100K/Best_of_Best | -5578.38325344 eV
+SCF diverged | 7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
+    slurm-60134409.out: [2026-10-23T20:38:02.817] error: *** STEP 60134409.0 ON nid004529 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+    last SCF energy -1.04e+07 eV, -2.42e+04 eV per atom, check POSCAR and POTCAR
+converged | 8-8Y/MC_Run_22Oct2026_03-51PM/T_0100K/Best_of_Best | -5575.87601301 eV
+converged | 9-9Y/MC_Run_22Oct2026_03-54PM/T_0100K/Best_of_Best | -5575.4718731 eV
+

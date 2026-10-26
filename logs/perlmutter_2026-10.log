@@ -5767,3 +5767,18 @@ All my jobs in the queue: 11
 Folders under .: 9
   running or pending: 9
 
+======================================================================
+2026-10-26 11:43 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 11
+  pending: 1
+  running: 10
+  free slots under limit 100: 89
+
+Folders under .: 9
+  not submitted: 9
+

@@ -11269,3 +11269,26 @@ converged | 8-8Y/MC_Run_26Oct2026_09-27AM/T_0100K/Best_of_Best | -5576.95625713 
 converged | 9-9Y/MC_Run_26Oct2026_09-30AM/T_0100K/Best_of_Best | -5576.21012861 eV
     slurm-60312275.out: DAV:  43    -0.661933486952E+04   -0.10437E+04   -0.49014E-05  6272   0.872E-03BRMIX: very serious problems
 
+======================================================================
+2026-10-26 19:41 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_1vac
+$ vtriage list crashed SCF diverged incomplete
+Result: 6 folders
+
+crashed | 10-10Y/MC_Run_26Oct2026_09-33AM/T_0100K/Best_of_Best
+    slurm-60312265.out: [2026-10-26T18:11:31.700] error: *** STEP 60312265.0 ON nid004489 CANCELLED AT 2026-10-26T18:11:31 DUE TO TASK FAILURE ***
+SCF diverged | 2-2Y/MC_Run_26Oct2026_09-07AM/T_0100K/Best_of_Best
+    slurm-60312267.out: [2026-10-26T16:34:35.270] error: *** STEP 60312267.0 ON nid005454 CANCELLED AT 2026-10-26T16:34:35 DUE TO TASK FAILURE ***
+    last SCF energy -1.3e+11 eV, -3.02e+08 eV per atom, check POSCAR and POTCAR
+SCF diverged | 3-3Y/MC_Run_26Oct2026_09-10AM/T_0100K/Best_of_Best
+    slurm-60312269.out: [2026-10-26T20:15:11.085] error: *** STEP 60312269.0 ON nid006003 CANCELLED AT 2026-10-26T20:15:11 DUE TO TIME LIMIT ***
+    last SCF energy -2.23e+07 eV, -5.18e+04 eV per atom, check POSCAR and POTCAR
+SCF diverged | 4-4Y/MC_Run_26Oct2026_09-13AM/T_0100K/Best_of_Best
+    slurm-60312270.out: [2026-10-26T16:48:40.246] error: *** STEP 60312270.0 ON nid006185 CANCELLED AT 2026-10-26T16:48:40 DUE TO TASK FAILURE ***
+    last SCF energy -8.9e+10 eV, -2.07e+08 eV per atom, check POSCAR and POTCAR
+SCF diverged | 5-5Y/MC_Run_26Oct2026_09-17AM/T_0100K/Best_of_Best
+    slurm-60312271.out: [2026-10-26T16:49:43.794] error: *** STEP 60312271.0 ON nid005060 CANCELLED AT 2026-10-26T16:49:43 DUE TO TASK FAILURE ***
+    last SCF energy -1.56e+10 eV, -3.62e+07 eV per atom, check POSCAR and POTCAR
+SCF diverged | 6-6Y/MC_Run_26Oct2026_09-20AM/T_0100K/Best_of_Best
+    slurm-60312272.out: [2026-10-26T15:53:22.286] error: *** STEP 60312272.0 ON nid005284 CANCELLED AT 2026-10-26T15:53:22 DUE TO TASK FAILURE ***
+    last SCF energy -1.86e+07 eV, -4.32e+04 eV per atom, check POSCAR and POTCAR
+

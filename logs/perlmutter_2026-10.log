@@ -5565,3 +5565,11 @@ Result: finished
 Jobs in queue: 8 of limit 100
 No folders selected.
 
+======================================================================
+2026-10-26 09:52 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 8 of limit 100
+No folders selected.
+

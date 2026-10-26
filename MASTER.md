@@ -10877,3 +10877,27 @@ Result: 2 folders
 converged | 7-7Y/MC_Run_22Oct2026_04-18PM/T_0100K/Best_of_Best | -5562.6760141 eV
 converged | 9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best | -5559.91199936 eV
 
+======================================================================
+2026-10-26 13:48 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_2vac
+$ vtriage list crashed SCF diverged incomplete
+Result: 7 folders
+
+crashed | 10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best
+    slurm-60205823.out: [2026-10-24T13:19:34.104] error: *** STEP 60205823.0 ON nid004156 CANCELLED AT 2026-10-24T13:19:34 DUE TO TIME LIMIT ***
+SCF diverged | 2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+    slurm-60134413.out: [2026-10-23T20:38:02.819] error: *** STEP 60134413.0 ON nid006354 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+    last SCF energy -1.87e+10 eV, -4.35e+07 eV per atom, check POSCAR and POTCAR
+crashed | 3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+    slurm-60205825.out: [2026-10-24T13:19:34.112] error: *** STEP 60205825.0 ON nid005254 CANCELLED AT 2026-10-24T13:19:34 DUE TO TIME LIMIT ***
+SCF diverged | 4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+    slurm-60134415.out: [2026-10-23T19:43:27.323] error: *** STEP 60134415.0 ON nid006698 CANCELLED AT 2026-10-23T19:43:27 DUE TO TASK FAILURE ***
+    last SCF energy -1.84e+07 eV, -4.28e+04 eV per atom, check POSCAR and POTCAR
+SCF diverged | 5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+    slurm-60134416.out: [2026-10-23T20:34:41.881] error: *** STEP 60134416.0 ON nid004675 CANCELLED AT 2026-10-23T20:34:41 DUE TO TASK FAILURE ***
+    last SCF energy -7.74e+10 eV, -1.8e+08 eV per atom, check POSCAR and POTCAR
+SCF diverged | 6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+    slurm-60134417.out: [2026-10-23T20:38:02.819] error: *** STEP 60134417.0 ON nid005057 CANCELLED AT 2026-10-23T20:38:02 DUE TO TIME LIMIT ***
+    last SCF energy -5.59e+08 eV, -1.3e+06 eV per atom, check POSCAR and POTCAR
+crashed | 8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+    slurm-60205829.out: [2026-10-24T13:29:18.051] error: *** STEP 60205829.0 ON nid005839 CANCELLED AT 2026-10-24T13:29:18 DUE TO TIME LIMIT ***
+

@@ -11151,3 +11151,18 @@ Result: 1 folders
 crashed | mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
     slurm-60317382.out: [2026-10-26T17:41:55.592] error: *** STEP 60317382.0 ON nid004781 CANCELLED AT 2026-10-26T17:41:55 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-26 15:48 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage submit --group failed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+Result: finished
+
+Jobs in queue: 30 of limit 100
+
+Folders to submit: 1
+  mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 2: mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+Submitted job 60330578: mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+
+Submitted: 1
+

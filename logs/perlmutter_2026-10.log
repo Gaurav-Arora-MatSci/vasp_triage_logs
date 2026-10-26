@@ -5270,3 +5270,16 @@ converged | mc_runs/6-6Y/MC_Run_22Oct2026_11-15AM/T_0100K/Best_of_Best | -5594.4
 converged | mc_runs/8-8Y/MC_Run_22Oct2026_11-25AM/T_0100K/Best_of_Best | -5590.47930228 eV
 converged | mc_runs/9-9Y/MC_Run_22Oct2026_11-30AM/T_0100K/Best_of_Best | -5590.28180853 eV
 
+======================================================================
+2026-10-26 08:12 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 0 of limit 100
+
+Folders to submit: 1
+  mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60309605: mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+
+Submitted: 1
+

@@ -11525,3 +11525,23 @@ Submitted job 60341879: 5-5Y/MC_Run_26Oct2026_10-58AM/T_0100K/Best_of_Best
 
 Submitted: 4
 
+======================================================================
+2026-10-26 19:52 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 9
+  pending: 7
+  running: 2
+
+All my jobs in the queue: 25
+  pending: 23
+  running: 2
+  free slots under limit 100: 75
+
+Folders under .: 28
+  converged: 7
+  crashed: 11
+  running or pending: 9
+  missing inputs: 1
+

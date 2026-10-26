@@ -11110,3 +11110,19 @@ Folders under .: 10
   converged: 9
   crashed: 1
 
+======================================================================
+2026-10-26 15:47 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage status /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 30
+  pending: 17
+  running: 13
+  free slots under limit 100: 70
+
+Folders under .: 10
+  converged: 9
+  crashed: 1
+

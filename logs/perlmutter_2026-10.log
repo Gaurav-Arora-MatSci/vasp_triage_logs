@@ -5811,3 +5811,32 @@ Submitted job 60317851: 9-9Y/MC_Run_26Oct2026_10-26AM/T_0100K/Best_of_Best
 
 Submitted: 9
 
+======================================================================
+2026-10-26 11:44 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_4vac
+$ vtriage submit --status not submitted
+Result: finished
+
+Jobs in queue: 20 of limit 100
+
+Folders to submit: 9
+  10-10Y/MC_Run_26Oct2026_11-15AM/T_0100K/Best_of_Best
+  2-2Y/MC_Run_26Oct2026_10-48AM/T_0100K/Best_of_Best
+  3-3Y/MC_Run_26Oct2026_10-51AM/T_0100K/Best_of_Best
+  4-4Y/MC_Run_26Oct2026_10-55AM/T_0100K/Best_of_Best
+  5-5Y/MC_Run_26Oct2026_10-58AM/T_0100K/Best_of_Best
+  6-6Y/MC_Run_26Oct2026_11-01AM/T_0100K/Best_of_Best
+  7-7Y/MC_Run_26Oct2026_11-05AM/T_0100K/Best_of_Best
+  8-8Y/MC_Run_26Oct2026_11-08AM/T_0100K/Best_of_Best
+  9-9Y/MC_Run_26Oct2026_11-12AM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60317913: 10-10Y/MC_Run_26Oct2026_11-15AM/T_0100K/Best_of_Best
+Submitted job 60317914: 2-2Y/MC_Run_26Oct2026_10-48AM/T_0100K/Best_of_Best
+Submitted job 60317915: 3-3Y/MC_Run_26Oct2026_10-51AM/T_0100K/Best_of_Best
+Submitted job 60317917: 4-4Y/MC_Run_26Oct2026_10-55AM/T_0100K/Best_of_Best
+Submitted job 60317918: 5-5Y/MC_Run_26Oct2026_10-58AM/T_0100K/Best_of_Best
+Submitted job 60317919: 6-6Y/MC_Run_26Oct2026_11-01AM/T_0100K/Best_of_Best
+Submitted job 60317920: 7-7Y/MC_Run_26Oct2026_11-05AM/T_0100K/Best_of_Best
+Submitted job 60317922: 8-8Y/MC_Run_26Oct2026_11-08AM/T_0100K/Best_of_Best
+Submitted job 60317923: 9-9Y/MC_Run_26Oct2026_11-12AM/T_0100K/Best_of_Best
+
+Submitted: 9
+

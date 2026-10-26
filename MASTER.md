@@ -10187,3 +10187,23 @@ converged | mc_runs/6-6Y/MC_Run_22Oct2026_12-02PM/T_0100K/Best_of_Best | -5594.2
 converged | mc_runs/8-8Y/MC_Run_22Oct2026_12-06PM/T_0100K/Best_of_Best | -5590.25872811 eV
 converged | mc_runs/9-9Y/MC_Run_22Oct2026_12-07PM/T_0100K/Best_of_Best | -5589.97591028 eV
 
+======================================================================
+2026-10-26 08:14 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 1
+  pending: 1
+  free slots under limit 100: 99
+
+Folders under .: 10
+  converged: 7
+  SCF diverged: 1
+  not submitted: 1
+  missing inputs: 1
+
+Needs a look:
+  mc_runs/2-2Y/MC_Run_22Oct2026_11-55AM/T_0100K/Best_of_Best [SCF diverged]
+

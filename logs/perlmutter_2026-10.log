@@ -5348,3 +5348,16 @@ missing inputs | .
     missing: POSCAR, POTCAR
 not submitted | mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
 
+======================================================================
+2026-10-26 08:15 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage submit --status not submitted --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+Result: finished
+
+Jobs in queue: 1 of limit 100
+
+Folders to submit: 1
+  mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60309680: mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+
+Submitted: 1
+

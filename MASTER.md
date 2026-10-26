@@ -11025,3 +11025,28 @@ not submitted | 7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
 not submitted | 8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
 not submitted | 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
 
+======================================================================
+2026-10-26 14:53 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_4vac
+$ vtriage submit --status not submitted --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_4vac
+Result: finished
+
+Jobs in queue: 24 of limit 100
+
+Folders to submit: 7
+  3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+  4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+  5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+  6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+  7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+  8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+  9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60326722: 3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+Submitted job 60326723: 4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+Submitted job 60326724: 5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+Submitted job 60326725: 6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+Submitted job 60326726: 7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+Submitted job 60326727: 8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+Submitted job 60326728: 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+
+Submitted: 7
+

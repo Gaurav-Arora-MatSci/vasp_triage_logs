@@ -11408,3 +11408,29 @@ Changed: 6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best
 Archived as run 1: 7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
 Changed: 7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
 
+======================================================================
+2026-10-26 19:50 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac
+$ vtriage submit --status SCF diverged --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac --force
+Result: finished
+
+Jobs in queue: 16 of limit 100
+Warning: SCF diverged, submitted from POSCAR as it is now: 3-3Y/MC_Run_26Oct2026_10-06AM/T_0100K/Best_of_Best
+Warning: SCF diverged, submitted from POSCAR as it is now: 4-4Y/MC_Run_26Oct2026_10-09AM/T_0100K/Best_of_Best
+Warning: SCF diverged, submitted from POSCAR as it is now: 5-5Y/MC_Run_26Oct2026_10-12AM/T_0100K/Best_of_Best
+Warning: SCF diverged, submitted from POSCAR as it is now: 6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best
+Warning: SCF diverged, submitted from POSCAR as it is now: 7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
+
+Folders to submit: 5
+  3-3Y/MC_Run_26Oct2026_10-06AM/T_0100K/Best_of_Best
+  4-4Y/MC_Run_26Oct2026_10-09AM/T_0100K/Best_of_Best
+  5-5Y/MC_Run_26Oct2026_10-12AM/T_0100K/Best_of_Best
+  6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best
+  7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60341747: 3-3Y/MC_Run_26Oct2026_10-06AM/T_0100K/Best_of_Best
+Submitted job 60341748: 4-4Y/MC_Run_26Oct2026_10-09AM/T_0100K/Best_of_Best
+Submitted job 60341749: 5-5Y/MC_Run_26Oct2026_10-12AM/T_0100K/Best_of_Best
+Submitted job 60341750: 6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best
+Submitted job 60341751: 7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
+
+Submitted: 5
+

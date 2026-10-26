@@ -6588,3 +6588,21 @@ Needs a look:
   4-4Y/MC_Run_26Oct2026_10-55AM/T_0100K/Best_of_Best [SCF diverged]
   5-5Y/MC_Run_26Oct2026_10-58AM/T_0100K/Best_of_Best [SCF diverged]
 
+======================================================================
+2026-10-26 19:50 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_4vac
+$ vtriage list crashed SCF diverged incomplete
+Result: 4 folders
+
+SCF diverged | 2-2Y/MC_Run_26Oct2026_10-48AM/T_0100K/Best_of_Best
+    slurm-60317914.out: [2026-10-26T18:47:14.270] error: *** STEP 60317914.0 ON nid004224 CANCELLED AT 2026-10-26T18:47:14 DUE TO TASK FAILURE ***
+    last SCF energy -1.12e+08 eV, -2.61e+05 eV per atom, check POSCAR and POTCAR
+SCF diverged | 3-3Y/MC_Run_26Oct2026_10-51AM/T_0100K/Best_of_Best
+    slurm-60317915.out: [2026-10-26T21:45:33.737] error: *** STEP 60317915.0 ON nid004483 CANCELLED AT 2026-10-26T21:45:33 DUE TO TASK FAILURE ***
+    last SCF energy -1.04e+10 eV, -2.44e+07 eV per atom, check POSCAR and POTCAR
+SCF diverged | 4-4Y/MC_Run_26Oct2026_10-55AM/T_0100K/Best_of_Best
+    slurm-60317917.out: [2026-10-26T19:37:48.880] error: *** STEP 60317917.0 ON nid004152 CANCELLED AT 2026-10-26T19:37:48 DUE TO TASK FAILURE ***
+    last SCF energy -4.98e+08 eV, -1.16e+06 eV per atom, check POSCAR and POTCAR
+SCF diverged | 5-5Y/MC_Run_26Oct2026_10-58AM/T_0100K/Best_of_Best
+    slurm-60317918.out: [2026-10-26T20:32:27.578] error: *** STEP 60317918.0 ON nid006561 CANCELLED AT 2026-10-26T20:32:27 DUE TO TASK FAILURE ***
+    last SCF energy -3.82e+07 eV, -8.92e+04 eV per atom, check POSCAR and POTCAR
+

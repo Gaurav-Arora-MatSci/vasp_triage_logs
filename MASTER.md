@@ -10345,3 +10345,11 @@ running or pending | 7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
 converged | 8-8Y/MC_Run_22Oct2026_03-50PM/T_0100K/Best_of_Best | -5575.875811 eV
 converged | 9-9Y/MC_Run_22Oct2026_03-54PM/T_0100K/Best_of_Best | -5575.47177757 eV
 
+======================================================================
+2026-10-26 08:37 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/1-model_trained_on_5x5x5/mc_runs_1vac
+$ vtriage list crashed SCF diverged incomplete
+Result: 1 folders
+
+crashed | 3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+    slurm-60206012.out: [2026-10-24T23:55:42.199] error: *** STEP 60206012.0 ON nid005838 CANCELLED AT 2026-10-24T23:55:42 DUE TO TIME LIMIT ***
+

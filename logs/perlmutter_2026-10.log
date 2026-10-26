@@ -5944,3 +5944,11 @@ Submitted job 60321247: 7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
 
 Submitted: 4
 
+======================================================================
+2026-10-26 13:44 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_1vac
+$ vtriage list crashed SCF diverged incomplete
+Result: 1 folders
+
+crashed | 3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+    slurm-60205819.out: [2026-10-24T12:54:16.362] error: *** STEP 60205819.0 ON nid005057 CANCELLED AT 2026-10-24T12:54:16 DUE TO TIME LIMIT ***
+

@@ -5667,3 +5667,16 @@ Folders under .: 10
 Needs a look:
   mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best [SCF diverged]
 
+======================================================================
+2026-10-26 11:31 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6
+$ vtriage edit --status SCF diverged --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/2-model_trained_from_6x6x6 --set ALGO=All
+Result: finished
+
+
+mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+Folders to change: 1
+Type yes to save each run and apply the changes: Archived as run 1: mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+Changed: mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+

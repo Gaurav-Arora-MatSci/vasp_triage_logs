@@ -10901,3 +10901,31 @@ SCF diverged | 6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
 crashed | 8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
     slurm-60205829.out: [2026-10-24T13:29:18.051] error: *** STEP 60205829.0 ON nid005839 CANCELLED AT 2026-10-24T13:29:18 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-26 14:49 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_2vac
+$ vtriage edit --status SCF diverged --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_2vac --set ALGO=All
+Result: finished
+
+
+2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+Folders to change: 4
+Type yes to save each run and apply the changes: Archived as run 1: 2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+Changed: 2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+Archived as run 1: 4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+Changed: 4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+Archived as run 1: 5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+Changed: 5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+Archived as run 1: 6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+Changed: 6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+

@@ -10970,3 +10970,21 @@ Folders under .: 9
   crashed: 3
   running or pending: 4
 
+======================================================================
+2026-10-26 14:50 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_2vac
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed SCF diverged incomplete running or pending not submitted missing inputs
+Result: 9 folders
+
+crashed | 10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best
+    slurm-60205823.out: [2026-10-24T13:19:34.104] error: *** STEP 60205823.0 ON nid004156 CANCELLED AT 2026-10-24T13:19:34 DUE TO TIME LIMIT ***
+running or pending | 2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+crashed | 3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+    slurm-60205825.out: [2026-10-24T13:19:34.112] error: *** STEP 60205825.0 ON nid005254 CANCELLED AT 2026-10-24T13:19:34 DUE TO TIME LIMIT ***
+running or pending | 4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+running or pending | 5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+running or pending | 6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+converged | 7-7Y/MC_Run_22Oct2026_04-18PM/T_0100K/Best_of_Best | -5562.6760141 eV
+crashed | 8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+    slurm-60205829.out: [2026-10-24T13:29:18.051] error: *** STEP 60205829.0 ON nid005839 CANCELLED AT 2026-10-24T13:29:18 DUE TO TIME LIMIT ***
+converged | 9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best | -5559.91199936 eV
+

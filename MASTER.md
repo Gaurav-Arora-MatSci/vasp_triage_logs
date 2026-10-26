@@ -10470,3 +10470,21 @@ Submitted job 60312275: 9-9Y/MC_Run_26Oct2026_09-30AM/T_0100K/Best_of_Best
 
 Submitted: 9
 
+======================================================================
+2026-10-26 11:29 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 10
+  running: 10
+  free slots under limit 100: 90
+
+Folders under .: 10
+  converged: 9
+  SCF diverged: 1
+
+Needs a look:
+  mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best [SCF diverged]
+

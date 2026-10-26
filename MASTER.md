@@ -10869,3 +10869,11 @@ crashed | 8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
     slurm-60205829.out: [2026-10-24T13:29:18.051] error: *** STEP 60205829.0 ON nid005839 CANCELLED AT 2026-10-24T13:29:18 DUE TO TIME LIMIT ***
 converged | 9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best | -5559.91199936 eV
 
+======================================================================
+2026-10-26 13:47 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_2vac
+$ vtriage list converged
+Result: 2 folders
+
+converged | 7-7Y/MC_Run_22Oct2026_04-18PM/T_0100K/Best_of_Best | -5562.6760141 eV
+converged | 9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best | -5559.91199936 eV
+

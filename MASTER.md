@@ -11573,3 +11573,34 @@ crashed | mc_runs_2vac/5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
 crashed | mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
     slurm-60205829.out: [2026-10-24T13:29:18.051] error: *** STEP 60205829.0 ON nid005839 CANCELLED AT 2026-10-24T13:29:18 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-26 19:52 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage edit --group failed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6 --set ALGO=All
+Result: finished
+
+No change needed: mc_runs_1vac/2-2Y/MC_Run_22Oct2026_03-31PM/T_0100K/Best_of_Best
+No change needed: mc_runs_1vac/3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+No change needed: mc_runs_1vac/4-4Y/MC_Run_22Oct2026_03-37PM/T_0100K/Best_of_Best
+No change needed: mc_runs_1vac/5-5Y/MC_Run_22Oct2026_03-41PM/T_0100K/Best_of_Best
+No change needed: mc_runs_1vac/7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
+
+mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+No change needed: mc_runs_2vac/2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+
+mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+No change needed: mc_runs_2vac/4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+No change needed: mc_runs_2vac/5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+
+mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+Folders to change: 3
+Type yes to save each run and apply the changes: Archived as run 2: mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best
+Changed: mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best
+Archived as run 2: mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+Changed: mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+Archived as run 2: mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+Changed: mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+

@@ -11951,3 +11951,24 @@ crashed | 1-model_trained_from_4x4x4/mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_010
 crashed | 2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
     slurm-60330642.out: [2026-10-27T11:47:11.182] error: *** STEP 60330642.0 ON nid005539 CANCELLED AT 2026-10-27T11:47:11 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-27 16:19 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac
+$ vtriage submit --group failed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac
+Result: finished
+
+Jobs in queue: 3 of limit 100
+Warning: same error as previous run (walltime). Change settings first: 1-model_trained_from_4x4x4/mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+Warning: same error as previous run (walltime). Change settings first: 2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+
+Folders to submit: 2
+  1-model_trained_from_4x4x4/mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 3: 1-model_trained_from_4x4x4/mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: 1-model_trained_from_4x4x4/mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+Submitted job 60400043: 1-model_trained_from_4x4x4/mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+Archived as run 3: 2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: 2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+Submitted job 60400044: 2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_23Oct2026_10-50AM/T_0100K/Best_of_Best
+
+Submitted: 2
+

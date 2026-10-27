@@ -11972,3 +11972,26 @@ Submitted job 60400044: 2-model_trained_from_6x6x6/mc_runs/7-7Y/MC_Run_23Oct2026
 
 Submitted: 2
 
+======================================================================
+2026-10-27 16:19 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again
+$ vtriage list converged
+Result: 11 folders
+
+converged | mc_run_1vac/7-7Y/MC_Run_26Oct2026_09-23AM/T_0100K/Best_of_Best | -5579.50809197 eV
+converged | mc_run_1vac/8-8Y/MC_Run_26Oct2026_09-27AM/T_0100K/Best_of_Best | -5576.95625713 eV
+    slurm-60312274.out: DAV:  41    -0.575024350225E+04   -0.17380E+03   -0.46801E-03  9504   0.492E-02BRMIX: very serious problems
+converged | mc_run_1vac/9-9Y/MC_Run_26Oct2026_09-30AM/T_0100K/Best_of_Best | -5576.21012861 eV
+    slurm-60312275.out: DAV:  43    -0.661933486952E+04   -0.10437E+04   -0.49014E-05  6272   0.872E-03BRMIX: very serious problems
+converged | mc_run_2vac/10-10Y/MC_Run_26Oct2026_10-29AM/T_0100K/Best_of_Best | -5559.30776934 eV
+    slurm-60317841.out: DAV:  43    -0.571688560228E+04   -0.15870E+03   -0.10808E-03 10368   0.550E-02BRMIX: very serious problems
+converged | mc_run_2vac/8-8Y/MC_Run_26Oct2026_10-22AM/T_0100K/Best_of_Best | -5561.60420866 eV
+converged | mc_run_2vac/9-9Y/MC_Run_26Oct2026_10-26AM/T_0100K/Best_of_Best | -5561.18688908 eV
+    slurm-60317851.out: DAV:  47    -0.594340753890E+04   -0.38295E+03   -0.26808E-03 10464   0.975E-02BRMIX: very serious problems
+converged | mc_run_4vac/10-10Y/MC_Run_26Oct2026_11-15AM/T_0100K/Best_of_Best | -5528.44732129 eV
+    slurm-60317913.out: DAV:  40    -0.605986543225E+04   -0.53300E+03   -0.91475E-06  5280   0.896E-03BRMIX: very serious problems
+converged | mc_run_4vac/6-6Y/MC_Run_26Oct2026_11-01AM/T_0100K/Best_of_Best | -5533.10472457 eV
+converged | mc_run_4vac/7-7Y/MC_Run_26Oct2026_11-05AM/T_0100K/Best_of_Best | -5533.03185095 eV
+converged | mc_run_4vac/8-8Y/MC_Run_26Oct2026_11-08AM/T_0100K/Best_of_Best | -5530.93814997 eV
+    slurm-60317922.out: DAV:  36    -0.563679185928E+04   -0.10741E+03   -0.39908E-04  8640   0.253E-02BRMIX: very serious problems
+converged | mc_run_4vac/9-9Y/MC_Run_26Oct2026_11-12AM/T_0100K/Best_of_Best | -5530.21215086 eV
+

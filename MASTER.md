@@ -11833,3 +11833,16 @@ Folders under .: 9
   converged: 5
   running or pending: 4
 
+======================================================================
+2026-10-27 07:38 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_4vac
+$ vtriage list converged
+Result: 5 folders
+
+converged | 10-10Y/MC_Run_26Oct2026_11-15AM/T_0100K/Best_of_Best | -5528.44732129 eV
+    slurm-60317913.out: DAV:  40    -0.605986543225E+04   -0.53300E+03   -0.91475E-06  5280   0.896E-03BRMIX: very serious problems
+converged | 6-6Y/MC_Run_26Oct2026_11-01AM/T_0100K/Best_of_Best | -5533.10472457 eV
+converged | 7-7Y/MC_Run_26Oct2026_11-05AM/T_0100K/Best_of_Best | -5533.03185095 eV
+converged | 8-8Y/MC_Run_26Oct2026_11-08AM/T_0100K/Best_of_Best | -5530.93814997 eV
+    slurm-60317922.out: DAV:  36    -0.563679185928E+04   -0.10741E+03   -0.39908E-04  8640   0.253E-02BRMIX: very serious problems
+converged | 9-9Y/MC_Run_26Oct2026_11-12AM/T_0100K/Best_of_Best | -5530.21215086 eV
+

@@ -6907,3 +6907,22 @@ Type yes to save each run and submit: Submitted job 60365755: 10-10Y/MC_Run_26Oc
 
 Submitted: 1
 
+======================================================================
+2026-10-27 07:37 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 5
+  pending: 4
+  running: 1
+
+All my jobs in the queue: 28
+  pending: 20
+  running: 8
+  free slots under limit 100: 72
+
+Folders under .: 9
+  converged: 3
+  crashed: 1
+  running or pending: 5
+

@@ -11762,3 +11762,16 @@ Folders to change: 1
 Type yes to save each run and apply the changes: Archived as run 1: 10-10Y/MC_Run_26Oct2026_09-33AM/T_0100K/Best_of_Best
 Changed: 10-10Y/MC_Run_26Oct2026_09-33AM/T_0100K/Best_of_Best
 
+======================================================================
+2026-10-27 07:37 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_1vac
+$ vtriage submit --status crashed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_1vac
+Result: finished
+
+Jobs in queue: 27 of limit 100
+
+Folders to submit: 1
+  10-10Y/MC_Run_26Oct2026_09-33AM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60365755: 10-10Y/MC_Run_26Oct2026_09-33AM/T_0100K/Best_of_Best
+
+Submitted: 1
+

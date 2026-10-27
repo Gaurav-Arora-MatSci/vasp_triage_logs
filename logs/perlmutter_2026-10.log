@@ -6863,3 +6863,21 @@ Result: 1 folders
 crashed | 10-10Y/MC_Run_26Oct2026_09-33AM/T_0100K/Best_of_Best
     slurm-60312265.out: [2026-10-26T18:11:31.700] error: *** STEP 60312265.0 ON nid004489 CANCELLED AT 2026-10-26T18:11:31 DUE TO TASK FAILURE ***
 
+======================================================================
+2026-10-27 07:36 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_1vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 5
+  running: 5
+
+All my jobs in the queue: 27
+  pending: 19
+  running: 8
+  free slots under limit 100: 73
+
+Folders under .: 9
+  converged: 3
+  crashed: 1
+  running or pending: 5
+

@@ -11723,3 +11723,11 @@ running or pending | 4-4Y/MC_Run_26Oct2026_09-13AM/T_0100K/Best_of_Best
 running or pending | 5-5Y/MC_Run_26Oct2026_09-17AM/T_0100K/Best_of_Best
 running or pending | 6-6Y/MC_Run_26Oct2026_09-20AM/T_0100K/Best_of_Best
 
+======================================================================
+2026-10-27 07:35 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_1vac
+$ vtriage list crashed SCF diverged incomplete
+Result: 1 folders
+
+crashed | 10-10Y/MC_Run_26Oct2026_09-33AM/T_0100K/Best_of_Best
+    slurm-60312265.out: [2026-10-26T18:11:31.700] error: *** STEP 60312265.0 ON nid004489 CANCELLED AT 2026-10-26T18:11:31 DUE TO TASK FAILURE ***
+

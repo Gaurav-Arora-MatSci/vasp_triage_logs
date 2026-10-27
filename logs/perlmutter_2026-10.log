@@ -6948,3 +6948,20 @@ running or pending | 5-5Y/MC_Run_26Oct2026_10-12AM/T_0100K/Best_of_Best
 running or pending | 6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best
 running or pending | 7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best
 
+======================================================================
+2026-10-27 07:38 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_4vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 4
+  pending: 4
+
+All my jobs in the queue: 28
+  pending: 20
+  running: 8
+  free slots under limit 100: 72
+
+Folders under .: 9
+  converged: 5
+  running or pending: 4
+

@@ -7065,3 +7065,11 @@ Folders under .: 10
   converged: 9
   crashed: 1
 
+======================================================================
+2026-10-27 16:18 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4
+$ vtriage list crashed SCF diverged incomplete
+Result: 1 folders
+
+crashed | mc_runs/7-7Y/MC_Run_23Oct2026_10-51AM/T_0100K/Best_of_Best
+    slurm-60330578.out: [2026-10-27T11:47:11.182] error: *** STEP 60330578.0 ON nid005367 CANCELLED AT 2026-10-27T11:47:11 DUE TO TIME LIMIT ***
+

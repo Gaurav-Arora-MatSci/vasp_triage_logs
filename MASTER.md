@@ -12089,3 +12089,53 @@ Submitted job 60400236: mc_run_4vac/3-3Y/MC_Run_26Oct2026_10-51AM/T_0100K/Best_o
 
 Submitted: 13
 
+======================================================================
+2026-10-27 16:21 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage list crashed SCF diverged incomplete
+Result: 20 folders
+
+crashed | mc_runs_1vac/2-2Y/MC_Run_22Oct2026_03-31PM/T_0100K/Best_of_Best
+    slurm-60341922.out: [2026-10-27T16:51:11.936] error: *** STEP 60341922.0 ON nid005790 CANCELLED AT 2026-10-27T16:51:11 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+    slurm-60341923.out: [2026-10-27T16:51:42.149] error: *** STEP 60341923.0 ON nid004480 CANCELLED AT 2026-10-27T16:51:42 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/4-4Y/MC_Run_22Oct2026_03-37PM/T_0100K/Best_of_Best
+    slurm-60341927.out: [2026-10-27T17:16:43.058] error: *** STEP 60341927.0 ON nid004397 CANCELLED AT 2026-10-27T17:16:43 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/5-5Y/MC_Run_22Oct2026_03-41PM/T_0100K/Best_of_Best
+    slurm-60341930.out: [2026-10-27T17:17:13.022] error: *** STEP 60341930.0 ON nid004475 CANCELLED AT 2026-10-27T17:17:13 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
+    slurm-60341931.out: [2026-10-27T17:48:42.705] error: *** STEP 60341931.0 ON nid004967 CANCELLED AT 2026-10-27T17:48:42 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best
+    slurm-60341932.out: [2026-10-27T17:49:42.721] error: *** STEP 60341932.0 ON nid007002 CANCELLED AT 2026-10-27T17:49:42 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+    slurm-60341933.out: [2026-10-27T18:40:13.098] error: *** STEP 60341933.0 ON nid004481 CANCELLED AT 2026-10-27T18:40:13 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+    slurm-60341934.out: [2026-10-27T18:40:43.696] error: *** STEP 60341934.0 ON nid005920 CANCELLED AT 2026-10-27T18:40:43 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+    slurm-60341937.out: [2026-10-27T19:13:50.088] error: *** STEP 60341937.0 ON nid005752 CANCELLED AT 2026-10-27T19:13:50 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+    slurm-60341940.out: [2026-10-27T19:15:25.049] error: *** STEP 60341940.0 ON nid004227 CANCELLED AT 2026-10-27T19:15:25 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+    slurm-60326406.out: [2026-10-27T00:12:24.094] error: *** STEP 60326406.0 ON nid004152 CANCELLED AT 2026-10-27T00:12:24 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best
+    slurm-60341941.out: [2026-10-27T20:04:53.264] error: *** STEP 60341941.0 ON nid004230 CANCELLED AT 2026-10-27T20:04:53 DUE TO TIME LIMIT ***
+crashed | mc_runs_4vac/2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+    slurm-60326783.out: [2026-10-27T03:45:37.139] error: *** STEP 60326783.0 ON nid005097 CANCELLED AT 2026-10-27T03:45:37 DUE TO TIME LIMIT ***
+SCF diverged | mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+    slurm-60326722.out: [2026-10-27T00:20:07.104] error: *** JOB 60326722 ON nid005879 CANCELLED AT 2026-10-27T00:20:07 DUE TO TIME LIMIT ***
+    last SCF energy -2.3e+10 eV, -5.37e+07 eV per atom, check POSCAR and POTCAR
+crashed | mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+    slurm-60326723.out: [2026-10-27T01:04:38.952] error: *** STEP 60326723.0 ON nid004286 CANCELLED AT 2026-10-27T01:04:38 DUE TO TASK FAILURE ***
+SCF diverged | mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+    slurm-60326724.out: [2026-10-27T02:05:46.113] error: *** STEP 60326724.0 ON nid006429 CANCELLED AT 2026-10-27T02:05:46 DUE TO TIME LIMIT ***
+    last SCF energy -4.51e+10 eV, -1.05e+08 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+    slurm-60326725.out: [2026-10-27T03:01:45.189] error: *** STEP 60326725.0 ON nid005357 CANCELLED AT 2026-10-27T03:01:45 DUE TO TIME LIMIT ***
+    last SCF energy -4.39e+10 eV, -1.03e+08 eV per atom, check POSCAR and POTCAR
+crashed | mc_runs_4vac/7-7Y/MC_Run_22Oct2026_04-48PM/T_0100K/Best_of_Best
+    slurm-60326726.out: [2026-10-27T03:02:54.359] error: *** STEP 60326726.0 ON nid004224 CANCELLED AT 2026-10-27T03:02:54 DUE TO TIME LIMIT ***
+crashed | mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_of_Best
+    slurm-60326727.out: [2026-10-27T03:22:30.058] error: *** STEP 60326727.0 ON nid004989 CANCELLED AT 2026-10-27T03:22:30 DUE TO TIME LIMIT ***
+SCF diverged | mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+    slurm-60326728.out: [2026-10-27T03:22:30.063] error: *** STEP 60326728.0 ON nid005263 CANCELLED AT 2026-10-27T03:22:30 DUE TO TIME LIMIT ***
+    last SCF energy -2.29e+06 eV, -5.35e+03 eV per atom, check POSCAR and POTCAR
+

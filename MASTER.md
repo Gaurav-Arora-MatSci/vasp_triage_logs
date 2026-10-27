@@ -11877,3 +11877,21 @@ Folders under .: 9
   converged: 4
   running or pending: 5
 
+======================================================================
+2026-10-27 07:41 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_2vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 6
+  pending: 6
+
+All my jobs in the queue: 28
+  pending: 20
+  running: 8
+  free slots under limit 100: 72
+
+Folders under .: 9
+  converged: 2
+  crashed: 1
+  running or pending: 6
+

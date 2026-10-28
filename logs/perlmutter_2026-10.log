@@ -7743,3 +7743,36 @@ SCF diverged | mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
     slurm-60326728.out: [2026-10-27T03:22:30.063] error: *** STEP 60326728.0 ON nid005263 CANCELLED AT 2026-10-27T03:22:30 DUE TO TIME LIMIT ***
     last SCF energy -2.29e+06 eV, -5.35e+03 eV per atom, check POSCAR and POTCAR
 
+======================================================================
+2026-10-28 09:23 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage edit --status SCF diverged --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6 --set ALGO=All
+Result: finished
+
+
+mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+  ALGO: Normal -> All
+
+Folders to change: 5
+Type yes to save each run and apply the changes: Archived as run 1: mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+Changed: mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+Archived as run 2: mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+Changed: mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+Changed: mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+Changed: mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+Archived as run 1: mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+Changed: mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+

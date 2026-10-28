@@ -12590,3 +12590,24 @@ Submitted job 60446835: mc_runs_4vac/2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_
 
 Submitted: 12
 
+======================================================================
+2026-10-28 09:22 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage list SCF diverged
+Result: 5 folders
+
+SCF diverged | mc_runs_4vac/3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+    slurm-60326722.out: [2026-10-27T00:20:07.104] error: *** JOB 60326722 ON nid005879 CANCELLED AT 2026-10-27T00:20:07 DUE TO TIME LIMIT ***
+    last SCF energy -2.3e+10 eV, -5.37e+07 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_4vac/4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+    slurm-60400354.out: [2026-10-28T11:12:36.066] error: *** STEP 60400354.0 ON nid004341 CANCELLED AT 2026-10-28T11:12:36 DUE TO TIME LIMIT ***
+    last SCF energy -2.16e+09 eV, -5.04e+06 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_4vac/5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+    slurm-60326724.out: [2026-10-27T02:05:46.113] error: *** STEP 60326724.0 ON nid006429 CANCELLED AT 2026-10-27T02:05:46 DUE TO TIME LIMIT ***
+    last SCF energy -4.51e+10 eV, -1.05e+08 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_4vac/6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+    slurm-60326725.out: [2026-10-27T03:01:45.189] error: *** STEP 60326725.0 ON nid005357 CANCELLED AT 2026-10-27T03:01:45 DUE TO TIME LIMIT ***
+    last SCF energy -4.39e+10 eV, -1.03e+08 eV per atom, check POSCAR and POTCAR
+SCF diverged | mc_runs_4vac/9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+    slurm-60326728.out: [2026-10-27T03:22:30.063] error: *** STEP 60326728.0 ON nid005263 CANCELLED AT 2026-10-27T03:22:30 DUE TO TIME LIMIT ***
+    last SCF energy -2.29e+06 eV, -5.35e+03 eV per atom, check POSCAR and POTCAR
+

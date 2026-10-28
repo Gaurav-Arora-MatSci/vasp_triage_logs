@@ -12228,3 +12228,17 @@ Submitted job 60400357: mc_runs_4vac/8-8Y/MC_Run_22Oct2026_04-51PM/T_0100K/Best_
 
 Submitted: 16
 
+======================================================================
+2026-10-28 07:41 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac
+$ vtriage status
+Result: checked
+
+Jobs from this folder: 0
+
+All my jobs in the queue: 0
+  free slots under limit 100: 100
+
+Folders under .: 20
+  converged: 19
+  missing inputs: 1
+

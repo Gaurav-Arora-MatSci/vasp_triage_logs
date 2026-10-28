@@ -12491,3 +12491,33 @@ crashed | mc_runs_2vac/6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
 crashed | mc_runs_4vac/2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
     slurm-60400353.out: [2026-10-28T10:39:57.091] error: *** STEP 60400353.0 ON nid004927 CANCELLED AT 2026-10-28T10:39:57 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-28 09:22 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage list crashed
+Result: 12 folders
+
+crashed | mc_runs_1vac/2-2Y/MC_Run_22Oct2026_03-31PM/T_0100K/Best_of_Best
+    slurm-60400300.out: [2026-10-28T06:54:18.608] error: *** STEP 60400300.0 ON nid004267 CANCELLED AT 2026-10-28T06:54:18 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+    slurm-60400301.out: Inconsistent Bravais lattice types found for crystalline and
+crashed | mc_runs_1vac/4-4Y/MC_Run_22Oct2026_03-37PM/T_0100K/Best_of_Best
+    slurm-60400307.out: [2026-10-28T07:38:36.044] error: *** STEP 60400307.0 ON nid006033 CANCELLED AT 2026-10-28T07:38:36 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/5-5Y/MC_Run_22Oct2026_03-41PM/T_0100K/Best_of_Best
+    slurm-60400308.out: [2026-10-28T08:26:36.340] error: *** STEP 60400308.0 ON nid004602 CANCELLED AT 2026-10-28T08:26:36 DUE TO TIME LIMIT ***
+crashed | mc_runs_1vac/7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
+    slurm-60400310.out: [2026-10-28T08:27:05.017] error: *** STEP 60400310.0 ON nid004967 CANCELLED AT 2026-10-28T08:27:05 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best
+    slurm-60400342.out: [2026-10-28T09:06:41.105] error: *** STEP 60400342.0 ON nid004512 CANCELLED AT 2026-10-28T09:06:41 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+    slurm-60400343.out: [2026-10-28T09:06:41.109] error: *** JOB 60400343 ON nid004599 CANCELLED AT 2026-10-28T09:06:41 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+    slurm-60400346.out: [2026-10-28T09:32:04.338] error: *** STEP 60400346.0 ON nid005505 CANCELLED AT 2026-10-28T09:32:04 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+    slurm-60400348.out: [2026-10-28T09:35:09.980] error: *** STEP 60400348.0 ON nid004259 CANCELLED AT 2026-10-28T09:35:09 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+    slurm-60400349.out: [2026-10-28T10:10:16.475] error: *** STEP 60400349.0 ON nid004168 CANCELLED AT 2026-10-28T10:10:16 DUE TO TIME LIMIT ***
+crashed | mc_runs_2vac/6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+    slurm-60400351.out: [2026-10-28T10:10:16.473] error: *** STEP 60400351.0 ON nid006492 CANCELLED AT 2026-10-28T10:10:16 DUE TO TIME LIMIT ***
+crashed | mc_runs_4vac/2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+    slurm-60400353.out: [2026-10-28T10:39:57.091] error: *** STEP 60400353.0 ON nid004927 CANCELLED AT 2026-10-28T10:39:57 DUE TO TIME LIMIT ***
+

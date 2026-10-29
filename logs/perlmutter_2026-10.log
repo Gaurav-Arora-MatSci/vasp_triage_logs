@@ -7982,3 +7982,17 @@ Folders to change: 1
 Type yes to save each run and apply the changes: Archived as run 3: 2-2Y/MC_Run_26Oct2026_10-02AM/T_0100K/Best_of_Best
 Changed: 2-2Y/MC_Run_26Oct2026_10-02AM/T_0100K/Best_of_Best
 
+======================================================================
+2026-10-29 09:38 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac
+$ vtriage submit --status crashed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac --force
+Result: finished
+
+Jobs in queue: 0 of limit 100
+Warning: same error as previous run (cancelled). Change settings first: 2-2Y/MC_Run_26Oct2026_10-02AM/T_0100K/Best_of_Best
+
+Folders to submit: 1
+  2-2Y/MC_Run_26Oct2026_10-02AM/T_0100K/Best_of_Best
+Type yes to save each run and submit: Submitted job 60494582: 2-2Y/MC_Run_26Oct2026_10-02AM/T_0100K/Best_of_Best
+
+Submitted: 1
+

@@ -12881,3 +12881,19 @@ converged | 8-8Y/MC_Run_26Oct2026_11-08AM/T_0100K/Best_of_Best | -5530.93814997 
     slurm-60317922.out: DAV:  36    -0.563679185928E+04   -0.10741E+03   -0.39908E-04  8640   0.253E-02BRMIX: very serious problems
 converged | 9-9Y/MC_Run_26Oct2026_11-12AM/T_0100K/Best_of_Best | -5530.21215086 eV
 
+======================================================================
+2026-10-29 09:40 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_1vac
+$ vtriage list crashed SCF diverged incomplete
+Result: 5 folders
+
+crashed | 2-2Y/MC_Run_22Oct2026_03-31PM/T_0100K/Best_of_Best
+    slurm-60446820.out: [2026-10-28T23:38:57.361] error: *** STEP 60446820.0 ON nid006351 CANCELLED AT 2026-10-28T23:38:57 DUE TO TIME LIMIT ***
+crashed | 3-3Y/MC_Run_22Oct2026_03-34PM/T_0100K/Best_of_Best
+    slurm-60446821.out: Inconsistent Bravais lattice types found for crystalline and
+crashed | 4-4Y/MC_Run_22Oct2026_03-37PM/T_0100K/Best_of_Best
+    slurm-60446822.out: [2026-10-28T23:50:50.294] error: *** STEP 60446822.0 ON nid004943 CANCELLED AT 2026-10-28T23:50:50 DUE TO TIME LIMIT ***
+crashed | 5-5Y/MC_Run_22Oct2026_03-41PM/T_0100K/Best_of_Best
+    slurm-60446823.out: [2026-10-28T23:50:50.264] error: *** STEP 60446823.0 ON nid004638 CANCELLED AT 2026-10-28T23:50:50 DUE TO TIME LIMIT ***
+crashed | 7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
+    slurm-60446824.out: [2026-10-29T00:03:26.932] error: *** STEP 60446824.0 ON nid006529 CANCELLED AT 2026-10-29T00:03:26 DUE TO TIME LIMIT ***
+

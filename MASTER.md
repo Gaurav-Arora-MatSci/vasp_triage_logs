@@ -12829,3 +12829,11 @@ Result: 1 folders
 crashed | 2-2Y/MC_Run_26Oct2026_10-02AM/T_0100K/Best_of_Best
     slurm-60446923.out: [2026-10-28T15:43:08.819] error: *** STEP 60446923.0 ON nid004380 CANCELLED AT 2026-10-28T15:43:08 DUE TO TASK FAILURE ***
 
+======================================================================
+2026-10-29 09:38 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac
+$ vtriage list crashed
+Result: 1 folders
+
+crashed | 2-2Y/MC_Run_26Oct2026_10-02AM/T_0100K/Best_of_Best
+    slurm-60446923.out: [2026-10-28T15:43:08.819] error: *** STEP 60446923.0 ON nid004380 CANCELLED AT 2026-10-28T15:43:08 DUE TO TASK FAILURE ***
+

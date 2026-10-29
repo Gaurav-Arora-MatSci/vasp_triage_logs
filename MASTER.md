@@ -13113,3 +13113,19 @@ Submitted job 60495460: 9-9Y/SQS_DFT
 
 Submitted: 9
 
+======================================================================
+2026-10-29 09:55 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs
+$ vtriage edit --status running or pending --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs --set ALGO=All
+Result: finished
+
+Running, skipped: 10-10Y/SQS_DFT
+Running, skipped: 2-2Y/SQS_DFT
+Running, skipped: 3-3Y/SQS_DFT
+Running, skipped: 4-4Y/SQS_DFT
+Running, skipped: 5-5Y/SQS_DFT
+Running, skipped: 6-6Y/SQS_DFT
+Running, skipped: 7-7Y/SQS_DFT
+Running, skipped: 8-8Y/SQS_DFT
+Running, skipped: 9-9Y/SQS_DFT
+Nothing to change.
+

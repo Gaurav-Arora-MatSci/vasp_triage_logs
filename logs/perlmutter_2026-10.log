@@ -7903,3 +7903,20 @@ converged | mc_run_4vac/8-8Y/MC_Run_26Oct2026_11-08AM/T_0100K/Best_of_Best | -55
     slurm-60317922.out: DAV:  36    -0.563679185928E+04   -0.10741E+03   -0.39908E-04  8640   0.253E-02BRMIX: very serious problems
 converged | mc_run_4vac/9-9Y/MC_Run_26Oct2026_11-12AM/T_0100K/Best_of_Best | -5530.21215086 eV
 
+======================================================================
+2026-10-29 09:35 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_1vac
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed SCF diverged incomplete running or pending not submitted missing inputs
+Result: 9 folders
+
+converged | 10-10Y/MC_Run_26Oct2026_09-33AM/T_0100K/Best_of_Best | -5573.0056969 eV
+converged | 2-2Y/MC_Run_26Oct2026_09-07AM/T_0100K/Best_of_Best | -5583.99281102 eV
+converged | 3-3Y/MC_Run_26Oct2026_09-10AM/T_0100K/Best_of_Best | -5583.45650606 eV
+converged | 4-4Y/MC_Run_26Oct2026_09-13AM/T_0100K/Best_of_Best | -5582.34141341 eV
+converged | 5-5Y/MC_Run_26Oct2026_09-17AM/T_0100K/Best_of_Best | -5580.3601293 eV
+converged | 6-6Y/MC_Run_26Oct2026_09-20AM/T_0100K/Best_of_Best | -5579.31888066 eV
+converged | 7-7Y/MC_Run_26Oct2026_09-23AM/T_0100K/Best_of_Best | -5579.50809197 eV
+converged | 8-8Y/MC_Run_26Oct2026_09-27AM/T_0100K/Best_of_Best | -5576.95625713 eV
+    slurm-60312274.out: DAV:  41    -0.575024350225E+04   -0.17380E+03   -0.46801E-03  9504   0.492E-02BRMIX: very serious problems
+converged | 9-9Y/MC_Run_26Oct2026_09-30AM/T_0100K/Best_of_Best | -5576.21012861 eV
+    slurm-60312275.out: DAV:  43    -0.661933486952E+04   -0.10437E+04   -0.49014E-05  6272   0.872E-03BRMIX: very serious problems
+

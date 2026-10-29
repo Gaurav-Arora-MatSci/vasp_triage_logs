@@ -8261,3 +8261,36 @@ Running, skipped: 8-8Y/SQS_DFT
 Running, skipped: 9-9Y/SQS_DFT
 Nothing to change.
 
+======================================================================
+2026-10-29 09:59 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage list not submitted
+Result: 27 folders
+
+not submitted | mc_runs_1vac/10-10Y/SQS_DFT
+not submitted | mc_runs_1vac/2-2Y/SQS_DFT
+not submitted | mc_runs_1vac/3-3Y/SQS_DFT
+not submitted | mc_runs_1vac/4-4Y/SQS_DFT
+not submitted | mc_runs_1vac/5-5Y/SQS_DFT
+not submitted | mc_runs_1vac/6-6Y/SQS_DFT
+not submitted | mc_runs_1vac/7-7Y/SQS_DFT
+not submitted | mc_runs_1vac/8-8Y/SQS_DFT
+not submitted | mc_runs_1vac/9-9Y/SQS_DFT
+not submitted | mc_runs_2vac/10-10Y/SQS_DFT
+not submitted | mc_runs_2vac/2-2Y/SQS_DFT
+not submitted | mc_runs_2vac/3-3Y/SQS_DFT
+not submitted | mc_runs_2vac/4-4Y/SQS_DFT
+not submitted | mc_runs_2vac/5-5Y/SQS_DFT
+not submitted | mc_runs_2vac/6-6Y/SQS_DFT
+not submitted | mc_runs_2vac/7-7Y/SQS_DFT
+not submitted | mc_runs_2vac/8-8Y/SQS_DFT
+not submitted | mc_runs_2vac/9-9Y/SQS_DFT
+not submitted | mc_runs_4vac/10-10Y/SQS_DFT
+not submitted | mc_runs_4vac/2-2Y/SQS_DFT
+not submitted | mc_runs_4vac/3-3Y/SQS_DFT
+not submitted | mc_runs_4vac/4-4Y/SQS_DFT
+not submitted | mc_runs_4vac/5-5Y/SQS_DFT
+not submitted | mc_runs_4vac/6-6Y/SQS_DFT
+not submitted | mc_runs_4vac/7-7Y/SQS_DFT
+not submitted | mc_runs_4vac/8-8Y/SQS_DFT
+not submitted | mc_runs_4vac/9-9Y/SQS_DFT
+

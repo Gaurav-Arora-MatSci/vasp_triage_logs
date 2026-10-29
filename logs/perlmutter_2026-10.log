@@ -8216,3 +8216,32 @@ Submitted job 60495158: 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
 
 Submitted: 6
 
+======================================================================
+2026-10-29 09:53 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs
+$ vtriage submit --status not submitted --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/1-W10-0vac/1-model_trained_from_4x4x4/mc_runs
+Result: finished
+
+Jobs in queue: 17 of limit 100
+
+Folders to submit: 9
+  10-10Y/SQS_DFT
+  2-2Y/SQS_DFT
+  3-3Y/SQS_DFT
+  4-4Y/SQS_DFT
+  5-5Y/SQS_DFT
+  6-6Y/SQS_DFT
+  7-7Y/SQS_DFT
+  8-8Y/SQS_DFT
+  9-9Y/SQS_DFT
+Type yes to save each run and submit: Submitted job 60495451: 10-10Y/SQS_DFT
+Submitted job 60495452: 2-2Y/SQS_DFT
+Submitted job 60495453: 3-3Y/SQS_DFT
+Submitted job 60495454: 4-4Y/SQS_DFT
+Submitted job 60495455: 5-5Y/SQS_DFT
+Submitted job 60495456: 6-6Y/SQS_DFT
+Submitted job 60495458: 7-7Y/SQS_DFT
+Submitted job 60495459: 8-8Y/SQS_DFT
+Submitted job 60495460: 9-9Y/SQS_DFT
+
+Submitted: 9
+

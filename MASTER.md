@@ -12805,3 +12805,19 @@ converged | 8-8Y/MC_Run_26Oct2026_09-27AM/T_0100K/Best_of_Best | -5576.95625713 
 converged | 9-9Y/MC_Run_26Oct2026_09-30AM/T_0100K/Best_of_Best | -5576.21012861 eV
     slurm-60312275.out: DAV:  43    -0.661933486952E+04   -0.10437E+04   -0.49014E-05  6272   0.872E-03BRMIX: very serious problems
 
+======================================================================
+2026-10-29 09:36 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/3-model_trained_on_5x5x5_again/mc_run_2vac
+$ vtriage list converged
+Result: 8 folders
+
+converged | 10-10Y/MC_Run_26Oct2026_10-29AM/T_0100K/Best_of_Best | -5559.30776934 eV
+    slurm-60317841.out: DAV:  43    -0.571688560228E+04   -0.15870E+03   -0.10808E-03 10368   0.550E-02BRMIX: very serious problems
+converged | 3-3Y/MC_Run_26Oct2026_10-06AM/T_0100K/Best_of_Best | -5567.68414827 eV
+converged | 4-4Y/MC_Run_26Oct2026_10-09AM/T_0100K/Best_of_Best | -5566.61024284 eV
+converged | 5-5Y/MC_Run_26Oct2026_10-12AM/T_0100K/Best_of_Best | -5564.84649785 eV
+converged | 6-6Y/MC_Run_26Oct2026_10-16AM/T_0100K/Best_of_Best | -5563.88597434 eV
+converged | 7-7Y/MC_Run_26Oct2026_10-19AM/T_0100K/Best_of_Best | -5563.19253329 eV
+converged | 8-8Y/MC_Run_26Oct2026_10-22AM/T_0100K/Best_of_Best | -5561.60420866 eV
+converged | 9-9Y/MC_Run_26Oct2026_10-26AM/T_0100K/Best_of_Best | -5561.18688908 eV
+    slurm-60317851.out: DAV:  47    -0.594340753890E+04   -0.38295E+03   -0.26808E-03 10464   0.975E-02BRMIX: very serious problems
+

@@ -13162,3 +13162,56 @@ not submitted | mc_runs_4vac/7-7Y/SQS_DFT
 not submitted | mc_runs_4vac/8-8Y/SQS_DFT
 not submitted | mc_runs_4vac/9-9Y/SQS_DFT
 
+======================================================================
+2026-10-29 10:00 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+$ vtriage submit --status not submitted --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6
+Result: finished
+
+Jobs in queue: 26 of limit 100
+
+Folders to submit: 20
+  mc_runs_1vac/10-10Y/SQS_DFT
+  mc_runs_1vac/2-2Y/SQS_DFT
+  mc_runs_1vac/3-3Y/SQS_DFT
+  mc_runs_1vac/4-4Y/SQS_DFT
+  mc_runs_1vac/5-5Y/SQS_DFT
+  mc_runs_1vac/6-6Y/SQS_DFT
+  mc_runs_1vac/7-7Y/SQS_DFT
+  mc_runs_1vac/8-8Y/SQS_DFT
+  mc_runs_1vac/9-9Y/SQS_DFT
+  mc_runs_2vac/10-10Y/SQS_DFT
+  mc_runs_2vac/2-2Y/SQS_DFT
+  mc_runs_2vac/3-3Y/SQS_DFT
+  mc_runs_2vac/4-4Y/SQS_DFT
+  mc_runs_2vac/5-5Y/SQS_DFT
+  mc_runs_2vac/6-6Y/SQS_DFT
+  mc_runs_2vac/7-7Y/SQS_DFT
+  mc_runs_2vac/8-8Y/SQS_DFT
+  mc_runs_2vac/9-9Y/SQS_DFT
+  mc_runs_4vac/10-10Y/SQS_DFT
+  mc_runs_4vac/2-2Y/SQS_DFT
+Not submitted now because of the limits: 7
+Type yes to save each run and submit: Submitted job 60495725: mc_runs_1vac/10-10Y/SQS_DFT
+Submitted job 60495726: mc_runs_1vac/2-2Y/SQS_DFT
+Submitted job 60495727: mc_runs_1vac/3-3Y/SQS_DFT
+Submitted job 60495729: mc_runs_1vac/4-4Y/SQS_DFT
+Submitted job 60495730: mc_runs_1vac/5-5Y/SQS_DFT
+Submitted job 60495732: mc_runs_1vac/6-6Y/SQS_DFT
+Submitted job 60495733: mc_runs_1vac/7-7Y/SQS_DFT
+Submitted job 60495734: mc_runs_1vac/8-8Y/SQS_DFT
+Submitted job 60495735: mc_runs_1vac/9-9Y/SQS_DFT
+Submitted job 60495736: mc_runs_2vac/10-10Y/SQS_DFT
+Submitted job 60495737: mc_runs_2vac/2-2Y/SQS_DFT
+Submitted job 60495738: mc_runs_2vac/3-3Y/SQS_DFT
+Submitted job 60495739: mc_runs_2vac/4-4Y/SQS_DFT
+Submitted job 60495740: mc_runs_2vac/5-5Y/SQS_DFT
+Submitted job 60495741: mc_runs_2vac/6-6Y/SQS_DFT
+Submitted job 60495742: mc_runs_2vac/7-7Y/SQS_DFT
+Submitted job 60495743: mc_runs_2vac/8-8Y/SQS_DFT
+Submitted job 60495744: mc_runs_2vac/9-9Y/SQS_DFT
+Submitted job 60495745: mc_runs_4vac/10-10Y/SQS_DFT
+Submitted job 60495746: mc_runs_4vac/2-2Y/SQS_DFT
+
+Submitted: 20
+Run the same command again later for the next batch.
+

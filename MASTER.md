@@ -13048,3 +13048,39 @@ crashed | 6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
 crashed | 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
     slurm-60446883.out: [2026-10-29T00:48:20.050] error: *** STEP 60446883.0 ON nid006888 CANCELLED AT 2026-10-29T00:48:20 DUE TO TIME LIMIT ***
 
+======================================================================
+2026-10-29 09:48 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_4vac
+$ vtriage submit --status crashed --root /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_4vac
+Result: finished
+
+Jobs in queue: 11 of limit 100
+Warning: same error as previous run (walltime). Change settings first: 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+
+Folders to submit: 6
+  2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+  9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best  (CONTCAR to POSCAR)
+Type yes to save each run and submit: Archived as run 4: 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+Submitted job 60495150: 2-2Y/MC_Run_22Oct2026_04-31PM/T_0100K/Best_of_Best
+Archived as run 2: 3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: 3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+Submitted job 60495151: 3-3Y/MC_Run_22Oct2026_04-34PM/T_0100K/Best_of_Best
+Archived as run 3: 4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: 4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+Submitted job 60495154: 4-4Y/MC_Run_22Oct2026_04-38PM/T_0100K/Best_of_Best
+Archived as run 2: 5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: 5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+Submitted job 60495155: 5-5Y/MC_Run_22Oct2026_04-41PM/T_0100K/Best_of_Best
+Archived as run 2: 6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: 6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+Submitted job 60495157: 6-6Y/MC_Run_22Oct2026_04-44PM/T_0100K/Best_of_Best
+Archived as run 2: 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+CONTCAR copied to POSCAR: 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+Submitted job 60495158: 9-9Y/MC_Run_22Oct2026_04-55PM/T_0100K/Best_of_Best
+
+Submitted: 6
+

@@ -12948,3 +12948,23 @@ Submitted job 60494832: 7-7Y/MC_Run_22Oct2026_03-47PM/T_0100K/Best_of_Best
 
 Submitted: 5
 
+======================================================================
+2026-10-29 09:45 | perlmutter | /pscratch/sd/g/garora/Villanova/mecxtrain_and_mcagent/2-W10-4vac-1vac-2vac/2-model_trained_on_6x6x6/mc_runs_2vac
+$ vtriage list converged crashed after reaching accuracy SCF not converged ionic not converged crashed SCF diverged incomplete running or pending not submitted missing inputs
+Result: 9 folders
+
+converged | 10-10Y/MC_Run_22Oct2026_04-28PM/T_0100K/Best_of_Best | -5557.89686135 eV
+crashed | 2-2Y/MC_Run_22Oct2026_04-01PM/T_0100K/Best_of_Best
+    slurm-60446826.out: [2026-10-29T00:11:52.084] error: *** JOB 60446826 ON nid004233 CANCELLED AT 2026-10-29T00:11:52 DUE TO TIME LIMIT ***
+crashed | 3-3Y/MC_Run_22Oct2026_04-04PM/T_0100K/Best_of_Best
+    slurm-60446828.out: [2026-10-29T00:12:54.186] error: *** STEP 60446828.0 ON nid004196 CANCELLED AT 2026-10-29T00:12:54 DUE TO TIME LIMIT ***
+crashed | 4-4Y/MC_Run_22Oct2026_04-07PM/T_0100K/Best_of_Best
+    slurm-60446829.out: [2026-10-29T00:22:02.248] error: *** STEP 60446829.0 ON nid006568 CANCELLED AT 2026-10-29T00:22:02 DUE TO TIME LIMIT ***
+crashed | 5-5Y/MC_Run_22Oct2026_04-11PM/T_0100K/Best_of_Best
+    slurm-60446830.out: [2026-10-29T00:23:35.843] error: *** STEP 60446830.0 ON nid004226 CANCELLED AT 2026-10-29T00:23:35 DUE TO TIME LIMIT ***
+crashed | 6-6Y/MC_Run_22Oct2026_04-14PM/T_0100K/Best_of_Best
+    slurm-60446831.out: [2026-10-29T00:28:47.705] error: *** STEP 60446831.0 ON nid006000 CANCELLED AT 2026-10-29T00:28:47 DUE TO TIME LIMIT ***
+converged | 7-7Y/MC_Run_22Oct2026_04-18PM/T_0100K/Best_of_Best | -5562.6760141 eV
+converged | 8-8Y/MC_Run_22Oct2026_04-21PM/T_0100K/Best_of_Best | -5560.29922815 eV
+converged | 9-9Y/MC_Run_22Oct2026_04-24PM/T_0100K/Best_of_Best | -5559.91199936 eV
+
